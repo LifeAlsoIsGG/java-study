@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="" />
+    <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure_Algorithm/dataStructure/sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/META-INF/Java_Study.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/dataStructure/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure_Algorithm/dataStructure/sort/InsertionSort.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -24,16 +33,20 @@
     </option>
   </component>
   <component name="ProjectId" id="1fo1EIVFCaSsdMlQWY4jYnQC1SK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../repository/CMB20210201/service/cmb202102" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -43,22 +56,9 @@
       <recent name="designPattern.abstractFactory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SelectionSort">
-    <configuration name="判断素数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.判断素数" />
-      <module name="DataStructure&amp;Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.dataStructure.sort.BubbleSort" />
+  <component name="RunManager" selected="Application.CountingSort">
+    <configuration name="CountingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.dataStructure.sort.CountingSort" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
@@ -70,21 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPattern.factory.FactoryMain" />
-      <module name="Java_Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designPattern.factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.dataStructure.sort.QuickSort" />
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.dataStructure.sort.HeapSort" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.dataStructure.sort.SelectionSort" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.dataStructure.sort.InsertionSort" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
@@ -109,12 +96,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPattern.singleton.SingletonMain" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.dataStructure.sort.MergeSort" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPattern.singleton.*" />
+          <option name="PATTERN" value="dataStructure_Algorithm.dataStructure.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.dataStructure.sort.ShellSort" />
+      <module name="Java_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructure_Algorithm.dataStructure.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.FactoryMain" />
-        <item itemvalue="Application.SingletonMain" />
+        <item itemvalue="Application.CountingSort" />
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.ShellSort" />
+        <item itemvalue="Application.InsertionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -187,6 +187,7 @@
       <workItem from="1603525280223" duration="875000" />
       <workItem from="1603789596352" duration="10586000" />
       <workItem from="1603817331000" duration="183000" />
+      <workItem from="1603817686709" duration="31953000" />
     </task>
     <servers />
   </component>
@@ -194,6 +195,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="744" y="377" width="821" height="357" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1603871914236">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="744" y="377" width="821" height="357" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603871914236" />
     <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1603178628834">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -208,39 +213,39 @@
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1599637321924" />
     <state x="686" y="217" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1603804952488" />
-    <state width="1875" height="196" key="GridCell.Tab.0.bottom" timestamp="1603813499873">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1491" height="159" key="GridCell.Tab.0.bottom" timestamp="1603990399765">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="142" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601541013027" />
-    <state width="1875" height="196" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1603813499873" />
+    <state width="1491" height="159" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603990399765" />
+    <state width="1875" height="196" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1603872138207" />
     <state width="1491" height="90" key="GridCell.Tab.0.bottom/0.22.1536.812@0.22.1536.812" timestamp="1598842296397" />
     <state width="1875" height="229" key="GridCell.Tab.0.bottom/0.28.1920.1022@0.28.1920.1022" timestamp="1598801233530" />
-    <state width="1875" height="196" key="GridCell.Tab.0.center" timestamp="1603813499872">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1491" height="159" key="GridCell.Tab.0.center" timestamp="1603990399765">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="142" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601541013026" />
-    <state width="1875" height="196" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1603813499872" />
+    <state width="1491" height="159" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603990399765" />
+    <state width="1875" height="196" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1603872138206" />
     <state width="1491" height="90" key="GridCell.Tab.0.center/0.22.1536.812@0.22.1536.812" timestamp="1598842296396" />
     <state width="1875" height="229" key="GridCell.Tab.0.center/0.28.1920.1022@0.28.1920.1022" timestamp="1598801233530" />
-    <state width="1875" height="196" key="GridCell.Tab.0.left" timestamp="1603813499872">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1491" height="159" key="GridCell.Tab.0.left" timestamp="1603990399764">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="142" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601541013026" />
-    <state width="1875" height="196" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1603813499872" />
+    <state width="1491" height="159" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603990399764" />
+    <state width="1875" height="196" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1603872138206" />
     <state width="1491" height="90" key="GridCell.Tab.0.left/0.22.1536.812@0.22.1536.812" timestamp="1598842296396" />
     <state width="1875" height="229" key="GridCell.Tab.0.left/0.28.1920.1022@0.28.1920.1022" timestamp="1598801233529" />
-    <state width="1875" height="196" key="GridCell.Tab.0.right" timestamp="1603813499872">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1491" height="159" key="GridCell.Tab.0.right" timestamp="1603990399765">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="142" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601541013027" />
-    <state width="1875" height="196" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1603813499872" />
+    <state width="1491" height="159" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603990399765" />
+    <state width="1875" height="196" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1603872138207" />
     <state width="1491" height="90" key="GridCell.Tab.0.right/0.22.1536.812@0.22.1536.812" timestamp="1598842296396" />
     <state width="1875" height="229" key="GridCell.Tab.0.right/0.28.1920.1022@0.28.1920.1022" timestamp="1598801233530" />
-    <state x="595" y="258" width="914" height="707" key="SettingsEditor" timestamp="1603804826226">
+    <state x="594" y="244" width="1223" height="708" key="SettingsEditor" timestamp="1603951229105">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="66" y="127" width="914" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1599823636362" />
-    <state x="595" y="258" width="1097" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603804826226" />
+    <state x="594" y="244" width="1223" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603951229105" />
     <state x="490" y="159" width="540" height="540" key="StructurePopup" timestamp="1601538449827">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -262,9 +267,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="641" y="383" width="637" height="408" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603804978054" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1603036362724">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="498" y="180" width="672" height="539" key="search.everywhere.popup" timestamp="1603958566203">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="498" y="180" width="672" height="539" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1603958566203" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1603036362724" />
   </component>
 </project>
