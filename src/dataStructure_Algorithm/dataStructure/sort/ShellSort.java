@@ -18,7 +18,7 @@ public class ShellSort {
         int gap = arr.length / 2;
         while (gap > 0){
             for (int i = gap; i < arr.length; i+=gap) {
-                for (int j = i; j > 0; j--) {
+                for (int j = i; j > 0; j-=gap) {
                     /*如果要插入的数小于排好序的最后一个数，即arr[j] < arr[j - 1]那就交换*/
                     if(arr[j] < arr[j - 1]){
                         int tmp = arr[j];

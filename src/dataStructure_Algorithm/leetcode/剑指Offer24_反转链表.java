@@ -74,8 +74,10 @@ public class 剑指Offer24_反转链表 {
         }
 
         ListNode reverse = reverseLinkList_recursion(head.next);
+        /*head.next为head的下一个，将head.next的下一个指回head，形成回路，同时让head指向null，这时候head就在head.next后面了*/
         head.next.next = head;
         head.next = null;
+        /*返回的reverse保留着head.next,而此时head.next已经是第一个了*/
         return reverse;
 
     }

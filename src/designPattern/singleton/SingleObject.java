@@ -30,5 +30,7 @@ public class SingleObject {
         SingleObject object = new SingleObject();
         object.showMsg();
 
+        System.out.println("202001".substring(4, 6));
+
     }
 }
