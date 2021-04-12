@@ -1,5 +1,6 @@
 package dataStructure_Algorithm.牛客网;
 
+
 /**
  * @WebName: ddd
  * @Description: TODO
@@ -8,6 +9,7 @@ package dataStructure_Algorithm.牛客网;
  * “Welcome,my master”
  */
 public class ddd {
+
     public static void main(String[] args) {
         Person p = new Person("阿大");
         change(p);
@@ -27,3 +29,5 @@ class Person {
         this.name = name;
     }
 }
+
+

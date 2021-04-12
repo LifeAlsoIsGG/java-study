@@ -1,5 +1,7 @@
 package dataStructure_Algorithm.牛客网;
 
+import dataStructure_Algorithm.dataStructure.ListNode;
+
 import java.util.*;
 
 /**
@@ -10,14 +12,6 @@ import java.util.*;
  * “Welcome,my master”
  */
 public class 输出降序链表的公共部分 {
-    public static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-    }
 
     public static int[] publicNum() {
         Scanner input = new Scanner(System.in);

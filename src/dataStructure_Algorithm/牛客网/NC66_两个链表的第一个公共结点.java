@@ -1,5 +1,7 @@
 package dataStructure_Algorithm.牛客网;
 
+import dataStructure_Algorithm.dataStructure.ListNode;
+
 /**
  * @WebName: NC66_两个链表的第一个公共结点
  * @Description: TODO
@@ -9,15 +11,6 @@ package dataStructure_Algorithm.牛客网;
  */
 public class NC66_两个链表的第一个公共结点 {
 
-    public static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int val) {
-            val = val;
-            next = null;
-        }
-    }
 
     /*双指针*/
     public static ListNode getIntersectionNode(ListNode headA, ListNode headB) {
@@ -37,6 +30,7 @@ public class NC66_两个链表的第一个公共结点 {
 
 
     public static void main(String[] args) {
+
         ListNode node1 = new ListNode(7);
         node1.next = new ListNode(2);
         node1.next.next = new ListNode(3);

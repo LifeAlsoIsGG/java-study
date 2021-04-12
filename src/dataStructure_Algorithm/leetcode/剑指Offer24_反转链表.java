@@ -12,15 +12,6 @@ import java.util.Stack;
  */
 public class 剑指Offer24_反转链表 {
 
-    public static class ListNode {
-        int val;
-        ListNode next = null;
-
-        ListNode(int x) {
-            val = x;
-        }
-    }
-
     /*第一种：使用栈*/
     public static ListNode reverseLinkList_stack(ListNode head) {
         if (head == null || head.next == null) {
@@ -34,16 +25,16 @@ public class 剑指Offer24_反转链表 {
             head = head.next;
         }
 
-        ListNode listNode_2 = stack.pop();
-        ListNode listNode_3 = listNode_2;
+        head = stack.pop();
+        ListNode listNode = head;
 
         while (stack.size() > 0) {
-            listNode_2.next = stack.pop();
-            listNode_2 = listNode_2.next;
+            head.next = stack.pop();
+            head = head.next;
         }
-        listNode_2.next = null;
+        head.next = null;
 
-        return listNode_3;
+        return listNode;
     }
 
     /*第二种：使用双链表，按顺序遍历链表将每个节点插入到新链表的头结点上，
