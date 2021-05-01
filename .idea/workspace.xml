@@ -53,8 +53,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../music-recognition/music-recognition-service" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -73,13 +73,13 @@
       <recent name="D:\亿方云同步\personal_space\repository\Java-Study\src\redisDemo\JedisDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.L234_回文链表">
-    <configuration name="BuildingHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xiecheng.BuildingHouse" />
+  <component name="RunManager" selected="Application.SortCompare">
+    <configuration name="ComparableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.ComparableTest" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xiecheng.*" />
+          <option name="PATTERN" value="dataStructure_Algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="alibaba.Exit" />
+    <configuration name="GenerateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.sort.GenerateArray" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="alibaba.*" />
+          <option name="PATTERN" value="dataStructure_Algorithm.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xiecheng.test" />
+    <configuration name="SortCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.sort.SortCompare" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xiecheng.*" />
+          <option name="PATTERN" value="dataStructure_Algorithm.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +127,11 @@
       </method>
     </configuration>
     <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="alibaba.test2" />
+      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.test.alibaba.test2" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="alibaba.*" />
+          <option name="PATTERN" value="dataStructure_Algorithm.test.alibaba.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortCompare" />
+        <item itemvalue="Application.GenerateArray" />
+        <item itemvalue="Application.ComparableTest" />
         <item itemvalue="Application.L234_回文链表" />
         <item itemvalue="Application.test2" />
-        <item itemvalue="Application.Exit" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.BuildingHouse" />
       </list>
     </recent_temporary>
   </component>
@@ -234,6 +234,9 @@
       <workItem from="1618810667513" duration="684000" />
       <workItem from="1619530536984" duration="109000" />
       <workItem from="1619530821348" duration="11832000" />
+      <workItem from="1619675073548" duration="1831000" />
+      <workItem from="1619714104897" duration="4216000" />
+      <workItem from="1619878618670" duration="6231000" />
     </task>
     <servers />
   </component>
@@ -251,30 +254,34 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="767" y="369" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1619880000014">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="767" y="369" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1619880000014" />
     <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1618486065527">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1618486065527" />
-    <state x="686" y="217" key="FileChooserDialogImpl" timestamp="1619531480965">
+    <state x="686" y="217" key="FileChooserDialogImpl" timestamp="1619678981995">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="686" y="217" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1619531480965" />
-    <state width="1877" height="194" key="GridCell.Tab.0.bottom" timestamp="1619575265713">
+    <state x="686" y="217" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1619678981995" />
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1619889075701">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="194" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1619575265713" />
-    <state width="1877" height="194" key="GridCell.Tab.0.center" timestamp="1619575265713">
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1619889075701" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1619889075701">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="194" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1619575265713" />
-    <state width="1877" height="194" key="GridCell.Tab.0.left" timestamp="1619575265712">
+    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1619889075701" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1619889075701">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="194" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1619575265712" />
-    <state width="1877" height="194" key="GridCell.Tab.0.right" timestamp="1619575265713">
+    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1619889075701" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1619889075701">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="194" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1619575265713" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1619889075701" />
     <state width="1875" height="275" key="GridCell.Tab.1.bottom" timestamp="1618491295740">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -291,14 +298,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1875" height="275" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1618491295740" />
-    <state x="315" y="145" width="1223" height="708" key="SettingsEditor" timestamp="1619572695463">
+    <state x="439" y="256" width="1223" height="708" key="SettingsEditor" timestamp="1619880429431">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="315" y="145" width="1223" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1619572695463" />
-    <state x="533" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1619675095397">
+    <state x="439" y="256" width="1223" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1619880429431" />
+    <state x="533" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1619879124335">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="533" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1619675095397" />
+    <state x="533" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1619879124335" />
     <state x="238" y="0" key="new project wizard" timestamp="1614613548565">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

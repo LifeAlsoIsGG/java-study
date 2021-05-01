@@ -14,7 +14,7 @@ import java.util.Arrays;
 public class ShellSort {
 
 
-    public static void ShellSort(int[] arr){
+    public static void shellSort(int[] arr){
         /*这里设置gap增量每次为上一次的/2*/
         int gap = arr.length / 2;
         while (gap > 0){
@@ -44,7 +44,7 @@ public class ShellSort {
         }*/
 
         int[] arr = { 4,7,6,5,3,2,8,1 };
-        ShellSort(arr);
+        shellSort(arr);
         System.out.println(Arrays.toString(arr));
 
     }
