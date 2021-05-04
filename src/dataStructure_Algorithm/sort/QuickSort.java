@@ -71,7 +71,7 @@ public class QuickSort {
 
     public static void main(String[] args) {
         int[] arr = { 4,7,6,5,3,2,8,1 };
-        quickSort_2(arr, 0, arr.length - 1);
+        quickSort_1(arr, 0, arr.length - 1);
         System.out.println("排序后:");
         System.out.println(Arrays.toString(arr));
 

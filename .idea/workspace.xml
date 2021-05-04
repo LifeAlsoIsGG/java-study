@@ -73,9 +73,9 @@
       <recent name="D:\亿方云同步\personal_space\repository\Java-Study\src\redisDemo\JedisDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortCompare">
+  <component name="RunManager" selected="Application.SequenceList">
     <configuration name="ComparableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.ComparableTest" />
+      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.sort.ComparableTest" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
@@ -87,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenerateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.sort.GenerateArray" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.sort.QuickSort" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dataStructure_Algorithm.sort.*" />
+          <option name="PATTERN" value="dataStructure_Algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L234_回文链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.leetcode.L234_回文链表" />
+    <configuration name="SequenceList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.dataStructure.SequenceList" />
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dataStructure_Algorithm.leetcode.*" />
+          <option name="PATTERN" value="dataStructure_Algorithm.dataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.sort.ShellSort" />
+      <module name="Java_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructure_Algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,20 +131,7 @@
       <module name="Java_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dataStructure_Algorithm.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.test.alibaba.test2" />
-      <module name="Java_Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataStructure_Algorithm.test.alibaba.*" />
+          <option name="PATTERN" value="dataStructure_Algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SequenceList" />
         <item itemvalue="Application.SortCompare" />
-        <item itemvalue="Application.GenerateArray" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.ShellSort" />
         <item itemvalue="Application.ComparableTest" />
-        <item itemvalue="Application.L234_回文链表" />
-        <item itemvalue="Application.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +236,7 @@
       <workItem from="1619530821348" duration="11832000" />
       <workItem from="1619675073548" duration="1831000" />
       <workItem from="1619714104897" duration="4216000" />
-      <workItem from="1619878618670" duration="6231000" />
+      <workItem from="1619878618670" duration="28574000" />
     </task>
     <servers />
   </component>
@@ -258,30 +258,30 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="767" y="369" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1619880000014" />
-    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1618486065527">
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1620061601575">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1618486065527" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1620061601575" />
     <state x="686" y="217" key="FileChooserDialogImpl" timestamp="1619678981995">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="686" y="217" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1619678981995" />
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1619889075701">
+    <state width="1877" height="211" key="GridCell.Tab.0.bottom" timestamp="1620063309757">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1619889075701" />
-    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1619889075701">
+    <state width="1877" height="211" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1620063309757" />
+    <state width="1877" height="211" key="GridCell.Tab.0.center" timestamp="1620063309757">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1619889075701" />
-    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1619889075701">
+    <state width="1877" height="211" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1620063309757" />
+    <state width="1877" height="211" key="GridCell.Tab.0.left" timestamp="1620063309757">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1619889075701" />
-    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1619889075701">
+    <state width="1877" height="211" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1620063309757" />
+    <state width="1877" height="211" key="GridCell.Tab.0.right" timestamp="1620063309757">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1619889075701" />
+    <state width="1877" height="211" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1620063309757" />
     <state width="1875" height="275" key="GridCell.Tab.1.bottom" timestamp="1618491295740">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -314,9 +314,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="697" y="390" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1619531683216" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1619573429482">
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1620063462148">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1619573429482" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1620063462148" />
   </component>
 </project>
