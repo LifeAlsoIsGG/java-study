@@ -1,10 +1,10 @@
 package dataStructure_Algorithm.dataStructure;
 
 import dataStructure_Algorithm.Student;
+import lombok.Synchronized;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Iterator;
+import java.util.*;
+import java.util.concurrent.SynchronousQueue;
 
 /**
  * @Package: dataStructure_Algorithm.sort
@@ -212,6 +212,9 @@ public class SequenceList<T> implements Iterable<T>{
         }
 
         Iterator<Student> iterator = students.iterator();
+
+        Map<Object, Object> objectObjectHashMap = Collections.synchronizedMap(new HashMap<Object, Object>()) ;
+
         ArrayList<Student> objects = new ArrayList<>();
     }
 
