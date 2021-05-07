@@ -18,7 +18,7 @@ public class MyClassLoader extends ClassLoader{
 
     public MyClassLoader(String libPath) {
         // TODO Auto-generated constructor stub
-        libPath = libPath;
+        this.libPath = libPath;
     }
 
 
