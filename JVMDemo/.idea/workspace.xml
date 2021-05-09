@@ -124,12 +124,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCLogTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.GCLogTest1" />
-      <module name="chapter17" />
-      <option name="VM_PARAMETERS" value="-Xms20M -Xmx20M -Xmn10M -XX:+PrintGCDetails -XX:SurvivorRatio=8 -XX:+UseSerialGC" />
+    <configuration name="StackStruTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.6" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.StackStruTest" />
+      <module name="chapter01" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.atguigu.java.*" />
@@ -140,13 +138,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackStruTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.6" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.StackStruTest" />
-      <module name="chapter01" />
+      <option name="MAIN_CLASS_NAME" value="java.lang.String" />
+      <module name="chapter02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.java.*" />
+          <option name="PATTERN" value="java.lang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,19 +161,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GCLogTest1" />
       <item itemvalue="Application.GCLogTest" />
       <item itemvalue="Application.StackStruTest" />
       <item itemvalue="Application.ClassLoaderTest1" />
       <item itemvalue="Application.ClassLoaderTest2" />
+      <item itemvalue="Application.String" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ClassLoaderTest2" />
+        <item itemvalue="Application.String" />
         <item itemvalue="Application.ClassLoaderTest1" />
         <item itemvalue="Application.StackStruTest" />
         <item itemvalue="Application.GCLogTest" />
-        <item itemvalue="Application.GCLogTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -279,6 +277,7 @@
       <workItem from="1620146075209" duration="2485000" />
       <workItem from="1620301002694" duration="1205000" />
       <workItem from="1620373736914" duration="5911000" />
+      <workItem from="1620551878786" duration="3130000" />
     </task>
     <servers />
   </component>
@@ -286,10 +285,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620388830701">
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620553278984">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1620388830701" />
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1620553278984" />
     <state width="1877" height="114" key="GridCell.Tab.0.bottom" timestamp="1620390759826">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

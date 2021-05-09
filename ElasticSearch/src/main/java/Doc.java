@@ -1,5 +1,7 @@
 import Entity.User;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import org.elasticsearch.action.get.GetRequest;
+import org.elasticsearch.action.get.GetResponse;
 import org.elasticsearch.action.index.IndexRequest;
 import org.elasticsearch.action.index.IndexResponse;
 import org.elasticsearch.action.update.UpdateRequest;
@@ -70,13 +72,31 @@ public class Doc {
 
     }
 
+    /**
+     * @description: 查询文档
+     **/
+    public static void getDoc() throws IOException {
+        //1.创建请求对象
+        GetRequest request = new GetRequest().index("user").id("1001");
+        //2.客户端发送请求，获取响应对象
+        GetResponse response = client.get(request, RequestOptions.DEFAULT);
+        //3.打印结果信息
+        System.out.println("_index:" + response.getIndex());
+        System.out.println("_type:" + response.getType());
+        System.out.println("_id:" + response.getId());
+        System.out.println("source:" + response.getSourceAsString());
+    }
+
 
     public static void main(String[] args) throws IOException {
         // 插入文档到某个索引下
 //        createDoc();
-        
+
         //修改文档中的某个属性
-        updateDoc();
+//        updateDoc();
+
+        //查找文档
+        getDoc();
         client.close();
 
     }
