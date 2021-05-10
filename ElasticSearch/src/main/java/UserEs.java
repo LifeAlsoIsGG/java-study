@@ -1,5 +1,3 @@
-package Entity;
-
 import lombok.Builder;
 import lombok.Data;
 
@@ -11,7 +9,7 @@ import lombok.Data;
  */
 @Data
 @Builder(toBuilder = true)
-public class User {
+public class UserEs {
     private String name;
     private Integer age;
     private String gender;

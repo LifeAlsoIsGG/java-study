@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>ElasticSearch</module>
+        <module>DataStructure_Algorithm</module>
         <module>MultiThread</module>
     </modules>
 
