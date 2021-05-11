@@ -10,7 +10,7 @@ import org.elasticsearch.client.RestHighLevelClient;
  */
 public class Es {
     private static final RestHighLevelClient client = new RestHighLevelClient(
-            RestClient.builder(new HttpHost("localhost", 9200, "http")));
+            RestClient.builder(new HttpHost("localhost", 1001, "http")));
 
     public static RestHighLevelClient getInstance() {
         return client;

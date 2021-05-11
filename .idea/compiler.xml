@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="DataStructure_Algorithm" />
         <module name="MultiThread" />
+        <module name="MultiThreading" />
         <module name="elasticSearch" />
       </profile>
     </annotationProcessing>
@@ -18,12 +19,14 @@
       <module name="Java_Study" target="1.8" />
       <module name="MultiThread" target="1.8" />
       <module name="multiThread" target="1.8" />
+      <module name="MultiThreading" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="DataStructure_Algorithm" options="-parameters" />
       <module name="MultiThread" options="-parameters" />
+      <module name="MultiThreading" options="-parameters" />
       <module name="elasticSearch" options="-parameters" />
       <module name="multiThread" options="-parameters" />
     </option>

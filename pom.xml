@@ -6,7 +6,7 @@
     <modules>
         <module>ElasticSearch</module>
         <module>DataStructure_Algorithm</module>
-        <module>MultiThread</module>
+        <module>MultiThreading</module>
     </modules>
 
     <parent>
