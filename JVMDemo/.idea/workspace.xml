@@ -1,7 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37ad470f-0e15-4db5-b6e2-9d076547c5da" name="Default Changelist" comment="" />
+    <list default="true" id="37ad470f-0e15-4db5-b6e2-9d076547c5da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElasticSearch/src/main/java/Doc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ElasticSearch/src/main/java/Doc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElasticSearch/src/main/java/Es.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ElasticSearch/src/main/java/Es.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElasticSearch/src/main/java/HelloEs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ElasticSearch/src/main/java/HelloEs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElasticSearch/src/main/java/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ElasticSearch/src/main/java/Index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElasticSearch/src/main/java/UserEs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ElasticSearch/src/main/java/UserEs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java1/LocalVariablesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java1/LocalVariablesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultiThreading/src/main/java/create/ThreadCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiThreading/src/main/java/create/ThreadCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultiThreading/src/main/java/竞态测试.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiThreading/src/main/java/竞态测试.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/dataStructure/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/dataStructure/SequenceList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/dataStructure/SparseArray/SparseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/dataStructure/queue/ArrayQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/dataStructure/search/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/leetcode/L05_最长回文子串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/leetcode/L234_回文链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/leetcode/L69_x的平方根.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/leetcode/Link.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer04_二维数组中的查找.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer05_替换空格.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer06_从尾到头打印链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer07_重建二叉树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer09_用两个栈实现队列.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer10_II_青蛙跳台阶问题.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer10_I_斐波那契数列.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer11_旋转数组的最小数字.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer12_矩阵中的路径.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer13_机器人的运动范围.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer24_反转链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/leetcode/找出数组中重复的数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/sort/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/sort/BucketSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/sort/ComparableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/sort/CountingSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/sort/HeapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/sort/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/sort/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/sort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/sort/RadixSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/sort/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/sort/ShellSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/sort/SortCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/test/alibaba/Exit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/test/alibaba/test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/test/cider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/test/tencent/hash.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/test/tencent/test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/test/xiecheng/BuildingHouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/test/字符统计.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/test/最长回文字符串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/判断素数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/合并数组按照升序排序.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/牛客网/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/牛客网/NC119_最小的K个数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/牛客网/NC32_求平方根.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/牛客网/NC45_实现二叉树先序和中序和后序遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/牛客网/NC4_判断链表中是否有环.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/牛客网/NC66_两个链表的第一个公共结点.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/牛客网/NC93_设计LRU缓存结构.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/牛客网/ddd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/牛客网/xxx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/牛客网/中位数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/牛客网/字符串压缩.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/牛客网/输出降序链表的公共部分.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/dataStructure_Algorithm/移除相同的数字.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/dataStructure/ListNode$ListNodeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/dataStructure/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/dataStructure/SequenceList$STerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/dataStructure/SequenceList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/dataStructure/SparseArray/SparseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/dataStructure/queue/ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/dataStructure/search/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/L05_最长回文子串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/L234_回文链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/L69_x的平方根.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/Link.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/剑指offer/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer04_二维数组中的查找.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer05_替换空格.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer06_从尾到头打印链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer07_重建二叉树$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer07_重建二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer09_用两个栈实现队列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer10_II_青蛙跳台阶问题.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer10_I_斐波那契数列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer11_旋转数组的最小数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer12_矩阵中的路径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer13_机器人的运动范围.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer24_反转链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/leetcode/找出数组中重复的数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/sort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/sort/BucketSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/sort/ComparableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/sort/CountingSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/sort/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/sort/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/sort/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/sort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/sort/RadixSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/sort/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/sort/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/sort/SortCompare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/test/alibaba/Exit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/test/alibaba/test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/test/cider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/test/tencent/hash$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/test/tencent/hash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/test/tencent/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/test/xiecheng/BuildingHouse$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/test/xiecheng/BuildingHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/test/字符统计$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/test/字符统计$ValueComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/test/字符统计.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/test/最长回文字符串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/判断素数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/合并数组按照升序排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/牛客网/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/牛客网/NC119_最小的K个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/牛客网/NC32_求平方根.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/牛客网/NC45_实现二叉树先序和中序和后序遍历$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/牛客网/NC45_实现二叉树先序和中序和后序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/牛客网/NC4_判断链表中是否有环.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/牛客网/NC66_两个链表的第一个公共结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/牛客网/NC93_设计LRU缓存结构.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/牛客网/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/牛客网/ddd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/牛客网/xxx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/牛客网/中位数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/牛客网/字符串压缩.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/牛客网/输出降序链表的公共部分.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/dataStructure_Algorithm/移除相同的数字.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +217,7 @@
       <recent name="D:\workspace_idea5\JVMDemo\chapter09\src\com\atguigu\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClassLoaderTest2">
+  <component name="RunManager" selected="Application.LocalVariablesTest">
     <configuration name="ClassLoaderTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.6" />
       <option name="MAIN_CLASS_NAME" value="com.atguigu.java1.ClassLoaderTest1" />
@@ -108,15 +246,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCLogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.GCLogTest" />
-      <module name="chapter17" />
-      <option name="VM_PARAMETERS" value="-Xms60m -Xmx60m -XX:+PrintGC -XX:+PrintGCDetails -Xloggc:./logs/gc.log" />
+    <configuration name="LocalVariablesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.6" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java1.LocalVariablesTest" />
+      <module name="chapter05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.java.*" />
+          <option name="PATTERN" value="com.atguigu.java1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,10 +260,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackStruTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="StackErrorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.6" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.StackStruTest" />
-      <module name="chapter01" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.StackErrorTest" />
+      <module name="chapter05" />
+      <option name="VM_PARAMETERS" value="-Xss256k" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.atguigu.java.*" />
@@ -161,19 +298,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GCLogTest" />
-      <item itemvalue="Application.StackStruTest" />
       <item itemvalue="Application.ClassLoaderTest1" />
       <item itemvalue="Application.ClassLoaderTest2" />
       <item itemvalue="Application.String" />
+      <item itemvalue="Application.StackErrorTest" />
+      <item itemvalue="Application.LocalVariablesTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LocalVariablesTest" />
+        <item itemvalue="Application.StackErrorTest" />
         <item itemvalue="Application.ClassLoaderTest2" />
         <item itemvalue="Application.String" />
         <item itemvalue="Application.ClassLoaderTest1" />
-        <item itemvalue="Application.StackStruTest" />
-        <item itemvalue="Application.GCLogTest" />
       </list>
     </recent_temporary>
   </component>
@@ -278,6 +415,8 @@
       <workItem from="1620301002694" duration="1205000" />
       <workItem from="1620373736914" duration="5911000" />
       <workItem from="1620551878786" duration="5117000" />
+      <workItem from="1620814359066" duration="1924000" />
+      <workItem from="1621215364799" duration="2927000" />
     </task>
     <servers />
   </component>
@@ -285,34 +424,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620553278984">
+    <state x="546" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621005042107">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1620553278984" />
-    <state width="1877" height="58" key="GridCell.Tab.0.bottom" timestamp="1620734838482">
+    <state x="546" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1621005042107" />
+    <state x="740" y="230" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1620814514744">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="58" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1620734838482" />
-    <state width="1877" height="58" key="GridCell.Tab.0.center" timestamp="1620734838482">
+    <state x="740" y="230" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1620814514744" />
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom" timestamp="1621005057509">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="58" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1620734838482" />
-    <state width="1877" height="58" key="GridCell.Tab.0.left" timestamp="1620734838482">
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1621005057509" />
+    <state width="1877" height="338" key="GridCell.Tab.0.center" timestamp="1621005057508">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="58" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1620734838482" />
-    <state width="1877" height="58" key="GridCell.Tab.0.right" timestamp="1620734838482">
+    <state width="1877" height="338" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1621005057508" />
+    <state width="1877" height="338" key="GridCell.Tab.0.left" timestamp="1621005057508">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="58" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1620734838482" />
+    <state width="1877" height="338" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1621005057508" />
+    <state width="1877" height="338" key="GridCell.Tab.0.right" timestamp="1621005057509">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1621005057509" />
     <state x="440" y="99" key="SettingsEditor" timestamp="1620387719818">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="440" y="99" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1620387719818" />
-    <state x="616" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1620373856005">
+    <state x="616" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1621215923654">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="616" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1620373856005" />
+    <state x="616" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1621215923654" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1620377048352">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

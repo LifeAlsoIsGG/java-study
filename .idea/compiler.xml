@@ -7,16 +7,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="DataStructure_Algorithm" />
-        <module name="MultiThread" />
-        <module name="MultiThreading" />
         <module name="elasticSearch" />
+        <module name="DataStructure_Algorithm" />
+        <module name="dubbo-provider" />
+        <module name="dubbo-consumer" />
+        <module name="MultiThread" />
+        <module name="dubbo-api" />
+        <module name="MultiThreading" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="DataStructure_Algorithm" target="1.8" />
+      <module name="dubbo" target="1.8" />
+      <module name="dubbo-api" target="1.8" />
+      <module name="dubbo-consumer" target="1.8" />
+      <module name="dubbo-provider" target="1.8" />
+      <module name="dubboDemo" target="1.8" />
       <module name="elasticSearch" target="1.8" />
       <module name="Java_Study" target="1.8" />
+      <module name="JVM_Demo" target="1.8" />
       <module name="MultiThread" target="1.8" />
       <module name="multiThread" target="1.8" />
       <module name="MultiThreading" target="1.8" />
@@ -25,8 +34,14 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="DataStructure_Algorithm" options="-parameters" />
+      <module name="JVM_Demo" options="-parameters" />
       <module name="MultiThread" options="-parameters" />
       <module name="MultiThreading" options="-parameters" />
+      <module name="dubbo" options="-parameters" />
+      <module name="dubbo-api" options="-parameters" />
+      <module name="dubbo-consumer" options="-parameters" />
+      <module name="dubbo-provider" options="-parameters" />
+      <module name="dubboDemo" options="-parameters" />
       <module name="elasticSearch" options="-parameters" />
       <module name="multiThread" options="-parameters" />
     </option>

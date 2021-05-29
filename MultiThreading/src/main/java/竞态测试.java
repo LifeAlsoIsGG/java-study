@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @Package: dataStructure_Algorithm.sort
+ * @Package: sort
  * @Author: Chen Long
  * @Description:
  * @Datetime: 2021/5/12 0:24:20

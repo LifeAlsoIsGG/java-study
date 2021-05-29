@@ -3,7 +3,7 @@ import org.elasticsearch.client.RestClient;
 import org.elasticsearch.client.RestHighLevelClient;
 
 /**
- * @Package: dataStructure_Algorithm.sort
+ * @Package: sort
  * @Author: Chen Long
  * @Description: 客户端实体,单例
  * @Datetime: 2021/5/8 0:18:20

@@ -2,7 +2,7 @@ import lombok.Builder;
 import lombok.Data;
 
 /**
- * @Package: dataStructure_Algorithm.sort
+ * @Package: sort
  * @Author: Chen Long
  * @Description:
  * @Datetime: 2021/5/8 1:01:05

@@ -30,7 +30,7 @@ import java.io.IOException;
 import java.util.Map;
 
 /**
- * @Package: dataStructure_Algorithm.sort
+ * @Package: sort
  * @Author: Chen Long
  * @Description: 文档操作
  * @Datetime: 2021/5/8 0:57:19

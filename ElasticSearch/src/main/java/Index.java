@@ -13,7 +13,7 @@ import org.elasticsearch.client.indices.GetIndexResponse;
 import java.io.IOException;
 
 /**
- * @Package: dataStructure_Algorithm.sort
+ * @Package: sort
  * @Author: Chen Long
  * @Description: 索引操作
  * @Datetime: 2021/5/8 0:16:26

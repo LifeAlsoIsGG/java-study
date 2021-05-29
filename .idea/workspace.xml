@@ -5,8 +5,148 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/sort/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/sort/ShellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/src/main/java/Doc.java" beforeDir="false" afterPath="$PROJECT_DIR$/ElasticSearch/src/main/java/Doc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/src/main/java/Es.java" beforeDir="false" afterPath="$PROJECT_DIR$/ElasticSearch/src/main/java/Es.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/src/main/java/HelloEs.java" beforeDir="false" afterPath="$PROJECT_DIR$/ElasticSearch/src/main/java/HelloEs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/src/main/java/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/ElasticSearch/src/main/java/Index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/src/main/java/UserEs.java" beforeDir="false" afterPath="$PROJECT_DIR$/ElasticSearch/src/main/java/UserEs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JVMDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java1/LocalVariablesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java1/LocalVariablesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/src/main/java/create/ThreadCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/create/ThreadCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/src/main/java/竞态测试.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/竞态测试.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation$ByCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation$ByCallable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation$ByRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation$ByRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation$ByThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation$ByThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/dataStructure/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/dataStructure/SequenceList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/dataStructure/SparseArray/SparseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/dataStructure/queue/ArrayQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/dataStructure/search/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/leetcode/L05_最长回文子串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/leetcode/L234_回文链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/leetcode/L69_x的平方根.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/leetcode/Link.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer04_二维数组中的查找.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer05_替换空格.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer06_从尾到头打印链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer07_重建二叉树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer09_用两个栈实现队列.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer10_II_青蛙跳台阶问题.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer10_I_斐波那契数列.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer11_旋转数组的最小数字.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer12_矩阵中的路径.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer13_机器人的运动范围.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer24_反转链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/leetcode/找出数组中重复的数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/sort/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/sort/BucketSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/sort/ComparableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/sort/CountingSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/sort/HeapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/sort/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/sort/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/sort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/sort/RadixSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/sort/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/sort/ShellSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/sort/SortCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/test/alibaba/Exit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/test/alibaba/test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/test/cider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/test/tencent/hash.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/test/tencent/test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/test/xiecheng/BuildingHouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/test/字符统计.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/test/最长回文字符串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/判断素数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/合并数组按照升序排序.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/牛客网/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/牛客网/NC119_最小的K个数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/牛客网/NC32_求平方根.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/牛客网/NC45_实现二叉树先序和中序和后序遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/牛客网/NC4_判断链表中是否有环.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/牛客网/NC66_两个链表的第一个公共结点.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/牛客网/NC93_设计LRU缓存结构.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/牛客网/ddd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/牛客网/xxx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/牛客网/中位数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/牛客网/字符串压缩.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/牛客网/输出降序链表的公共部分.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructure_Algorithm/移除相同的数字.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/dataStructure/ListNode$ListNodeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/dataStructure/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/dataStructure/SequenceList$STerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/dataStructure/SequenceList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/dataStructure/SparseArray/SparseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/dataStructure/queue/ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/dataStructure/search/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/L05_最长回文子串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/L234_回文链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/L69_x的平方根.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/Link.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/剑指offer/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer04_二维数组中的查找.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer05_替换空格.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer06_从尾到头打印链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer07_重建二叉树$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer07_重建二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer09_用两个栈实现队列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer10_II_青蛙跳台阶问题.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer10_I_斐波那契数列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer11_旋转数组的最小数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer12_矩阵中的路径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer13_机器人的运动范围.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/剑指offer/剑指Offer24_反转链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/leetcode/找出数组中重复的数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/sort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/sort/BucketSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/sort/ComparableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/sort/CountingSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/sort/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/sort/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/sort/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/sort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/sort/RadixSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/sort/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/sort/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/sort/SortCompare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/test/alibaba/Exit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/test/alibaba/test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/test/cider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/test/tencent/hash$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/test/tencent/hash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/test/tencent/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/test/xiecheng/BuildingHouse$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/test/xiecheng/BuildingHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/test/字符统计$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/test/字符统计$ValueComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/test/字符统计.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/test/最长回文字符串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/判断素数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/合并数组按照升序排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/牛客网/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/牛客网/NC119_最小的K个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/牛客网/NC32_求平方根.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/牛客网/NC45_实现二叉树先序和中序和后序遍历$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/牛客网/NC45_实现二叉树先序和中序和后序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/牛客网/NC4_判断链表中是否有环.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/牛客网/NC66_两个链表的第一个公共结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/牛客网/NC93_设计LRU缓存结构.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/牛客网/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/牛客网/ddd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/牛客网/xxx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/牛客网/中位数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/牛客网/字符串压缩.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/牛客网/输出降序链表的公共部分.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructure_Algorithm/移除相同的数字.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,12 +189,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JVMDemo" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dubboDemo/dubbo-provider" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -63,14 +210,16 @@
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="designPattern.abstractFactory" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\亿方云同步\personal_space\repository\Java-Study\src\redisDemo\JedisDemo" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\repository\Java-Study\dubboDemo" />
+      <recent name="D:\repository\Java-Study\JVM_Demo" />
       <recent name="D:\repository\Java-Study\DataStructure_Algorithm\src\main\java" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\亿方云同步\personal_space\repository\Java-Study\src\redisDemo\JedisDemo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="redisDemo.JedisDemo" />
@@ -79,13 +228,13 @@
       <recent name="https://github.com/wuyuan2s/resume.git" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.竞态测试">
-    <configuration name="统计字符个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.test.统计字符个数" />
-      <module name="Java_Study" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="上海吉世代" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.上海吉世代" />
+      <module name="DataStructure_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dataStructure_Algorithm.test.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,23 +242,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="竞态测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="竞态测试" />
+    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountDownLatchDemo" />
       <module name="MultiThreading" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Doc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Doc" />
-      <module name="elasticSearch" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Index" />
-      <module name="elasticSearch" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="生产者消费者问题.Main" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="生产者消费者问题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,6 +275,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VolatileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VolatileDemo" />
+      <module name="MultiThreading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="竞态测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="竞态测试" />
+      <module name="MultiThreading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="字符统计" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.test.字符统计" />
       <module name="Java_Study" />
@@ -140,13 +302,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DubboApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubboDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chenlong.dubbo.DubboApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chenlong.dubbo.provider.DubboProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.竞态测试" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CountDownLatchDemo" />
         <item itemvalue="Application.ThreadCreation" />
-        <item itemvalue="Application.Doc" />
-        <item itemvalue="Application.统计字符个数" />
-        <item itemvalue="Application.Index" />
+        <item itemvalue="Application.VolatileDemo" />
+        <item itemvalue="Application.上海吉世代" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +421,9 @@
       <workItem from="1620466327545" duration="305000" />
       <workItem from="1620467244494" duration="423000" />
       <workItem from="1620478382057" duration="19093000" />
-      <workItem from="1620722258473" duration="8148000" />
+      <workItem from="1620722258473" duration="19096000" />
+      <workItem from="1621215362862" duration="55069000" />
+      <workItem from="1622289375162" duration="10693000" />
     </task>
     <servers />
   </component>
@@ -271,18 +449,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="767" y="369" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1619880000014" />
-    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1620736005277">
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1622301510961">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1620736005277" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1622301510961" />
+    <state x="802" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1621676606280">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="802" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1621676606280" />
     <state x="699" y="365" width="521" height="321" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620641428180">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="699" y="365" width="521" height="321" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1620641428180" />
-    <state x="699" y="381" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1620638245146">
+    <state x="699" y="381" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1620905016753">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="699" y="381" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1050@0.0.1920.1050" timestamp="1620638245146" />
+    <state x="699" y="381" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1050@0.0.1920.1050" timestamp="1620905016753" />
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621677123829">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1621677123829" />
     <state x="715" y="141" key="#xdebugger.evaluate" timestamp="1620131400830">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -291,42 +477,42 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="700" y="222" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050@0.0.1920.1050" timestamp="1620131645486" />
-    <state x="686" y="217" key="FileChooserDialogImpl" timestamp="1620402643937">
+    <state x="686" y="217" key="FileChooserDialogImpl" timestamp="1621701385282">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="686" y="217" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1620402643937" />
-    <state width="1722" height="177" key="GridCell.Tab.0.bottom" timestamp="1620750590008">
+    <state x="686" y="217" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1621701385282" />
+    <state width="1716" height="400" key="GridCell.Tab.0.bottom" timestamp="1622303129630">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1722" height="177" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1620750590008" />
-    <state width="1722" height="177" key="GridCell.Tab.0.center" timestamp="1620750590008">
+    <state width="1716" height="400" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1622303129630" />
+    <state width="1716" height="400" key="GridCell.Tab.0.center" timestamp="1622303129629">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1722" height="177" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1620750590008" />
-    <state width="1722" height="177" key="GridCell.Tab.0.left" timestamp="1620750590008">
+    <state width="1716" height="400" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1622303129629" />
+    <state width="1716" height="400" key="GridCell.Tab.0.left" timestamp="1622303129629">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1722" height="177" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1620750590008" />
-    <state width="1722" height="177" key="GridCell.Tab.0.right" timestamp="1620750590008">
+    <state width="1716" height="400" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1622303129629" />
+    <state width="1716" height="400" key="GridCell.Tab.0.right" timestamp="1622303129629">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1722" height="177" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1620750590008" />
-    <state width="1877" height="53" key="GridCell.Tab.1.bottom" timestamp="1620373630027">
+    <state width="1716" height="400" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1622303129629" />
+    <state width="1718" height="174" key="GridCell.Tab.1.bottom" timestamp="1621676248051">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="53" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1620373630027" />
-    <state width="1877" height="53" key="GridCell.Tab.1.center" timestamp="1620373630027">
+    <state width="1718" height="174" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1621676248051" />
+    <state width="1718" height="174" key="GridCell.Tab.1.center" timestamp="1621676248051">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="53" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1620373630027" />
-    <state width="1877" height="53" key="GridCell.Tab.1.left" timestamp="1620373630027">
+    <state width="1718" height="174" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1621676248051" />
+    <state width="1718" height="174" key="GridCell.Tab.1.left" timestamp="1621676248051">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="53" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1620373630027" />
-    <state width="1877" height="53" key="GridCell.Tab.1.right" timestamp="1620373630027">
+    <state width="1718" height="174" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1621676248051" />
+    <state width="1718" height="174" key="GridCell.Tab.1.right" timestamp="1621676248051">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="53" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1620373630027" />
+    <state width="1718" height="174" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1621676248051" />
     <state width="1877" height="213" key="GridCell.Tab.2.bottom" timestamp="1620131365910">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -343,10 +529,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="213" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1620131365909" />
-    <state x="439" y="256" width="1223" height="708" key="SettingsEditor" timestamp="1620305918870">
+    <state x="690" y="228" key="NewModule_or_Project.wizard" timestamp="1621676540529">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="439" y="256" width="1223" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1620305918870" />
+    <state x="690" y="228" key="NewModule_or_Project.wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1621676540529" />
+    <state x="439" y="256" width="1223" height="708" key="SettingsEditor" timestamp="1621701182672">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="439" y="256" width="1223" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1621701182672" />
     <state x="533" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1620478381902">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -359,29 +549,37 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="508" y="179" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1050@0.0.1920.1050" timestamp="1620131311391" />
-    <state x="352" y="83" key="new project wizard" timestamp="1620732454912">
+    <state x="92" y="92" width="1736" height="866" key="dock-window-1" timestamp="1621838549775">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="352" y="83" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1620732454912" />
+    <state x="92" y="92" width="1736" height="866" key="dock-window-1/0.0.1920.1050@0.0.1920.1050" timestamp="1621838549775" />
+    <state x="352" y="83" key="new project wizard" timestamp="1621701519161">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="352" y="83" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1621701519161" />
     <state x="697" y="390" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1619531683216">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="697" y="390" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1619531683216" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1620286431956">
+    <state x="616" y="243" key="run.anything.popup" timestamp="1621675252616">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1620286431956" />
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1621675252616" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1621391350552">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1621391350552" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/dataStructure_Algorithm/dataStructure/SequenceList.java</url>
+          <url>file://$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/dataStructure/SequenceList.java</url>
           <line>197</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/dataStructure_Algorithm/dataStructure/SequenceList.java</url>
+          <url>file://$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/dataStructure/SequenceList.java</url>
           <line>200</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
