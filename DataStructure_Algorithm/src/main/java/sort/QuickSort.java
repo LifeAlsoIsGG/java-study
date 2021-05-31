@@ -35,10 +35,10 @@ public class QuickSort {
                 arr[high] = arr[low];
             }
             arr[low] = pivot;
-            int index = low;
+            System.out.println(Arrays.toString(arr));
 
-            quickSort_1(arr, l, index - 1);
-            quickSort_1(arr, index + 1, h);
+            quickSort_1(arr, l, low - 1);
+            quickSort_1(arr, low + 1, h);
         }
     }
 
@@ -56,12 +56,14 @@ public class QuickSort {
                 while (low < high && arr[low] <= pivot){
                     low++;
                 }
+
                 int tmp = arr[low];
                 arr[low] = arr[high];
                 arr[high] = tmp;
             }
             arr[l] = arr[low];
             arr[low] = pivot;
+            System.out.println(Arrays.toString(arr));
             quickSort_2(arr, l, low - 1);
             quickSort_2(arr, low + 1, h);
         }
@@ -70,7 +72,7 @@ public class QuickSort {
 
 
     public static void main(String[] args) {
-        int[] arr = { 4,7,6,5,3,2,8,1 };
+        int[] arr = { 4,7,6,5,3,2};
         quickSort_1(arr, 0, arr.length - 1);
         System.out.println("排序后:");
         System.out.println(Arrays.toString(arr));
