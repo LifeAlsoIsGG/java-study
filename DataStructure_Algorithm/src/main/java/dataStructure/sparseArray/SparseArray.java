@@ -1,4 +1,4 @@
-package dataStructure.SparseArray;
+package dataStructure.sparseArray;
 
 /**
  * @WebName: dataStructure.SparseArray
