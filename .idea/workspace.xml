@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/dataStructure/SparseArray/SparseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/dataStructure/sparseArray/SparseArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -88,13 +87,13 @@
       <recent name="https://github.com/wuyuan2s/resume.git" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.字节测开二面">
+  <component name="RunManager" selected="Application.ab树">
     <configuration name="字节测开二面" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.字节测开二面" />
       <module name="DataStructure_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="test.三六零.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,19 +114,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="生产者消费者问题.Main" />
-      <module name="MultiThreading" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="生产者消费者问题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,6 +147,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ab树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.三六零.ab树" />
+      <module name="DataStructure_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.三六零.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DubboApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="dubboDemo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.chenlong.dubbo.DubboApplication" />
@@ -177,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ab树" />
         <item itemvalue="Application.字节测开二面" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.判断IPV4地址是否合法" />
         <item itemvalue="Application.L03_无重复字符的最长子串" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -285,6 +284,7 @@
       <workItem from="1622289375162" duration="27714000" />
       <workItem from="1622439501511" duration="1247000" />
       <workItem from="1622452458198" duration="3814000" />
+      <workItem from="1622609298465" duration="7793000" />
     </task>
     <servers />
   </component>
@@ -342,22 +342,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="686" y="217" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1621701385282" />
-    <state width="1715" height="319" key="GridCell.Tab.0.bottom" timestamp="1622454753346">
+    <state width="1714" height="184" key="GridCell.Tab.0.bottom" timestamp="1622722972998">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1715" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1622454753346" />
-    <state width="1715" height="319" key="GridCell.Tab.0.center" timestamp="1622454753346">
+    <state width="1714" height="184" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1622722972998" />
+    <state width="1714" height="184" key="GridCell.Tab.0.center" timestamp="1622722972998">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1715" height="319" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1622454753346" />
-    <state width="1715" height="319" key="GridCell.Tab.0.left" timestamp="1622454753346">
+    <state width="1714" height="184" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1622722972998" />
+    <state width="1714" height="184" key="GridCell.Tab.0.left" timestamp="1622722972998">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1715" height="319" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1622454753346" />
-    <state width="1715" height="319" key="GridCell.Tab.0.right" timestamp="1622454753346">
+    <state width="1714" height="184" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1622722972998" />
+    <state width="1714" height="184" key="GridCell.Tab.0.right" timestamp="1622722972998">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1715" height="319" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1622454753346" />
+    <state width="1714" height="184" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1622722972998" />
     <state width="1718" height="174" key="GridCell.Tab.1.bottom" timestamp="1621676248051">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -394,14 +394,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="228" key="NewModule_or_Project.wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1621676540529" />
-    <state x="439" y="256" width="1223" height="708" key="SettingsEditor" timestamp="1621701182672">
+    <state x="411" y="245" width="1223" height="708" key="SettingsEditor" timestamp="1622722971665">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="439" y="256" width="1223" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1621701182672" />
-    <state x="533" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1622452893465">
+    <state x="411" y="245" width="1223" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1622722971665" />
+    <state x="533" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1622609303898">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="533" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1622452893465" />
+    <state x="533" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1622609303898" />
     <state x="453" y="127" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1620130626010">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
