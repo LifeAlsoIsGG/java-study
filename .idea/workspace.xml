@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/L25_K个一组翻转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/L25_K个一组翻转链表.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +88,7 @@
       <recent name="https://github.com/wuyuan2s/resume.git" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ab树">
+  <component name="RunManager" selected="Application.重复最长的子串">
     <configuration name="字节测开二面" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.字节测开二面" />
       <module name="DataStructure_Algorithm" />
@@ -101,22 +102,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="判断IPV4地址是否合法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="判断IPV4地址是否合法" />
+    <configuration name="重复最长的子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.重复最长的子串" />
       <module name="DataStructure_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L03_无重复字符的最长子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.L03_无重复字符的最长子串" />
+    <configuration name="判断IPV4地址是否合法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="判断IPV4地址是否合法" />
       <module name="DataStructure_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -176,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.重复最长的子串" />
         <item itemvalue="Application.ab树" />
         <item itemvalue="Application.字节测开二面" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.判断IPV4地址是否合法" />
-        <item itemvalue="Application.L03_无重复字符的最长子串" />
       </list>
     </recent_temporary>
   </component>
@@ -285,6 +286,8 @@
       <workItem from="1622439501511" duration="1247000" />
       <workItem from="1622452458198" duration="3814000" />
       <workItem from="1622609298465" duration="7793000" />
+      <workItem from="1622723058579" duration="5897000" />
+      <workItem from="1622788277908" duration="2421000" />
     </task>
     <servers />
   </component>
@@ -342,38 +345,38 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="686" y="217" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1621701385282" />
-    <state width="1714" height="184" key="GridCell.Tab.0.bottom" timestamp="1622722972998">
+    <state width="1712" height="319" key="GridCell.Tab.0.bottom" timestamp="1622790077945">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1714" height="184" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1622722972998" />
-    <state width="1714" height="184" key="GridCell.Tab.0.center" timestamp="1622722972998">
+    <state width="1712" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1622790077945" />
+    <state width="1712" height="319" key="GridCell.Tab.0.center" timestamp="1622790077945">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1714" height="184" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1622722972998" />
-    <state width="1714" height="184" key="GridCell.Tab.0.left" timestamp="1622722972998">
+    <state width="1712" height="319" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1622790077945" />
+    <state width="1712" height="319" key="GridCell.Tab.0.left" timestamp="1622790077945">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1714" height="184" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1622722972998" />
-    <state width="1714" height="184" key="GridCell.Tab.0.right" timestamp="1622722972998">
+    <state width="1712" height="319" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1622790077945" />
+    <state width="1712" height="319" key="GridCell.Tab.0.right" timestamp="1622790077945">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1714" height="184" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1622722972998" />
-    <state width="1718" height="174" key="GridCell.Tab.1.bottom" timestamp="1621676248051">
+    <state width="1712" height="319" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1622790077945" />
+    <state width="938" height="126" key="GridCell.Tab.1.bottom" timestamp="1622789790467">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1718" height="174" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1621676248051" />
-    <state width="1718" height="174" key="GridCell.Tab.1.center" timestamp="1621676248051">
+    <state width="938" height="126" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1622789790467" />
+    <state width="938" height="126" key="GridCell.Tab.1.center" timestamp="1622789790466">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1718" height="174" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1621676248051" />
-    <state width="1718" height="174" key="GridCell.Tab.1.left" timestamp="1621676248051">
+    <state width="938" height="126" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1622789790466" />
+    <state width="938" height="126" key="GridCell.Tab.1.left" timestamp="1622789790466">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1718" height="174" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1621676248051" />
-    <state width="1718" height="174" key="GridCell.Tab.1.right" timestamp="1621676248051">
+    <state width="938" height="126" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1622789790466" />
+    <state width="938" height="126" key="GridCell.Tab.1.right" timestamp="1622789790466">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1718" height="174" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1621676248051" />
+    <state width="938" height="126" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1622789790466" />
     <state width="1877" height="213" key="GridCell.Tab.2.bottom" timestamp="1620131365910">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -398,10 +401,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="411" y="245" width="1223" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1622722971665" />
-    <state x="533" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1622609303898">
+    <state x="533" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1622788277929">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="533" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1622609303898" />
+    <state x="533" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1622788277929" />
     <state x="453" y="127" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1620130626010">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
