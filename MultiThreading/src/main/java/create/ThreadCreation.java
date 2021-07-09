@@ -61,37 +61,68 @@ public class ThreadCreation {
     }
 
     //4. 线程4：线程池创建线程
-    static void ByThreadPool(){
-        ExecutorService executor = new ThreadPoolExecutor(10, 10, 60L, TimeUnit.SECONDS, new ArrayBlockingQueue(10));
-        executor.execute(new Runnable() {
-            @Override
-            public void run() {
+    static void byThreadPool() throws ExecutionException, InterruptedException {
+//        ExecutorService executor = new ThreadPoolExecutor(10, 10, 60L, TimeUnit.SECONDS, new ArrayBlockingQueue(10));
 
-            }
-        });
+        //线程池数量
+        int poolNum = 10;
 
+        ExecutorService executorService = Executors.newFixedThreadPool(5);
+
+
+        List<Future<String>> futureList = new ArrayList<Future<String>>(10);
+        for(int i = 0; i < poolNum; i++)
+        {
+            //Thread.sleep(1000);
+            //无返回值
+            //executorService.execute(thread);
+
+            //有返回值
+            Future<String> future = executorService.submit(new Callable<String>() {
+                @Override
+                public String call() throws Exception {
+                    System.out.println("线程执行有返回值");
+                    return "我是线程结束后的返回值";
+                }
+
+            });
+
+            futureList.add(future);
+        }
+
+        //关闭线程池
+        executorService.shutdown();
+
+        for (Future future : futureList){
+            future.get();
+        }
 
     }
 
 
-    public static void main(String[] args) {
-//        线程1：根据继承Thread类并重写run方法的线程
+    public static void main(String[] args) throws ExecutionException, InterruptedException {
+/*//        线程1：根据继承Thread类并重写run方法的线程
         Thread byThread = new ByThread();
 
 //        线程2：根据实现Runnable接口并重写run方法的线程
         Thread byRunnable = new Thread(new ByRunnable());
-        Callable<String> callable  = new ByCallable();
-        FutureTask<String> futureTask = new FutureTask<>(callable);
+
 
 //        线程3：覆写Callable接口实现多线程
+        Callable<String> callable  = new ByCallable();
+        FutureTask<String> futureTask = new FutureTask<>(callable);
         Thread byCallable = new Thread(futureTask);
 
         List<Thread> threadList = new ArrayList<>(3);
         threadList.add(byThread);
-        threadList.add(byCallable);
+        threadList.add(byRunnable);
         threadList.add(byCallable);
 
-        threadList.forEach(Thread::start);
+        threadList.forEach(Thread::start);*/
+
+
+        //线程池创建并启动线程
+        byThreadPool();
 
     }
 }

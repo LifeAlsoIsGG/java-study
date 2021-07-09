@@ -1,5 +1,7 @@
 package leetcode;
 
+import java.util.Objects;
+
 /**
  * @WebName: Leetcode_05_最长回文子串
  * @Description: TODO
@@ -51,7 +53,11 @@ public class L05_最长回文子串 {
         }
         for (int i = 0; i < s.length(); i++) {
             //比较两种方式的最大值
-            int len = Math.max(expandAroundCenter(s, i, i), expandAroundCenter(s, i, i + 1));
+            //当奇数个数的回文串中间有一个数时的扩展情况
+            int len1 = expandAroundCenter(s, i, i);
+            //当偶数个数进行扩展时
+            int len2 = expandAroundCenter(s, i, i + 1);
+            int len = Math.max(len1, len2);
             if (len > maxLen) {
                 //赋值给索引begin
                 begin = i - (len - 1) / 2;
@@ -72,7 +78,7 @@ public class L05_最长回文子串 {
 
     /*动态规划*/
     public static String longestPalindrome2(String s) {
-        if (s == null || s.length() < 2) {
+        if (Objects.isNull(s) || s.length() < 2) {
             return s;
         }
         int strLen = s.length();
@@ -87,6 +93,7 @@ public class L05_最长回文子串 {
 
         for (int r = 1; r < strLen; r++) {
             for (int l = 0; l < r; l++) {
+                //r - l <= 2 主要是判断当子串长度为3，2，1时，只用判断头尾相等即为回文字符串
                 if (s.charAt(l) == s.charAt(r) && (r - l <= 2 || dp[l + 1][r - 1])) {
                     dp[l][r] = true;
                     if (r - l + 1 > maxLen) {

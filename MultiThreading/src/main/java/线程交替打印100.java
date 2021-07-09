@@ -6,7 +6,7 @@ import io.swagger.models.auth.In;
  * @Description:
  * @Datetime: 2021/4/12 15:04:05
  */
-public class 线程交替打印 {
+public class 线程交替打印100 {
 
     static class PrintNumber {
         private volatile int number = 1;

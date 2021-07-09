@@ -6,6 +6,314 @@
   <component name="ChangeListManager">
     <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/L03_无重复字符的最长子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/L03_无重复字符的最长子串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/L05_最长回文子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/L05_最长回文子串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/字节测开二面.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/字节测开二面.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/JVMDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/JVMDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter01/chapter01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter01/chapter01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter01/src/com/atguigu/java/StackStruTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter01/src/com/atguigu/java/StackStruTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter02/chapter02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter02/chapter02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter02/src/com/atguigu/java/ClassInitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter02/src/com/atguigu/java/ClassInitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter02/src/com/atguigu/java/ClinitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter02/src/com/atguigu/java/ClinitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter02/src/com/atguigu/java/ClinitTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter02/src/com/atguigu/java/ClinitTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter02/src/com/atguigu/java/DeadThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter02/src/com/atguigu/java/DeadThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter02/src/com/atguigu/java/HelloApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter02/src/com/atguigu/java/HelloApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter02/src/com/atguigu/java/HelloLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter02/src/com/atguigu/java/HelloLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter02/src/com/atguigu/java1/ClassLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter02/src/com/atguigu/java1/ClassLoaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter02/src/com/atguigu/java1/ClassLoaderTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter02/src/com/atguigu/java1/ClassLoaderTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter02/src/com/atguigu/java1/ClassLoaderTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter02/src/com/atguigu/java1/ClassLoaderTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter02/src/com/atguigu/java1/CustomClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter02/src/com/atguigu/java1/CustomClassLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter02/src/com/atguigu/java1/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter02/src/com/atguigu/java1/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter02/src/java/lang/ShkStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter02/src/java/lang/ShkStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter02/src/java/lang/String.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter02/src/java/lang/String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter03/chapter03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter03/chapter03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter04/chapter04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter04/chapter04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter04/src/com/atguigu/java/PCRegisterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter04/src/com/atguigu/java/PCRegisterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter05/chapter05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter05/chapter05.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter05/src/com/atguigu/java/SlotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter05/src/com/atguigu/java/SlotTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter05/src/com/atguigu/java/StackErrorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter05/src/com/atguigu/java/StackErrorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter05/src/com/atguigu/java/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter05/src/com/atguigu/java/StackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter05/src/com/atguigu/java/VirtualMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter05/src/com/atguigu/java/VirtualMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter05/src/com/atguigu/java1/DynamicLinkingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter05/src/com/atguigu/java1/DynamicLinkingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter05/src/com/atguigu/java1/LocalVariablesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter05/src/com/atguigu/java1/LocalVariablesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter05/src/com/atguigu/java1/OperandStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter05/src/com/atguigu/java1/OperandStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter05/src/com/atguigu/java1/StackFrameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter05/src/com/atguigu/java1/StackFrameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter05/src/com/atguigu/java2/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter05/src/com/atguigu/java2/AnimalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter05/src/com/atguigu/java2/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter05/src/com/atguigu/java2/Lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter05/src/com/atguigu/java2/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter05/src/com/atguigu/java2/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter05/src/com/atguigu/java3/ReturnAddressTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter05/src/com/atguigu/java3/ReturnAddressTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter05/src/com/atguigu/java3/StringBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter05/src/com/atguigu/java3/StringBuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter05/src/com/atguigu/java3/VirtualMethodTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter05/src/com/atguigu/java3/VirtualMethodTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter06/chapter06.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter06/chapter06.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter06/src/com/atguigu/java/IHaveNatives.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter06/src/com/atguigu/java/IHaveNatives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter07/chapter07.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter07/chapter07.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter08/chapter08.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter08/chapter08.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter08/src/com/atguigu/java/HeapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter08/src/com/atguigu/java/HeapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter08/src/com/atguigu/java/HeapDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter08/src/com/atguigu/java/HeapDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter08/src/com/atguigu/java/HeapSpaceInitial.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter08/src/com/atguigu/java/HeapSpaceInitial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter08/src/com/atguigu/java/OOMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter08/src/com/atguigu/java/OOMTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter08/src/com/atguigu/java/SimpleHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter08/src/com/atguigu/java/SimpleHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter08/src/com/atguigu/java1/EdenSurvivorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter08/src/com/atguigu/java1/EdenSurvivorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter08/src/com/atguigu/java1/GCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter08/src/com/atguigu/java1/GCTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter08/src/com/atguigu/java1/HeapArgsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter08/src/com/atguigu/java1/HeapArgsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter08/src/com/atguigu/java1/HeapInstanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter08/src/com/atguigu/java1/HeapInstanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter08/src/com/atguigu/java1/TLABArgsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter08/src/com/atguigu/java1/TLABArgsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter08/src/com/atguigu/java1/YoungOldAreaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter08/src/com/atguigu/java1/YoungOldAreaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter08/src/com/atguigu/java2/EscapeAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter08/src/com/atguigu/java2/EscapeAnalysis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter08/src/com/atguigu/java2/ScalarReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter08/src/com/atguigu/java2/ScalarReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter08/src/com/atguigu/java2/StackAllocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter08/src/com/atguigu/java2/StackAllocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter08/src/com/atguigu/java2/SynchronizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter08/src/com/atguigu/java2/SynchronizedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter09/chapter09.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter09/chapter09.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter09/src/com/atguigu/java/MethodAreaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter09/src/com/atguigu/java/MethodAreaDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter09/src/com/atguigu/java/MethodAreaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter09/src/com/atguigu/java/MethodAreaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter09/src/com/atguigu/java/MethodInnerStrucTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter09/src/com/atguigu/java/MethodInnerStrucTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter09/src/com/atguigu/java/OOMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter09/src/com/atguigu/java/OOMTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter09/src/com/atguigu/java/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter09/src/com/atguigu/java/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter09/src/com/atguigu/java/test1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter09/src/com/atguigu/java/test1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter09/src/com/atguigu/java1/MethodAreaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter09/src/com/atguigu/java1/MethodAreaDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter09/src/com/atguigu/java1/StaticFieldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter09/src/com/atguigu/java1/StaticFieldTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter09/src/com/atguigu/java1/StaticObjTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter09/src/com/atguigu/java1/StaticObjTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter09/src/com/atguigu/java1/test2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter09/src/com/atguigu/java1/test2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter10/chapter10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter10/chapter10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter10/src/com/atguigu/java/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter10/src/com/atguigu/java/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter10/src/com/atguigu/java/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter10/src/com/atguigu/java/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter10/src/com/atguigu/java/ObjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter10/src/com/atguigu/java/ObjectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter11/chapter11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter11/chapter11.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter11/src/com/atguigu/java/BufferTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter11/src/com/atguigu/java/BufferTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter11/src/com/atguigu/java/BufferTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter11/src/com/atguigu/java/BufferTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter11/src/com/atguigu/java/BufferTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter11/src/com/atguigu/java/BufferTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter11/src/com/atguigu/java/MaxDirectMemorySizeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter11/src/com/atguigu/java/MaxDirectMemorySizeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter12/chapter12.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter12/chapter12.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter12/src/com/atguigu/java/IntCompTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter12/src/com/atguigu/java/IntCompTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter12/src/com/atguigu/java/JITTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter12/src/com/atguigu/java/JITTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter13/chapter13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter13/chapter13.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter13/src/com/atguigu/java/GenerateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter13/src/com/atguigu/java/GenerateString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter13/src/com/atguigu/java/StringExer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter13/src/com/atguigu/java/StringExer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter13/src/com/atguigu/java/StringTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter13/src/com/atguigu/java/StringTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter13/src/com/atguigu/java/StringTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter13/src/com/atguigu/java/StringTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter13/src/com/atguigu/java/StringTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter13/src/com/atguigu/java/StringTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter13/src/com/atguigu/java1/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter13/src/com/atguigu/java1/Memory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter13/src/com/atguigu/java1/StringTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter13/src/com/atguigu/java1/StringTest4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter13/src/com/atguigu/java1/StringTest5.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter13/src/com/atguigu/java1/StringTest5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter13/src/com/atguigu/java2/StringExer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter13/src/com/atguigu/java2/StringExer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter13/src/com/atguigu/java2/StringExer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter13/src/com/atguigu/java2/StringExer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter13/src/com/atguigu/java2/StringIntern.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter13/src/com/atguigu/java2/StringIntern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter13/src/com/atguigu/java2/StringIntern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter13/src/com/atguigu/java2/StringIntern1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter13/src/com/atguigu/java2/StringIntern2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter13/src/com/atguigu/java2/StringIntern2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter13/src/com/atguigu/java2/StringNewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter13/src/com/atguigu/java2/StringNewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter13/src/com/atguigu/java3/StringGCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter13/src/com/atguigu/java3/StringGCTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter14/chapter14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter14/chapter14.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter15/chapter15.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter15/chapter15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter15/src/com/atguigu/java/CanReliveObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter15/src/com/atguigu/java/CanReliveObj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter15/src/com/atguigu/java/GCRootsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter15/src/com/atguigu/java/GCRootsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter15/src/com/atguigu/java/HeapOOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter15/src/com/atguigu/java/HeapOOM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter15/src/com/atguigu/java/RefCountGC.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter15/src/com/atguigu/java/RefCountGC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter16/chapter16.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter16/chapter16.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter16/src/com/atguigu/java/LocalVarGC.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter16/src/com/atguigu/java/LocalVarGC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter16/src/com/atguigu/java/StopTheWorldDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter16/src/com/atguigu/java/StopTheWorldDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter16/src/com/atguigu/java/SystemGCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter16/src/com/atguigu/java/SystemGCTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter16/src/com/atguigu/java1/PhantomReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter16/src/com/atguigu/java1/PhantomReferenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter16/src/com/atguigu/java1/SoftReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter16/src/com/atguigu/java1/SoftReferenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter16/src/com/atguigu/java1/StrongReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter16/src/com/atguigu/java1/StrongReferenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter16/src/com/atguigu/java1/WeakReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter16/src/com/atguigu/java1/WeakReferenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter17/chapter17.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter17/chapter17.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter17/src/com/atguigu/java/GCLogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter17/src/com/atguigu/java/GCLogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter17/src/com/atguigu/java/GCLogTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter17/src/com/atguigu/java/GCLogTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/chapter17/src/com/atguigu/java/GCUseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter17/src/com/atguigu/java/GCUseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/backref.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/backref.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/backreflp.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/backreflp.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/check.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/check.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/dominator.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/dominator.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/dominator.off" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/dominator.off" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/hprof.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/hprof.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/initial.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/initial.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/instances.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/instances.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/main.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/main.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/map.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/map.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/outgoing.dat0" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/outgoing.dat0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/outgoing.dat1" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/outgoing.dat1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/outgoing.dat10" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/outgoing.dat10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/outgoing.dat2" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/outgoing.dat2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/outgoing.dat3" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/outgoing.dat3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/outgoing.dat4" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/outgoing.dat4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/outgoing.dat5" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/outgoing.dat5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/outgoing.dat6" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/outgoing.dat6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/outgoing.dat7" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/outgoing.dat7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/outgoing.dat8" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/outgoing.dat8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/outgoing.dat9" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/outgoing.dat9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/outgoing.off0" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/outgoing.off0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/outgoing.off1" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/outgoing.off1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/outgoing.off2" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/outgoing.off2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/retained.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/retained.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid11856.hprof.analysis/sets.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid11856.hprof.analysis/sets.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/backref.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/backref.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/backreflp.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/backreflp.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/check.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/check.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/dominator.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/dominator.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/dominator.off" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/dominator.off" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/hprof.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/hprof.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/initial.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/initial.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/instances.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/instances.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/main.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/main.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/map.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/map.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/outgoing.dat0" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/outgoing.dat0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/outgoing.dat1" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/outgoing.dat1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/outgoing.dat10" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/outgoing.dat10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/outgoing.dat2" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/outgoing.dat2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/outgoing.dat3" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/outgoing.dat3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/outgoing.dat4" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/outgoing.dat4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/outgoing.dat5" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/outgoing.dat5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/outgoing.dat6" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/outgoing.dat6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/outgoing.dat7" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/outgoing.dat7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/outgoing.dat8" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/outgoing.dat8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/outgoing.dat9" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/outgoing.dat9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/outgoing.off0" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/outgoing.off0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/outgoing.off1" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/outgoing.off1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/outgoing.off2" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/outgoing.off2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/retained.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/retained.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/java_pid6380.hprof.analysis/sets.dat" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/java_pid6380.hprof.analysis/sets.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/logs/gc.log" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/logs/gc.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter01/com/atguigu/java/StackStruTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter01/com/atguigu/java/StackStruTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter02/com/atguigu/java/ClassInitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter02/com/atguigu/java/ClassInitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter02/com/atguigu/java/ClinitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter02/com/atguigu/java/ClinitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter02/com/atguigu/java/ClinitTest1$Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter02/com/atguigu/java/ClinitTest1$Father.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter02/com/atguigu/java/ClinitTest1$Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter02/com/atguigu/java/ClinitTest1$Son.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter02/com/atguigu/java/ClinitTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter02/com/atguigu/java/ClinitTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter02/com/atguigu/java/DeadThreadTest$DeadThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter02/com/atguigu/java/DeadThreadTest$DeadThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter02/com/atguigu/java/DeadThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter02/com/atguigu/java/DeadThreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter02/com/atguigu/java/HelloApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter02/com/atguigu/java/HelloApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter02/com/atguigu/java/HelloLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter02/com/atguigu/java/HelloLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter02/com/atguigu/java1/ClassLoaderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter02/com/atguigu/java1/ClassLoaderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter02/com/atguigu/java1/ClassLoaderTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter02/com/atguigu/java1/ClassLoaderTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter02/com/atguigu/java1/ClassLoaderTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter02/com/atguigu/java1/ClassLoaderTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter02/com/atguigu/java1/CustomClassLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter02/com/atguigu/java1/CustomClassLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter02/com/atguigu/java1/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter02/com/atguigu/java1/StringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter02/java/lang/ShkStart.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter02/java/lang/ShkStart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter02/java/lang/String.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter02/java/lang/String.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter04/com/atguigu/java/PCRegisterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter04/com/atguigu/java/PCRegisterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java/Father.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java/SlotTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java/SlotTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java/Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java/Son.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java/StackErrorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java/StackErrorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java/StackTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java/StackTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java/VirtualMethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java/VirtualMethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java1/DynamicLinkingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java1/DynamicLinkingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java1/LocalVariablesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java1/LocalVariablesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java1/OperandStackTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java1/OperandStackTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java1/StackFrameTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java1/StackFrameTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java2/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java2/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java2/AnimalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java2/AnimalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java2/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java2/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java2/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java2/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java2/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java2/Father.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java2/Func.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java2/Func.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java2/Huntable.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java2/Huntable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java2/Lambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java2/Lambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java2/MethodInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java2/MethodInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java2/Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java2/Son.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java3/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java3/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java3/CockerSpaniel.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java3/CockerSpaniel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java3/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java3/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java3/Friendly.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java3/Friendly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java3/ReturnAddressTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java3/ReturnAddressTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java3/StringBuilderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java3/StringBuilderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter05/com/atguigu/java3/VirtualMethodTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter05/com/atguigu/java3/VirtualMethodTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/META-INF/chapter08.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/META-INF/chapter08.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java/HeapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java/HeapDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java/HeapDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java/HeapDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java/HeapInstanceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java/HeapInstanceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java/HeapSpaceInitial.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java/HeapSpaceInitial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java/HeapSpaceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java/HeapSpaceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java/HeapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java/HeapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java/OOMTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java/OOMTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java/Picture.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java/Picture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java/SimpleHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java/SimpleHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java/StackAllocation.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java/StackAllocation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java1/EdenSurvivorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java1/EdenSurvivorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java1/GCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java1/GCTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java1/HeapArgsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java1/HeapArgsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java1/HeapInstanceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java1/HeapInstanceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java1/TLABArgsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java1/TLABArgsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java1/YoungOldAreaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java1/YoungOldAreaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java2/EscapeAnalysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java2/EscapeAnalysis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java2/ScalarReplace$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java2/ScalarReplace$User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java2/ScalarReplace.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java2/ScalarReplace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java2/StackAllocation$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java2/StackAllocation$User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java2/StackAllocation.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java2/StackAllocation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter08/com/atguigu/java2/SynchronizedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter08/com/atguigu/java2/SynchronizedTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter09/META-INF/chapter09.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/META-INF/chapter09.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter09/com/atguigu/java/MethodAreaDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java/MethodAreaDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter09/com/atguigu/java/MethodAreaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java/MethodAreaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter09/com/atguigu/java/MethodInnerStrucTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java/MethodInnerStrucTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter09/com/atguigu/java/OOMTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java/OOMTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter09/com/atguigu/java/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter09/com/atguigu/java/PermGenTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java/PermGenTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter09/com/atguigu/java/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter09/com/atguigu/java/test1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java/test1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter09/com/atguigu/java1/MethodAreaDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java1/MethodAreaDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter09/com/atguigu/java1/StaticFieldTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java1/StaticFieldTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter09/com/atguigu/java1/StaticObjTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java1/StaticObjTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter09/com/atguigu/java1/StaticObjTest$ObjectHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java1/StaticObjTest$ObjectHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter09/com/atguigu/java1/StaticObjTest$Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java1/StaticObjTest$Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter09/com/atguigu/java1/StaticObjTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java1/StaticObjTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter09/com/atguigu/java1/test2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java1/test2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter10/META-INF/chapter10.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter10/META-INF/chapter10.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter10/com/atguigu/java/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter10/com/atguigu/java/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter10/com/atguigu/java/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter10/com/atguigu/java/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter10/com/atguigu/java/CustomerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter10/com/atguigu/java/CustomerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter10/com/atguigu/java/ObjectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter10/com/atguigu/java/ObjectTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter12/com/atguigu/java/IntCompTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter12/com/atguigu/java/IntCompTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter12/com/atguigu/java/JITTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter12/com/atguigu/java/JITTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter13/META-INF/chapter13.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter13/META-INF/chapter13.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter13/com/atguigu/java/GenerateString.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter13/com/atguigu/java/GenerateString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter13/com/atguigu/java/StringExer.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter13/com/atguigu/java/StringExer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter13/com/atguigu/java/StringTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter13/com/atguigu/java/StringTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter13/com/atguigu/java/StringTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter13/com/atguigu/java/StringTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter13/com/atguigu/java/StringTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter13/com/atguigu/java/StringTest3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter13/com/atguigu/java1/Memory.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter13/com/atguigu/java1/Memory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter13/com/atguigu/java1/StringTest4.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter13/com/atguigu/java1/StringTest4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter13/com/atguigu/java1/StringTest5.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter13/com/atguigu/java1/StringTest5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter13/com/atguigu/java2/StringExer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter13/com/atguigu/java2/StringExer1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter13/com/atguigu/java2/StringExer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter13/com/atguigu/java2/StringExer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter13/com/atguigu/java2/StringIntern.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter13/com/atguigu/java2/StringIntern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter13/com/atguigu/java2/StringIntern1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter13/com/atguigu/java2/StringIntern1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter13/com/atguigu/java2/StringIntern2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter13/com/atguigu/java2/StringIntern2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter13/com/atguigu/java2/StringNewTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter13/com/atguigu/java2/StringNewTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter13/com/atguigu/java3/StringGCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter13/com/atguigu/java3/StringGCTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter15/com/atguigu/java/CanReliveObj.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter15/com/atguigu/java/CanReliveObj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter15/com/atguigu/java/GCRootsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter15/com/atguigu/java/GCRootsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter15/com/atguigu/java/HeapOOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter15/com/atguigu/java/HeapOOM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter15/com/atguigu/java/RefCountGC.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter15/com/atguigu/java/RefCountGC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter16/META-INF/chapter16.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter16/META-INF/chapter16.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter16/com/atguigu/java/LocalVarGC.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter16/com/atguigu/java/LocalVarGC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter16/com/atguigu/java/StopTheWorldDemo$PrintThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter16/com/atguigu/java/StopTheWorldDemo$PrintThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter16/com/atguigu/java/StopTheWorldDemo$WorkThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter16/com/atguigu/java/StopTheWorldDemo$WorkThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter16/com/atguigu/java/StopTheWorldDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter16/com/atguigu/java/StopTheWorldDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter16/com/atguigu/java/SystemGCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter16/com/atguigu/java/SystemGCTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter16/com/atguigu/java1/PhantomReferenceTest$CheckRefQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter16/com/atguigu/java1/PhantomReferenceTest$CheckRefQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter16/com/atguigu/java1/PhantomReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter16/com/atguigu/java1/PhantomReferenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter16/com/atguigu/java1/SoftReferenceTest$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter16/com/atguigu/java1/SoftReferenceTest$User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter16/com/atguigu/java1/SoftReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter16/com/atguigu/java1/SoftReferenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter16/com/atguigu/java1/StrongReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter16/com/atguigu/java1/StrongReferenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter16/com/atguigu/java1/WeakReferenceTest$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter16/com/atguigu/java1/WeakReferenceTest$User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter16/com/atguigu/java1/WeakReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter16/com/atguigu/java1/WeakReferenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter17/com/atguigu/java/GCLogTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter17/com/atguigu/java/GCLogTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter17/com/atguigu/java/GCLogTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter17/com/atguigu/java/GCLogTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/out/production/chapter17/com/atguigu/java/GCUseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter17/com/atguigu/java/GCUseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVMDemo/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/src/main/java/create/ThreadCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/create/ThreadCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/src/main/java/线程交替打印.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/线程交替打印100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/线程交替打印$PrintNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/线程交替打印.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,22 +395,9 @@
       <recent name="https://github.com/wuyuan2s/resume.git" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.妙盈编程题">
-    <configuration name="字节测开二面" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.字节测开二面" />
-      <module name="DataStructure_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.三六零.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="妙盈编程题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.妙盈编程题" />
+  <component name="RunManager" selected="Application.九鼎无双面试题">
+    <configuration name="九鼎无双面试题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.九鼎无双面试题" />
       <module name="DataStructure_Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -114,12 +409,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.QuickSort" />
-      <module name="DataStructure_Algorithm" />
+    <configuration name="ThreadCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="create.ThreadCreation" />
+      <module name="MultiThreading" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="create.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,8 +422,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadLocalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadLocalDemo" />
+      <module name="MultiThreading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThreadPrintTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.ThreadPrintTest" />
+      <module name="DataStructure_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TreeTest" />
       <module name="DataStructure_Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -166,19 +481,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ab树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.三六零.ab树" />
-      <module name="DataStructure_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.三六零.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DubboApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="dubboDemo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.chenlong.dubbo.DubboApplication" />
@@ -195,11 +497,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.妙盈编程题" />
+        <item itemvalue="Application.九鼎无双面试题" />
+        <item itemvalue="Application.ThreadLocalDemo" />
+        <item itemvalue="Application.ThreadCreation" />
+        <item itemvalue="Application.TreeTest" />
         <item itemvalue="Application.ThreadPrintTest" />
-        <item itemvalue="Application.ab树" />
-        <item itemvalue="Application.字节测开二面" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +610,14 @@
       <workItem from="1622788277908" duration="2421000" />
       <workItem from="1624415426804" duration="3421000" />
       <workItem from="1624785122427" duration="9000" />
-      <workItem from="1624878218356" duration="7063000" />
+      <workItem from="1624878218356" duration="13341000" />
+      <workItem from="1625045049672" duration="8701000" />
+      <workItem from="1625192119856" duration="5037000" />
+      <workItem from="1625494925838" duration="3984000" />
+      <workItem from="1625558949335" duration="595000" />
+      <workItem from="1625575619730" duration="2813000" />
+      <workItem from="1625729714022" duration="4781000" />
+      <workItem from="1625800466480" duration="1120000" />
     </task>
     <servers />
   </component>
@@ -338,10 +647,11 @@
       <screen x="0" y="24" width="1920" height="1000" />
     </state>
     <state x="150" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1920.1000@0.24.1920.1000" timestamp="1624879267901" />
-    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1622301510961">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1625072400607">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1622301510961" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1625072400607" />
     <state x="802" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1621676606280">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -370,49 +680,57 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="686" y="217" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1621701385282" />
-    <state width="1709" height="220" key="GridCell.Tab.0.bottom" timestamp="1624896949859">
-      <screen x="0" y="24" width="1920" height="1056" />
+    <state width="1877" height="217" key="GridCell.Tab.0.bottom" timestamp="1625636746221">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1712" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1622790077945" />
+    <state width="1877" height="217" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1625636746221" />
+    <state width="1877" height="58" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1625107744503" />
     <state width="1709" height="184" key="GridCell.Tab.0.bottom/0.24.1920.1000@0.24.1920.1000" timestamp="1624881468730" />
     <state width="1709" height="220" key="GridCell.Tab.0.bottom/0.24.1920.1056@0.24.1920.1056" timestamp="1624896949859" />
-    <state width="1709" height="220" key="GridCell.Tab.0.center" timestamp="1624896949859">
-      <screen x="0" y="24" width="1920" height="1056" />
+    <state width="1877" height="217" key="GridCell.Tab.0.center" timestamp="1625636746221">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1712" height="319" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1622790077945" />
+    <state width="1877" height="217" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1625636746221" />
+    <state width="1877" height="58" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1625107744503" />
     <state width="1709" height="184" key="GridCell.Tab.0.center/0.24.1920.1000@0.24.1920.1000" timestamp="1624881468730" />
     <state width="1709" height="220" key="GridCell.Tab.0.center/0.24.1920.1056@0.24.1920.1056" timestamp="1624896949859" />
-    <state width="1709" height="220" key="GridCell.Tab.0.left" timestamp="1624896949859">
-      <screen x="0" y="24" width="1920" height="1056" />
+    <state width="1877" height="217" key="GridCell.Tab.0.left" timestamp="1625636746220">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1712" height="319" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1622790077945" />
+    <state width="1877" height="217" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1625636746220" />
+    <state width="1877" height="58" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1625107744503" />
     <state width="1709" height="184" key="GridCell.Tab.0.left/0.24.1920.1000@0.24.1920.1000" timestamp="1624881468730" />
     <state width="1709" height="220" key="GridCell.Tab.0.left/0.24.1920.1056@0.24.1920.1056" timestamp="1624896949859" />
-    <state width="1709" height="220" key="GridCell.Tab.0.right" timestamp="1624896949859">
-      <screen x="0" y="24" width="1920" height="1056" />
+    <state width="1877" height="217" key="GridCell.Tab.0.right" timestamp="1625636746221">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1712" height="319" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1622790077945" />
+    <state width="1877" height="217" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1625636746221" />
+    <state width="1877" height="58" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1625107744503" />
     <state width="1709" height="184" key="GridCell.Tab.0.right/0.24.1920.1000@0.24.1920.1000" timestamp="1624881468730" />
     <state width="1709" height="220" key="GridCell.Tab.0.right/0.24.1920.1056@0.24.1920.1056" timestamp="1624896949859" />
-    <state width="938" height="214" key="GridCell.Tab.1.bottom" timestamp="1624879633678">
-      <screen x="0" y="24" width="1920" height="1000" />
+    <state width="1877" height="217" key="GridCell.Tab.1.bottom" timestamp="1625636746221">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="938" height="126" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1622789790467" />
+    <state width="1877" height="217" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1625636746221" />
+    <state width="1877" height="303" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1624938856856" />
     <state width="938" height="214" key="GridCell.Tab.1.bottom/0.24.1920.1000@0.24.1920.1000" timestamp="1624879633678" />
-    <state width="938" height="214" key="GridCell.Tab.1.center" timestamp="1624879633678">
-      <screen x="0" y="24" width="1920" height="1000" />
+    <state width="1877" height="217" key="GridCell.Tab.1.center" timestamp="1625636746221">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="938" height="126" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1622789790466" />
+    <state width="1877" height="217" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1625636746221" />
+    <state width="1877" height="303" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1624938856856" />
     <state width="938" height="214" key="GridCell.Tab.1.center/0.24.1920.1000@0.24.1920.1000" timestamp="1624879633678" />
-    <state width="938" height="214" key="GridCell.Tab.1.left" timestamp="1624879633678">
-      <screen x="0" y="24" width="1920" height="1000" />
+    <state width="1877" height="217" key="GridCell.Tab.1.left" timestamp="1625636746221">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="938" height="126" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1622789790466" />
+    <state width="1877" height="217" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1625636746221" />
+    <state width="1877" height="303" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1624938856856" />
     <state width="938" height="214" key="GridCell.Tab.1.left/0.24.1920.1000@0.24.1920.1000" timestamp="1624879633678" />
-    <state width="938" height="214" key="GridCell.Tab.1.right" timestamp="1624879633678">
-      <screen x="0" y="24" width="1920" height="1000" />
+    <state width="1877" height="217" key="GridCell.Tab.1.right" timestamp="1625636746221">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="938" height="126" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1622789790466" />
+    <state width="1877" height="217" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1625636746221" />
+    <state width="1877" height="303" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1624938856856" />
     <state width="938" height="214" key="GridCell.Tab.1.right/0.24.1920.1000@0.24.1920.1000" timestamp="1624879633678" />
     <state width="1877" height="213" key="GridCell.Tab.2.bottom" timestamp="1620131365910">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -442,10 +760,11 @@
       <screen x="0" y="24" width="1920" height="1056" />
     </state>
     <state x="92" y="116" width="1736" height="872" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.24.1920.1056@0.24.1920.1056" timestamp="1624897026077" />
-    <state x="533" y="313" key="com.intellij.ide.util.TipDialog" timestamp="1624878257699">
-      <screen x="0" y="24" width="1920" height="1000" />
+    <state x="533" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1625800466465">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="533" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624796766135" />
+    <state x="533" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1625800466465" />
+    <state x="533" y="312" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1625045056097" />
     <state x="533" y="313" key="com.intellij.ide.util.TipDialog/0.24.1920.1000@0.24.1920.1000" timestamp="1624878257699" />
     <state x="453" y="127" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1620130626010">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -475,10 +794,32 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1621675252616" />
-    <state x="623" y="240" width="672" height="646" key="search.everywhere.popup" timestamp="1624883145407">
-      <screen x="0" y="24" width="1920" height="1000" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1625801835416">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1622349825369" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1625801835416" />
+    <state x="623" y="233" width="672" height="698" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1625066877669" />
     <state x="623" y="240" width="672" height="646" key="search.everywhere.popup/0.24.1920.1000@0.24.1920.1000" timestamp="1624883145407" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/九鼎无双面试题.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/九鼎无双面试题.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/九鼎无双面试题.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
