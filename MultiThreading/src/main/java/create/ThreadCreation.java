@@ -101,7 +101,7 @@ public class ThreadCreation {
 
 
     public static void main(String[] args) throws ExecutionException, InterruptedException {
-/*//        线程1：根据继承Thread类并重写run方法的线程
+//        线程1：根据继承Thread类并重写run方法的线程
         Thread byThread = new ByThread();
 
 //        线程2：根据实现Runnable接口并重写run方法的线程
@@ -118,7 +118,7 @@ public class ThreadCreation {
         threadList.add(byRunnable);
         threadList.add(byCallable);
 
-        threadList.forEach(Thread::start);*/
+        threadList.forEach(Thread::start);
 
 
         //线程池创建并启动线程

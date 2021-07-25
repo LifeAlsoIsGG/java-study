@@ -2,6 +2,7 @@ package dataStructure;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
+import lombok.Data;
 
 /**
  * @package: dataStructure
@@ -10,6 +11,7 @@ import lombok.Builder;
  * @datetime: 2021/3/28  15:38:58
  */
 
+@Data
 @Builder(toBuilder = true)
 @AllArgsConstructor
 public class ListNode {
