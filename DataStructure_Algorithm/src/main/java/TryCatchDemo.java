@@ -1,6 +1,9 @@
 import lombok.Builder;
 import lombok.Data;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @author Long Chen
  * @description
@@ -41,11 +44,14 @@ class TryCatchDemo {
         System.out.println(demo.calculate("err"));
         System.out.println(demo.calculate("right"));
 
-        Demo demo1 = Demo.builder().i(10).build();
-        System.out.println(demo1.getI());
-
-        demo1 = demo1.toBuilder().i(20).build();
-        System.out.println(demo1.getI());
+        List<Demo> demoList = new ArrayList<>(10);
+        for (int i = 0; i < 10; i++) {
+            demoList.add(Demo.builder().i(10).build());
+        }
+        for (Demo demo1 : demoList){
+            demo1 = demo1.toBuilder().i(demo1.getI() * 100).build();
+            System.out.println(demo1);
+        }
 
     }
 

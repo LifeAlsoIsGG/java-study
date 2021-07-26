@@ -7,13 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="elasticSearch" />
-        <module name="DataStructure_Algorithm" />
-        <module name="dubbo-provider" />
-        <module name="dubbo-consumer" />
-        <module name="MultiThread" />
-        <module name="dubbo-api" />
         <module name="MultiThreading" />
+        <module name="elasticSearch" />
+        <module name="dubbo-provider" />
+        <module name="MultiThread" />
+        <module name="DataStructure_Algorithm" />
+        <module name="dubbo-consumer" />
+        <module name="dubbo-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
