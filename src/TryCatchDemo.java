@@ -57,9 +57,7 @@ class TryCatchDemo {
         for (Demo demo1 : demoList){
             demo1 = demo1.toBuilder().i(demo1.getI() * 100).build();
         }
-
         demoList.forEach(System.out::println);
-        
     }
 
 }
