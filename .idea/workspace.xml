@@ -7,27 +7,168 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="forth message">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/TryCatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/TryCatchDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/TryCatchDemo$Demo$DemoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/TryCatchDemo$Demo$DemoBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/TryCatchDemo$Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/TryCatchDemo$Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/TryCatchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/TryCatchDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/dataStructure/SparseArray/SparseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/dataStructure/sparseArray/SparseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/dataStructure/SequenceList.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/dataStructure/SequenceList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/TryCatchDemo$Demo$DemoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/TryCatchDemo$Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/TryCatchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/dataStructure/ListNode$ListNodeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/dataStructure/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/dataStructure/SequenceList$STerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/dataStructure/SequenceList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/dataStructure/TreeNode$TreeNodeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/dataStructure/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/dataStructure/queue/ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/dataStructure/search/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/dataStructure/sparseArray/SparseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/L01_两数之和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/L03_无重复字符的最长子串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/L05_最长回文子串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/L103_二叉树的锯齿形层序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/L234_回文链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/L25_K个一组翻转链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/L69_x的平方根.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/Link.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/剑指offer/剑指Offer04_二维数组中的查找.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/剑指offer/剑指Offer05_替换空格.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/剑指offer/剑指Offer06_从尾到头打印链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/剑指offer/剑指Offer07_重建二叉树$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/剑指offer/剑指Offer07_重建二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/剑指offer/剑指Offer09_用两个栈实现队列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/剑指offer/剑指Offer10_II_青蛙跳台阶问题.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/剑指offer/剑指Offer10_I_斐波那契数列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/剑指offer/剑指Offer11_旋转数组的最小数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/剑指offer/剑指Offer12_矩阵中的路径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/剑指offer/剑指Offer13_机器人的运动范围.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/剑指offer/剑指Offer24_反转链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/leetcode/找出数组中重复的数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/sort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/sort/BucketSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/sort/ComparableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/sort/CountingSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/sort/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/sort/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/sort/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/sort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/sort/RadixSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/sort/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/sort/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/sort/SortCompare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/sort/Students.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/ThreadPrintTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/TreeStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/TreeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/alibaba/Exit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/alibaba/test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/cider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/cvte.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/tencent/hash$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/tencent/hash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/tencent/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/xiecheng/BuildingHouse$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/xiecheng/BuildingHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/xiecheng/最大收益$Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/xiecheng/最大收益.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/三六零/ab树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/三六零/判断是否对称二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/上海吉世代.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/九鼎无双面试题.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/妙盈编程题.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/字符统计$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/字符统计$ValueComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/字符统计.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/字节测开二面.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/最长回文字符串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/test/重复最长的子串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/判断IPV4地址是否合法.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/判断素数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/合并数组按照升序排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/牛客网/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/牛客网/NC119_最小的K个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/牛客网/NC32_求平方根.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/牛客网/NC45_实现二叉树先序和中序和后序遍历$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/牛客网/NC45_实现二叉树先序和中序和后序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/牛客网/NC4_判断链表中是否有环.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/牛客网/NC66_两个链表的第一个公共结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/牛客网/NC93_设计LRU缓存结构.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/牛客网/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/牛客网/ddd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/牛客网/xxx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/牛客网/中位数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/牛客网/字符串压缩.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/牛客网/输出降序链表的公共部分.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/生产者消费者.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/target/classes/移除相同的数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/target/classes/Doc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/target/classes/Es.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/target/classes/HelloEs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/target/classes/Index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/target/classes/UserEs$UserEsBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/target/classes/UserEs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/target/classes/xiecheng/最大收益$Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/target/classes/xiecheng/最大收益.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/CountDownLatchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/META-INF/MultiThreading.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/ThreadLocalDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/VolatileDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation$ByCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation$ByRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation$ByThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/create/ThreadCreation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/生产者消费者问题/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/生产者消费者问题/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/生产者消费者问题/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/生产者消费者问题/Storage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/竞态测试$IndexGen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/竞态测试.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/线程交替打印100$PrintNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/线程交替打印100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TryCatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TryCatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Java_Study.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/designPattern/singleton/SingleObject.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -58,7 +199,10 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -85,7 +229,7 @@
       <recent name="https://github.com/wuyuan2s/resume.git" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TryCatchDemo">
+  <component name="RunManager" selected="Application.TryCatchDemo (1)">
     <configuration name="九鼎无双面试题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.九鼎无双面试题" />
       <module name="DataStructure_Algorithm" />
@@ -119,15 +263,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.TreeTest" />
-      <module name="DataStructure_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="TryCatchDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TryCatchDemo" />
+      <module name="Java_Study" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -199,11 +337,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryCatchDemo (1)" />
         <item itemvalue="Application.TryCatchDemo" />
         <item itemvalue="Application.ThreadCreation" />
         <item itemvalue="Application.九鼎无双面试题" />
         <item itemvalue="Application.ThreadLocalDemo" />
-        <item itemvalue="Application.TreeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +465,20 @@
       <workItem from="1627053051600" duration="4142000" />
       <workItem from="1627270297796" duration="961000" />
       <workItem from="1627293808650" duration="4351000" />
+      <workItem from="1627365705317" duration="325000" />
+      <workItem from="1627381981994" duration="3651000" />
+      <workItem from="1627525325223" duration="2578000" />
+      <workItem from="1627634383236" duration="107000" />
+      <workItem from="1627729290330" duration="6010000" />
     </task>
+    <task id="LOCAL-00001" summary="forth message">
+      <created>1627320239076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627320239076</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,12 +499,29 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="forth message" />
+    <option name="LAST_COMMIT_MESSAGE" value="forth message" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -373,7 +541,31 @@
           <line>27</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TryCatchDemo.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TryCatchDemo.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TryCatchDemo.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="13" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="demoList" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

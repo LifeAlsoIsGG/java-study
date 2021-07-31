@@ -167,7 +167,7 @@ public class SequenceList<T> implements Iterable<T>{
     }
 
 
-    private class  STerator implements Iterator{
+    private class STerator implements Iterator{
         //指向下一个的元素
         private int next;
 
