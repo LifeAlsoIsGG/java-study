@@ -43,7 +43,7 @@ class TryCatchDemo {
 
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
 
         TryCatchDemo demo = new TryCatchDemo();
         System.out.println(demo.calculate("err"));
