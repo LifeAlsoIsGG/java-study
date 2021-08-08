@@ -1,9 +1,5 @@
-package ClassLoaderTest;
+package classLoaderTest;
 
-import java.io.ByteArrayOutputStream;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
@@ -85,7 +81,7 @@ public class MyClassLoader extends ClassLoader{
         MyClassLoader diskLoader = new MyClassLoader("D:\\repository\\Java-Study\\src\\ClassLoaderTest");
         try {
             //加载class文件
-            Class c = diskLoader.loadClass("ClassLoaderTest.Demo");
+            Class c = diskLoader.loadClass("classLoaderTest.Demo");
 
             if(c != null){
                 try {

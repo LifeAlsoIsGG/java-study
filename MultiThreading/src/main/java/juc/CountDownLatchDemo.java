@@ -1,3 +1,5 @@
+package juc;
+
 import lombok.Data;
 
 import java.util.Random;

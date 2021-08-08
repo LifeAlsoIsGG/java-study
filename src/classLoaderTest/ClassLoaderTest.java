@@ -1,6 +1,4 @@
-package ClassLoaderTest;
-
-import org.aspectj.weaver.ast.Test;
+package classLoaderTest;
 
 /**
  * @Project: Java-Study

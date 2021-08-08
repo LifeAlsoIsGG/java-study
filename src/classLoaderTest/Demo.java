@@ -1,4 +1,4 @@
-package ClassLoaderTest;
+package classLoaderTest;
 
 /**
  * @package: ClassLoaderTest
