@@ -98,7 +98,7 @@ public class SynchronizedDemo {
 
 		//代码块用法
 		new Thread(getThread1(synchronizedDemo)).start();
-		new Thread(getThread2(synchronizedDemo)).start();
+//		new Thread(getThread2(synchronizedDemo)).start();
 	}
 
 }
