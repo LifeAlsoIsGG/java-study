@@ -10,11 +10,11 @@ import java.util.concurrent.locks.ReentrantLock;
  * @date 2021-08-05 23:58
  */
 
-public class ReentrantLockConditionDemo {
+public class ReentrantLockAndConditionDemo {
 	private Lock lock = new ReentrantLock();
-	public Condition condition = lock.newCondition();
+	private Condition condition = lock.newCondition();
 
-	//返回一个线程
+	//使用lock和unlock模拟sychronized功能
 	public Runnable getThread(){
 		return () -> {
 			//上锁
@@ -23,25 +23,24 @@ public class ReentrantLockConditionDemo {
 				for(int i = 0; i < 5; i++) {
 					System.out.println("当前线程名： "+ Thread.currentThread().getName()+" ,i = "+i);
 				}
-
 			} catch (Exception e) {
 				e.printStackTrace();
 			} finally {
-				//释放锁
+				//释放锁.避免锁泄露
 				lock.unlock();
 			}
 		};
 	}
 
-	//使用condition
+	//使用condition来实现wait和notify功能
 	public Runnable getThread_2(){
 		return () -> {
 			lock.lock();
 			try {
 				System.out.println("当前线程名:"+Thread.currentThread().getName()+" 开始等待时间：" + System.currentTimeMillis());
 				//线程等待
-				condition.await();
 				System.out.println("我陷入了等待...");
+				condition.await();
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}finally {
@@ -64,7 +63,7 @@ public class ReentrantLockConditionDemo {
 	}
 
 	public static void main(String[] args) throws InterruptedException {
-		ReentrantLockConditionDemo reentrantLockConditionDemo = new ReentrantLockConditionDemo();
+		ReentrantLockAndConditionDemo reentrantLockAndConditionDemo = new ReentrantLockAndConditionDemo();
 //		Runnable myReentrantLock =  lockDemo.getThread();
 //		List<Thread> threads = new ArrayList<Thread>(3);
 //		for (int i = 0; i < 3; i++) {
@@ -72,10 +71,10 @@ public class ReentrantLockConditionDemo {
 //		}
 //		threads.forEach(Thread::start);
 
-		Thread thread1 = new Thread(reentrantLockConditionDemo.getThread_2(),"线程1");
+		Thread thread1 = new Thread(reentrantLockAndConditionDemo.getThread_2(),"线程2");
 		thread1.start();
 		Thread.sleep(3000);
 		//通知被condition await的线程
-		reentrantLockConditionDemo.signal();
+		reentrantLockAndConditionDemo.signal();
 	}
 }

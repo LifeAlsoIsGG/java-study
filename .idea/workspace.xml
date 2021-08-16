@@ -9,82 +9,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="update TryCatchDemo 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/src/main/java/SynchronizedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/SynchronizedDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/src/main/java/juc/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/juc/CountDownLatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/src/main/java/juc/lock/ReentrantLockConditionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/juc/lock/ReentrantLockAndConditionDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/SynchronizedDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/target/classes/SynchronizedDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/juc/CountDownLatchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/target/classes/juc/CountDownLatchDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ClassLoaderTest/ClassLoaderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ClassLoaderTest/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ClassLoaderTest/MyClassLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/GoogleGuavaDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MethodPrint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ObjectUtilsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StringUtilsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StringUtilsTest/StringUtilsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TryCatchDemo$Demo$DemoBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TryCatchDemo$Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TryCatchDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bloomFilter/GuavaBloomFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bloomFilter/MyBloomFilter$SimpleHash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bloomFilter/MyBloomFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/abstractFactory/AbstractFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/abstractFactory/AbstractFactoryMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/abstractFactory/Blue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/abstractFactory/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/abstractFactory/Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/abstractFactory/ColorFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/abstractFactory/FactoryProducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/abstractFactory/Green.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/abstractFactory/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/abstractFactory/Red.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/abstractFactory/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/abstractFactory/ShapeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/abstractFactory/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/builder/Bike.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/builder/BikeWithBuild$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/builder/BikeWithBuild$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/builder/BikeWithBuild.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/builder/Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/builder/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/builder/Director.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/builder/MobikeBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/builder/OfoBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/factory/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/factory/FactoryMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/factory/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/factory/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/factory/ShapeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/factory/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/prototype/Prototype.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/singleton/SingleObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/singleton/SingleObject_Lazy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/singleton/SingletonFather.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/singleton/SingletonMain$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/singleton/SingletonMain$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/singleton/SingletonMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/singleton/Singleton_DCL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/singleton/Singleton_Enum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/singleton/Singleton_Hungry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/singleton/Singleton_Lazy_Synchronized.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/singleton/Singleton_StaticClass$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/singleton/Singleton_StaticClass$SingletonInstance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designPattern/singleton/Singleton_StaticClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lambda/LambdaTest$GreetingService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lambda/LambdaTest$MathOperation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lambda/LambdaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/multithreading/CAS_Demo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/multithreading/CAS_Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/multithreading/ThreadLocalDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/multithreading/ThreadLocalDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/multithreading/ThreadLocalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/redisDemo/JedisDemo/TestHash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/redisDemo/JedisDemo/TestKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/redisDemo/JedisDemo/TestList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/redisDemo/JedisDemo/TestMulti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/redisDemo/JedisDemo/TestPassword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/redisDemo/JedisDemo/TestSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/redisDemo/JedisDemo/TestString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/redisDemo/pingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/juc/lock/ReentrantLockConditionDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,6 +87,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -189,7 +117,7 @@
       <recent name="https://github.com/wuyuan2s/resume.git" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SynchronizedDemo">
+  <component name="RunManager" selected="Application.ReentrantLockAndConditionDemo">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -230,8 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReentrantLockConditionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="juc.lock.ReentrantLockConditionDemo" />
+    <configuration name="ReentrantLockAndConditionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="juc.lock.ReentrantLockAndConditionDemo" />
       <module name="MultiThreading" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -280,10 +208,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReentrantLockAndConditionDemo" />
         <item itemvalue="Application.重复最长的子串" />
         <item itemvalue="Application.SynchronizedDemo" />
         <item itemvalue="Application.StringUtilsDemo" />
-        <item itemvalue="Application.ReentrantLockConditionDemo" />
         <item itemvalue="Application.ObjectUtilsDemo" />
       </list>
     </recent_temporary>
@@ -421,7 +349,7 @@
       <workItem from="1628602990021" duration="4710000" />
       <workItem from="1628861622528" duration="378000" />
       <workItem from="1628862142827" duration="2922000" />
-      <workItem from="1628938893060" duration="1034000" />
+      <workItem from="1628938893060" duration="4026000" />
     </task>
     <task id="LOCAL-00001" summary="forth message">
       <created>1627320239076</created>
