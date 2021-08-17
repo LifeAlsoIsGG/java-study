@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DataStructure_Algorithm/DataStructure_Algorithm.iml" filepath="$PROJECT_DIR$/DataStructure_Algorithm/DataStructure_Algorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_Study.iml" filepath="$PROJECT_DIR$/Java_Study.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MultiThread/MultiThread.iml" filepath="$PROJECT_DIR$/MultiThread/MultiThread.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo/dubbo.iml" filepath="$PROJECT_DIR$/dubbo/dubbo.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo/dubbo-api/dubbo-api.iml" filepath="$PROJECT_DIR$/dubbo/dubbo-api/dubbo-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo/dubbo-consumer/dubbo-consumer.iml" filepath="$PROJECT_DIR$/dubbo/dubbo-consumer/dubbo-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo/dubbo-provider/dubbo-provider.iml" filepath="$PROJECT_DIR$/dubbo/dubbo-provider/dubbo-provider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ElasticSearch/elasticSearch.iml" filepath="$PROJECT_DIR$/ElasticSearch/elasticSearch.iml" />
     </modules>
   </component>
 </project>

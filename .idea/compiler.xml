@@ -3,17 +3,15 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+      <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
-        <module name="MultiThreading" />
-        <module name="elasticSearch" />
-        <module name="dubbo-provider" />
-        <module name="MultiThread" />
-        <module name="DataStructure_Algorithm" />
-        <module name="dubbo-consumer" />
-        <module name="dubbo-api" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.16/6dc192c7f93ec1853f70d59d8a6dcf94eb42866/lombok-1.18.16.jar" />
+        </processorPath>
+        <module name="javastudy.MultiThreading.main" />
+        <module name="javastudy.DataStructure_Algorithm.main" />
+        <module name="javastudy.ElasticSearch.main" />
+        <module name="javastudy.DesignPattern.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,8 +24,8 @@
       <module name="elasticSearch" target="1.8" />
       <module name="Java_Study" target="1.8" />
       <module name="JVM_Demo" target="1.8" />
-      <module name="MultiThread" target="1.8" />
       <module name="multiThread" target="1.8" />
+      <module name="MultiThread" target="1.8" />
       <module name="MultiThreading" target="1.8" />
     </bytecodeTargetLevel>
   </component>

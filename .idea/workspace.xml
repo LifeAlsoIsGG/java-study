@@ -8,10 +8,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="update TryCatchDemo 2">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/src/main/java/juc/lock/ReentrantLockConditionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/juc/lock/ReentrantLockAndConditionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/SynchronizedDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/target/classes/SynchronizedDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/juc/lock/ReentrantLockConditionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/DataStructure_Algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/ElasticSearch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/FutureTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/InterruptedDemo$MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/InterruptedDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/SynchronizedDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/ThreadCreation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/ThreadCreation$ByCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/ThreadCreation$ByRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/ThreadCreation$ByThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/ThreadCreation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/ThreadLocalDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/VolatileDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/juc/CountDownLatchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/juc/lock/ProducerConsumerLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/juc/lock/ReentrantLockAndConditionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/生产者消费者问题/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/生产者消费者问题/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/生产者消费者问题/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/生产者消费者问题/Storage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/竞态测试$IndexGen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/竞态测试.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/线程交替打印100$PrintNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/target/classes/线程交替打印100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid1244.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/replay_pid1244.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/abstractFactory/AbstractFactoryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/abstractFactory/AbstractFactoryMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/builder/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/builder/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/builder/BikeWithBuild.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/builder/BikeWithBuild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/builder/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/builder/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/builder/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/builder/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/builder/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/builder/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/builder/MobikeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/builder/MobikeBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/builder/OfoBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/builder/OfoBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/FactoryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/factory/FactoryMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/prototype/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/prototype/Prototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/singleton/SingleObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/SingleObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/singleton/SingleObject_Lazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/SingleObject_Lazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/singleton/SingletonFather.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/SingletonFather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/singleton/SingletonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/SingletonMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/singleton/Singleton_DCL.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/Singleton_DCL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/singleton/Singleton_Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/Singleton_Enum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/singleton/Singleton_Hungry.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/Singleton_Hungry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/singleton/Singleton_Lazy_Synchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/Singleton_Lazy_Synchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPattern/singleton/Singleton_StaticClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/Singleton_StaticClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +72,34 @@
   </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/MultiThreading">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="javastudy" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,7 +130,7 @@
     <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" root0="SKIP_INSPECTION" />
     <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java" root0="SKIP_INSPECTION" />
     <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/designPattern/singleton/SingleObject.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DesignPattern/src/main/java/singleton/SingleObject.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="JRebelWorkspace">
@@ -81,7 +161,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DataStructure_Algorithm" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -96,28 +177,33 @@
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="designPattern.abstractFactory" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DataStructure_Algorithm" />
+      <recent name="$PROJECT_DIR$/dubbo" />
+      <recent name="$PROJECT_DIR$/ElasticSearch" />
+      <recent name="$PROJECT_DIR$/MultiThreading" />
+      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DesignPattern/src/main/java" />
       <recent name="D:\repository\Java-Study\dubboDemo" />
       <recent name="D:\repository\Java-Study\JVM_Demo" />
       <recent name="D:\repository\Java-Study\DataStructure_Algorithm\src\main\java" />
     </key>
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/wuyuan2s/resume.git" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="designPattern.abstractFactory" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\亿方云同步\personal_space\repository\Java-Study\src\redisDemo\JedisDemo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="redisDemo.JedisDemo" />
     </key>
-    <key name="OPEN_URL_DIALOG">
-      <recent name="https://github.com/wuyuan2s/resume.git" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.ReentrantLockAndConditionDemo">
+  <component name="RunManager" selected="Gradle.Gradle Build">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -192,6 +278,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Gradle Build" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="DubboApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="dubboDemo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.chenlong.dubbo.DubboApplication" />
@@ -206,6 +311,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.InterruptedDemo" />
+      <item itemvalue="Application.ObjectUtilsDemo" />
+      <item itemvalue="Application.ReentrantLockAndConditionDemo" />
+      <item itemvalue="Application.StringUtilsDemo" />
+      <item itemvalue="Application.SynchronizedDemo" />
+      <item itemvalue="Application.重复最长的子串" />
+      <item itemvalue="Gradle.Gradle Build" />
+      <item itemvalue="Spring Boot.DubboApplication" />
+      <item itemvalue="Spring Boot.DubboProviderApplication" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ReentrantLockAndConditionDemo" />
@@ -349,7 +465,8 @@
       <workItem from="1628602990021" duration="4710000" />
       <workItem from="1628861622528" duration="378000" />
       <workItem from="1628862142827" duration="2922000" />
-      <workItem from="1628938893060" duration="4026000" />
+      <workItem from="1628938893060" duration="6955000" />
+      <workItem from="1629203721187" duration="1521000" />
     </task>
     <task id="LOCAL-00001" summary="forth message">
       <created>1627320239076</created>
