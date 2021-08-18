@@ -1,5 +1,10 @@
 package singleton;
 
+import java.lang.reflect.Constructor;
+import java.lang.reflect.InvocationTargetException;
+import java.util.Objects;
+import org.apache.commons.lang3.ObjectUtils;
+
 /**
  * @WebName: Main
  * @Description: TODO
@@ -8,7 +13,22 @@ package singleton;
  * “Welcome,my master”
  */
 public class SingletonMain {
-    public static void main(String[] args) {
+
+	//通过反射破坏从而创建多个单例对象
+	public static void destroyByReflect(Class clz)
+		throws NoSuchMethodException, InvocationTargetException, InstantiationException, IllegalAccessException {
+		Constructor c = clz.getDeclaredConstructor();
+		if(ObjectUtils.isNotEmpty(c)){
+			c.setAccessible(true);
+			Singleton_DCL singleton_dcl = (Singleton_DCL) c.newInstance();
+			Singleton_DCL singleton_dcl_2 = (Singleton_DCL) c.newInstance();
+			System.out.println("destoryByReflect");
+			System.out.println(Objects.equals(singleton_dcl, singleton_dcl_2));
+		}
+	}
+
+    public static void main(String[] args)
+	    throws InvocationTargetException, NoSuchMethodException, InstantiationException, IllegalAccessException {
 
         Thread t1 = new Thread(new Runnable() {
             @Override
@@ -50,6 +70,11 @@ public class SingletonMain {
         /*枚举*/
         Singleton_Enum instance = Singleton_Enum.INSTANCE;
         instance.method();
+
+	    destroyByReflect(Singleton_DCL.class);
+	    System.out.println("单例模式无法通过反射构造");
+	    destroyByReflect(Singleton_Enum.class);
+
 
 
 
