@@ -8,10 +8,10 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.16/6dc192c7f93ec1853f70d59d8a6dcf94eb42866/lombok-1.18.16.jar" />
         </processorPath>
-        <module name="javastudy.MultiThreading.main" />
-        <module name="javastudy.DataStructure_Algorithm.main" />
-        <module name="javastudy.ElasticSearch.main" />
-        <module name="javastudy.DesignPattern.main" />
+        <module name="javastudy.elasticSearch.main" />
+        <module name="javastudy.util.main" />
+        <module name="javastudy.dataStructure-algorithm.main" />
+        <module name="javastudy.multiThreading.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +23,10 @@
       <module name="dubboDemo" target="1.8" />
       <module name="elasticSearch" target="1.8" />
       <module name="Java_Study" target="1.8" />
+      <module name="javastudy.dataStructure_Algorithm" target="1.8" />
+      <module name="javastudy.dataStructure_Algorithm.main" target="1.8" />
+      <module name="javastudy.dataStructure_Algorithm.test" target="1.8" />
+      <module name="javastudy.design-pattern" target="1.8" />
       <module name="JVM_Demo" target="1.8" />
       <module name="multiThread" target="1.8" />
       <module name="MultiThread" target="1.8" />
