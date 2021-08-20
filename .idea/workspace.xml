@@ -8,270 +8,111 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="update TryCatchDemo 2">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/dataStructure/ListNode$ListNodeBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/dataStructure/ListNode$ListNodeBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/dataStructure/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/dataStructure/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/dataStructure/SequenceList$STerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/dataStructure/SequenceList$STerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/dataStructure/SequenceList.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/dataStructure/SequenceList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/dataStructure/TreeNode$TreeNodeBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/dataStructure/TreeNode$TreeNodeBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/dataStructure/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/dataStructure/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/dataStructure/queue/ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/dataStructure/queue/ArrayQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/dataStructure/search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/dataStructure/search/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/dataStructure/sparseArray/SparseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/dataStructure/sparseArray/SparseArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/L01_两数之和.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/L01_两数之和.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/L03_无重复字符的最长子串.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/L03_无重复字符的最长子串.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/L05_最长回文子串.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/L05_最长回文子串.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/L103_二叉树的锯齿形层序遍历.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/L103_二叉树的锯齿形层序遍历.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/L234_回文链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/L234_回文链表.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/L25_K个一组翻转链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/L25_K个一组翻转链表.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/L69_x的平方根.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/L69_x的平方根.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/Link.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/Link.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer04_二维数组中的查找.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer04_二维数组中的查找.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer05_替换空格.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer05_替换空格.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer06_从尾到头打印链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer06_从尾到头打印链表.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer07_重建二叉树$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer07_重建二叉树$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer07_重建二叉树.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer07_重建二叉树.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer09_用两个栈实现队列.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer09_用两个栈实现队列.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer10_II_青蛙跳台阶问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer10_II_青蛙跳台阶问题.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer10_I_斐波那契数列.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer10_I_斐波那契数列.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer11_旋转数组的最小数字.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer11_旋转数组的最小数字.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer12_矩阵中的路径.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer12_矩阵中的路径.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer13_机器人的运动范围.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer13_机器人的运动范围.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer24_反转链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/剑指offer/剑指Offer24_反转链表.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/leetcode/找出数组中重复的数.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/leetcode/找出数组中重复的数.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/sort/BucketSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/sort/BucketSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/sort/ComparableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/sort/ComparableTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/sort/CountingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/sort/CountingSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/sort/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/sort/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/sort/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/sort/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/sort/RadixSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/sort/RadixSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/sort/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/sort/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/sort/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/sort/ShellSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/sort/SortCompare.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/sort/SortCompare.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/sort/Students.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/sort/Students.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/ThreadPrintTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/ThreadPrintTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/TreeStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/TreeStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/TreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/TreeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/alibaba/Exit.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/alibaba/Exit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/alibaba/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/alibaba/test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/cider.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/cider.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/cvte.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/cvte.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/tencent/hash$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/tencent/hash$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/tencent/hash.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/tencent/hash.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/tencent/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/tencent/test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/xiecheng/BuildingHouse$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/xiecheng/BuildingHouse$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/xiecheng/BuildingHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/xiecheng/BuildingHouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/xiecheng/最大收益$Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/xiecheng/最大收益$Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/xiecheng/最大收益.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/xiecheng/最大收益.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/三六零/ab树.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/三六零/ab树.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/三六零/判断是否对称二叉树.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/三六零/判断是否对称二叉树.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/上海吉世代.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/上海吉世代.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/九鼎无双面试题.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/九鼎无双面试题.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/妙盈编程题.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/妙盈编程题.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/字符统计$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/字符统计$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/字符统计$ValueComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/字符统计$ValueComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/字符统计.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/字符统计.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/字节测开二面.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/字节测开二面.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/最长回文字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/最长回文字符串.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/test/重复最长的子串.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/test/重复最长的子串.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/判断IPV4地址是否合法.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/判断IPV4地址是否合法.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/判断素数.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/判断素数.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/合并数组按照升序排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/合并数组按照升序排序.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/牛客网/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/牛客网/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/牛客网/NC119_最小的K个数.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/牛客网/NC119_最小的K个数.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/牛客网/NC32_求平方根.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/牛客网/NC32_求平方根.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/牛客网/NC45_实现二叉树先序和中序和后序遍历$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/牛客网/NC45_实现二叉树先序和中序和后序遍历$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/牛客网/NC45_实现二叉树先序和中序和后序遍历.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/牛客网/NC45_实现二叉树先序和中序和后序遍历.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/牛客网/NC4_判断链表中是否有环.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/牛客网/NC4_判断链表中是否有环.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/牛客网/NC66_两个链表的第一个公共结点.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/牛客网/NC66_两个链表的第一个公共结点.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/牛客网/NC93_设计LRU缓存结构.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/牛客网/NC93_设计LRU缓存结构.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/牛客网/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/牛客网/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/牛客网/ddd.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/牛客网/ddd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/牛客网/xxx.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/牛客网/xxx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/牛客网/中位数.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/牛客网/中位数.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/牛客网/字符串压缩.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/牛客网/字符串压缩.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/牛客网/输出降序链表的公共部分.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/牛客网/输出降序链表的公共部分.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/生产者消费者.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/生产者消费者.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/classes/java/main/移除相同的数字.class" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/classes/java/main/移除相同的数字.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/dataStructure/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/dataStructure/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/dataStructure/SequenceList.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/dataStructure/SequenceList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/dataStructure/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/dataStructure/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/dataStructure/queue/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/dataStructure/queue/ArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/dataStructure/search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/dataStructure/search/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/dataStructure/sparseArray/SparseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/dataStructure/sparseArray/SparseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/L01_两数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/L01_两数之和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/L03_无重复字符的最长子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/L03_无重复字符的最长子串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/L05_最长回文子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/L05_最长回文子串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/L103_二叉树的锯齿形层序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/L103_二叉树的锯齿形层序遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/L234_回文链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/L234_回文链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/L25_K个一组翻转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/L25_K个一组翻转链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/L69_x的平方根.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/L69_x的平方根.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/Link.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/Link.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/剑指offer/剑指Offer04_二维数组中的查找.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/剑指offer/剑指Offer04_二维数组中的查找.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/剑指offer/剑指Offer05_替换空格.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/剑指offer/剑指Offer05_替换空格.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/剑指offer/剑指Offer06_从尾到头打印链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/剑指offer/剑指Offer06_从尾到头打印链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/剑指offer/剑指Offer07_重建二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/剑指offer/剑指Offer07_重建二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/剑指offer/剑指Offer09_用两个栈实现队列.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/剑指offer/剑指Offer09_用两个栈实现队列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/剑指offer/剑指Offer10_II_青蛙跳台阶问题.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/剑指offer/剑指Offer10_II_青蛙跳台阶问题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/剑指offer/剑指Offer10_I_斐波那契数列.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/剑指offer/剑指Offer10_I_斐波那契数列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/剑指offer/剑指Offer11_旋转数组的最小数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/剑指offer/剑指Offer11_旋转数组的最小数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/剑指offer/剑指Offer12_矩阵中的路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/剑指offer/剑指Offer12_矩阵中的路径.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/剑指offer/剑指Offer13_机器人的运动范围.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/剑指offer/剑指Offer13_机器人的运动范围.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/剑指offer/剑指Offer24_反转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/剑指offer/剑指Offer24_反转链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/leetcode/找出数组中重复的数.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/leetcode/找出数组中重复的数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/sort/BucketSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/sort/BucketSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/sort/ComparableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/sort/ComparableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/sort/CountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/sort/CountingSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/sort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/sort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/sort/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/sort/RadixSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/sort/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/sort/ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/sort/SortCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/sort/SortCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/sort/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/sort/Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/ThreadPrintTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/ThreadPrintTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/TreeStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/TreeStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/TreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/TreeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/alibaba/Exit.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/alibaba/Exit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/alibaba/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/alibaba/test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/cider.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/cider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/cvte.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/cvte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/tencent/hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/tencent/hash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/tencent/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/tencent/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/xiecheng/BuildingHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/xiecheng/BuildingHouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/xiecheng/最大收益.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/xiecheng/最大收益.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/三六零/ab树.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/三六零/ab树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/三六零/判断是否对称二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/三六零/判断是否对称二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/上海吉世代.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/上海吉世代.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/九鼎无双面试题.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/九鼎无双面试题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/妙盈编程题.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/妙盈编程题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/字符统计.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/字符统计.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/字节测开二面.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/字节测开二面.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/最长回文字符串.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/最长回文字符串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/test/重复最长的子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/重复最长的子串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/判断IPV4地址是否合法.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/判断IPV4地址是否合法.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/判断素数.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/判断素数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/合并数组按照升序排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/合并数组按照升序排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/牛客网/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/牛客网/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/牛客网/NC119_最小的K个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/牛客网/NC119_最小的K个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/牛客网/NC32_求平方根.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/牛客网/NC32_求平方根.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/牛客网/NC45_实现二叉树先序和中序和后序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/牛客网/NC45_实现二叉树先序和中序和后序遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/牛客网/NC4_判断链表中是否有环.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/牛客网/NC4_判断链表中是否有环.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/牛客网/NC66_两个链表的第一个公共结点.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/牛客网/NC66_两个链表的第一个公共结点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/牛客网/NC93_设计LRU缓存结构.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/牛客网/NC93_设计LRU缓存结构.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/牛客网/ddd.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/牛客网/ddd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/牛客网/xxx.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/牛客网/xxx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/牛客网/中位数.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/牛客网/中位数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/牛客网/字符串压缩.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/牛客网/字符串压缩.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/牛客网/输出降序链表的公共部分.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/牛客网/输出降序链表的公共部分.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/生产者消费者.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/生产者消费者.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure_Algorithm/src/main/java/移除相同的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/移除相同的数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/abstractFactory/AbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/AbstractFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/abstractFactory/AbstractFactoryMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/AbstractFactoryMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/abstractFactory/Blue.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/Blue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/abstractFactory/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/abstractFactory/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/Color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/abstractFactory/ColorFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/ColorFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/abstractFactory/FactoryProducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/FactoryProducer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/abstractFactory/Green.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/Green.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/abstractFactory/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/abstractFactory/Red.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/Red.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/abstractFactory/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/abstractFactory/ShapeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/ShapeFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/abstractFactory/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/builder/Bike.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/Bike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/builder/BikeWithBuild$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/BikeWithBuild$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/builder/BikeWithBuild$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/BikeWithBuild$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/builder/BikeWithBuild.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/BikeWithBuild.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/builder/Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/builder/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/builder/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/Director.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/builder/MobikeBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/MobikeBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/builder/OfoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/OfoBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/factory/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/factory/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/factory/FactoryMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/factory/FactoryMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/factory/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/factory/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/factory/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/factory/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/factory/ShapeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/factory/ShapeFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/factory/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/factory/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/prototype/Prototype.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/prototype/Prototype.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/singleton/SingleObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/SingleObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/singleton/SingleObject_Lazy.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/SingleObject_Lazy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/singleton/SingletonFather.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/SingletonFather.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/singleton/SingletonMain$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/SingletonMain$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/singleton/SingletonMain$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/SingletonMain$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/singleton/SingletonMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/SingletonMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/singleton/Singleton_DCL.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/Singleton_DCL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/singleton/Singleton_Enum.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/Singleton_Enum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/singleton/Singleton_Hungry.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/Singleton_Hungry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/singleton/Singleton_Lazy_Synchronized.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/Singleton_Lazy_Synchronized.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/singleton/Singleton_StaticClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/Singleton_StaticClass$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/singleton/Singleton_StaticClass$SingletonInstance.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/Singleton_StaticClass$SingletonInstance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/classes/java/main/singleton/Singleton_StaticClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/Singleton_StaticClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/abstractFactory/AbstractFactoryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/abstractFactory/AbstractFactoryMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/builder/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/builder/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/builder/BikeWithBuild.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/builder/BikeWithBuild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/builder/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/builder/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/builder/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/builder/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/builder/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/builder/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/builder/MobikeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/builder/MobikeBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/builder/OfoBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/builder/OfoBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/factory/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/factory/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/factory/FactoryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/factory/FactoryMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/factory/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/factory/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/factory/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/factory/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/factory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/factory/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/factory/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/factory/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/prototype/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/prototype/Prototype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/SingleObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/SingleObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/SingleObject_Lazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/SingleObject_Lazy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/SingletonFather.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/SingletonFather.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/SingletonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/SingletonMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/Singleton_DCL.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/Singleton_DCL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/Singleton_Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/Singleton_Enum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/Singleton_Hungry.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/Singleton_Hungry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/Singleton_Lazy_Synchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/Singleton_Lazy_Synchronized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern/src/main/java/singleton/Singleton_StaticClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/Singleton_StaticClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GoogleGuavaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/GoogleGuavaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/MethodPrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectUtilsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/ObjectUtilsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringUtilsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/StringUtilsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringUtilsTest/StringUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/StringUtilsTest/StringUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TryCatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/TryCatchDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bloomFilter/GuavaBloomFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/bloomFilter/GuavaBloomFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bloomFilter/MyBloomFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/bloomFilter/MyBloomFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classLoaderTest/ClassLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/classLoaderTest/ClassLoaderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classLoaderTest/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/classLoaderTest/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classLoaderTest/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/classLoaderTest/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classLoaderTest/MyClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/classLoaderTest/MyClassLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/lambda/LambdaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/CAS_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/multithreading/CAS_Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/ThreadLocalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/multithreading/ThreadLocalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redisDemo/JedisDemo/TestHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/redisDemo/JedisDemo/TestHash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redisDemo/JedisDemo/TestKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/redisDemo/JedisDemo/TestKey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redisDemo/JedisDemo/TestList.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/redisDemo/JedisDemo/TestList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redisDemo/JedisDemo/TestMulti.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/redisDemo/JedisDemo/TestMulti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redisDemo/JedisDemo/TestPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/redisDemo/JedisDemo/TestPassword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redisDemo/JedisDemo/TestSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/redisDemo/JedisDemo/TestSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redisDemo/JedisDemo/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/redisDemo/JedisDemo/TestString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redisDemo/pingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/redisDemo/pingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/build/classes/java/main/Doc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/build/classes/java/main/Es.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/build/classes/java/main/HelloEs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/build/classes/java/main/Index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/build/classes/java/main/UserEs$UserEsBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/build/classes/java/main/UserEs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/FutureTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/InterruptedDemo$MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/InterruptedDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/SynchronizedDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadCreation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadCreation$ByCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadCreation$ByRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadCreation$ByThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadCreation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadLocalDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/VolatileDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/CountDownLatchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/lock/ProducerConsumerLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/lock/ReentrantLockAndConditionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Storage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/竞态测试$IndexGen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/竞态测试.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/线程交替打印100$PrintNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/线程交替打印100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataStructure-algorithm/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/AbstractFactoryMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/Blue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/ColorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/FactoryProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/Green.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/Red.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/ShapeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/abstractFactory/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/BikeWithBuild$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/BikeWithBuild$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/BikeWithBuild.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/Director.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/MobikeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/builder/OfoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/factory/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/factory/FactoryMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/factory/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/factory/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/factory/ShapeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/factory/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/prototype/Prototype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/SingleObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/SingleObject_Lazy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/SingletonFather.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/SingletonMain$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/SingletonMain$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/SingletonMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/Singleton_DCL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/Singleton_Enum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/Singleton_Hungry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/Singleton_Lazy_Synchronized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/Singleton_StaticClass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/Singleton_StaticClass$SingletonInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/classes/java/main/singleton/Singleton_StaticClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/GoogleGuavaDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/GoogleGuavaDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/MethodPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/MethodPrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/ObjectUtilsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/ObjectUtilsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/StringUtilsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/StringUtilsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/StringUtilsTest/StringUtilsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/StringUtilsTest/StringUtilsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/TryCatchDemo$Demo$DemoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/TryCatchDemo$Demo$DemoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/TryCatchDemo$Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/TryCatchDemo$Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/TryCatchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/TryCatchDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/bloomFilter/GuavaBloomFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/bloomFilter/GuavaBloomFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/bloomFilter/MyBloomFilter$SimpleHash.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/bloomFilter/MyBloomFilter$SimpleHash.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/bloomFilter/MyBloomFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/bloomFilter/MyBloomFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/classLoaderTest/ClassLoaderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/classLoaderTest/ClassLoaderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/classLoaderTest/MyClassLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/classLoaderTest/MyClassLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/lambda/LambdaTest$GreetingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/lambda/LambdaTest$GreetingService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/lambda/LambdaTest$MathOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/lambda/LambdaTest$MathOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/lambda/LambdaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/lambda/LambdaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/multithreading/CAS_Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/multithreading/CAS_Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/multithreading/ThreadLocalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/multithreading/ThreadLocalDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestHash.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestHash.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestKey.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestKey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestList.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestMulti.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestMulti.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestPassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestPassword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestString.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/pingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/pingTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,12 +136,26 @@
         <task path="$PROJECT_DIR$">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/designPattern">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="javastudy" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="javastudy" type="f1a62948:ProjectNode" />
+                <item name="designPattern" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="javastudy" type="f1a62948:ProjectNode" />
+                <item name="designPattern" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
             </expand>
             <select />
@@ -352,7 +207,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1fo1EIVFCaSsdMlQWY4jYnQC1SK" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -371,6 +226,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/JVM" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -412,7 +271,7 @@
       <recent name="redisDemo.JedisDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SingletonMain">
+  <component name="RunManager" selected="Application.Demo">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -439,6 +298,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="字符串压缩" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="牛客网.字符串压缩" />
+      <module name="javastudy.dataStructure-algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="牛客网.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="javastudy.util.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReentrantLockAndConditionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="juc.lock.ReentrantLockAndConditionDemo" />
       <module name="MultiThreading" />
@@ -455,20 +334,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringUtilsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringUtilsDemo" />
-      <module name="javastudy.util.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SynchronizedDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SynchronizedDemo" />
-      <module name="MultiThreading" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -521,21 +386,21 @@
     </configuration>
     <list>
       <item itemvalue="Application.ReentrantLockAndConditionDemo" />
-      <item itemvalue="Application.StringUtilsDemo" />
-      <item itemvalue="Application.SynchronizedDemo" />
       <item itemvalue="Application.重复最长的子串" />
       <item itemvalue="Application.SingletonMain" />
       <item itemvalue="Gradle.Gradle Build" />
       <item itemvalue="Spring Boot.DubboApplication" />
       <item itemvalue="Spring Boot.DubboProviderApplication" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.字符串压缩" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.字符串压缩" />
         <item itemvalue="Application.SingletonMain" />
         <item itemvalue="Application.ReentrantLockAndConditionDemo" />
         <item itemvalue="Application.重复最长的子串" />
-        <item itemvalue="Application.SynchronizedDemo" />
-        <item itemvalue="Application.StringUtilsDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -676,6 +541,7 @@
       <workItem from="1629203721187" duration="1698000" />
       <workItem from="1629254135357" duration="3967000" />
       <workItem from="1629446165668" duration="283000" />
+      <workItem from="1629446693907" duration="2778000" />
     </task>
     <task id="LOCAL-00001" summary="forth message">
       <created>1627320239076</created>
