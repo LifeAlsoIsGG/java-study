@@ -8,20 +8,20 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.16/6dc192c7f93ec1853f70d59d8a6dcf94eb42866/lombok-1.18.16.jar" />
         </processorPath>
-        <module name="javastudy.elasticSearch.main" />
-        <module name="javastudy.util.main" />
-        <module name="javastudy.dataStructure-algorithm.main" />
-        <module name="javastudy.multiThreading.main" />
+        <module name="util_main" />
+        <module name="multiThreading_main" />
+        <module name="dataStructure-algorithm_main" />
+        <module name="elasticSearch_main" />
+        <module name="demo_main" />
+        <module name="dubbo_main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="DataStructure_Algorithm" target="1.8" />
-      <module name="dubbo" target="1.8" />
       <module name="dubbo-api" target="1.8" />
       <module name="dubbo-consumer" target="1.8" />
       <module name="dubbo-provider" target="1.8" />
       <module name="dubboDemo" target="1.8" />
-      <module name="elasticSearch" target="1.8" />
       <module name="Java_Study" target="1.8" />
       <module name="javastudy.dataStructure_Algorithm" target="1.8" />
       <module name="javastudy.dataStructure_Algorithm.main" target="1.8" />

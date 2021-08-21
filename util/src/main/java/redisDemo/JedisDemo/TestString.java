@@ -1,10 +1,6 @@
 package redisDemo.JedisDemo;
 
 import io.jsonwebtoken.lang.Collections;
-import redis.clients.jedis.Jedis;
-
-import java.util.Arrays;
-import java.util.concurrent.TimeUnit;
 
 public class TestString {
 

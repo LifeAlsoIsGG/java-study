@@ -1,4 +1,4 @@
-build.gradlejar.enabled = true
+//jar.enabled = true
 
 group 'com.longchen'
 version '0.0.1-SNAPSHOT'
