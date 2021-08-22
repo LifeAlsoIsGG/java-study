@@ -8,94 +8,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="update TryCatchDemo 2">
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ElasticSearch/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ElasticSearch/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MultiThreading/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/InterruptedDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/InterruptedDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/SynchronizedDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/SynchronizedDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadCreation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadLocalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadLocalDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/VolatileDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/VolatileDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/CountDownLatchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/CountDownLatchDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/lock/ProducerConsumerLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/lock/ProducerConsumerLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/lock/ReentrantLockAndConditionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/lock/ReentrantLockAndConditionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/竞态测试.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/竞态测试.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/线程交替打印100.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/线程交替打印100.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/rebel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/abstractFactory/AbstractFactoryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/abstractFactory/AbstractFactoryMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/builder/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/builder/BikeWithBuild.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/BikeWithBuild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/builder/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/builder/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/builder/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/builder/MobikeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/MobikeBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/builder/OfoBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/OfoBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/factory/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/factory/FactoryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory/FactoryMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/factory/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/factory/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/factory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/factory/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/prototype/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/prototype/Prototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/SingleObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/SingleObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/SingleObject_Lazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/SingleObject_Lazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/SingletonFather.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/SingletonFather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/SingletonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/SingletonMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/Singleton_DCL.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/Singleton_DCL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/Singleton_Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/Singleton_Enum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/Singleton_Hungry.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/Singleton_Hungry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/Singleton_Lazy_Synchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/Singleton_Lazy_Synchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/Singleton_StaticClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/Singleton_StaticClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dubbo/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/dubbo-api/dubbo-api.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/dubbo-api/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/dubbo-consumer/dubbo-consumer.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/dubbo-consumer/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/dubbo-consumer/src/main/java/com/chenlong/dubbo/consumer/ConsumerApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/dubbo-consumer/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/dubbo-consumer/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/dubbo-consumer/target/classes/com/chenlong/dubbo/consumer/ConsumerApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/dubbo-provider/dubbo-provider.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/dubbo-provider/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/dubbo-provider/src/main/java/com/chenlong/dubbo/provider/ProviderApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/dubbo-provider/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/dubbo-provider/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/dubbo-provider/target/classes/com/chenlong/dubbo/provider/ProviderApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/GoogleGuavaDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/MethodPrint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/ObjectUtilsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/StringUtilsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/StringUtilsTest/StringUtilsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/TryCatchDemo$Demo$DemoBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/TryCatchDemo$Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/TryCatchDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/bloomFilter/GuavaBloomFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/bloomFilter/MyBloomFilter$SimpleHash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/bloomFilter/MyBloomFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/classLoaderTest/ClassLoaderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/classLoaderTest/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/classLoaderTest/MyClassLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/lambda/LambdaTest$GreetingService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/lambda/LambdaTest$MathOperation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/lambda/LambdaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/multithreading/CAS_Demo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/multithreading/CAS_Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/multithreading/ThreadLocalDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/multithreading/ThreadLocalDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/multithreading/ThreadLocalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestHash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestMulti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestPassword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/JedisDemo/TestString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/redisDemo/pingTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/GoogleGuavaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/GoogleGuavaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/MethodPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/MethodPrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/ObjectUtilsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/ObjectUtilsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/StringUtilsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/StringUtilsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/StringUtilsTest/StringUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/StringUtilsTest/StringUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/TryCatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/TryCatchDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/bloomFilter/GuavaBloomFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/bloomFilter/GuavaBloomFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/bloomFilter/MyBloomFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/bloomFilter/MyBloomFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/classLoaderTest/ClassLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/classLoaderTest/ClassLoaderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/classLoaderTest/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/classLoaderTest/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/classLoaderTest/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/classLoaderTest/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/classLoaderTest/MyClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/classLoaderTest/MyClassLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/lambda/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/lambda/LambdaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/multithreading/CAS_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/multithreading/CAS_Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/multithreading/ThreadLocalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/multithreading/ThreadLocalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/redisDemo/JedisDemo/TestHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/redisDemo/JedisDemo/TestHash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/redisDemo/JedisDemo/TestKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/redisDemo/JedisDemo/TestKey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/redisDemo/JedisDemo/TestList.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/redisDemo/JedisDemo/TestList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/redisDemo/JedisDemo/TestMulti.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/redisDemo/JedisDemo/TestMulti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/redisDemo/JedisDemo/TestPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/redisDemo/JedisDemo/TestPassword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/redisDemo/JedisDemo/TestSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/redisDemo/JedisDemo/TestSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/redisDemo/JedisDemo/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/redisDemo/JedisDemo/TestString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/redisDemo/pingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/demo/redisDemo/pingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/src/main/java/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/Demo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -123,11 +98,6 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="java-study" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="java-study" type="f1a62948:ProjectNode" />
-                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
             </expand>
             <select />
@@ -161,6 +131,21 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/util/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/multiThreading/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/settings.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/util/src/main/java/classLoaderTest/MyClassLoader.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/elasticSearch/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dataStructure-algorithm/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/util/src/main/java/Demo1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dubbo/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/designPattern/build.gradle" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -187,16 +172,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dubbo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/designPattern" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReactorSettings">
@@ -207,18 +192,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\repository\java-study\designPattern" />
+      <recent name="D:\repository\java-study\util" />
       <recent name="D:\repository\java-study\dubbo" />
       <recent name="$PROJECT_DIR$/JVM" />
       <recent name="$PROJECT_DIR$/DataStructure_Algorithm" />
-      <recent name="$PROJECT_DIR$/dubbo" />
-      <recent name="$PROJECT_DIR$/ElasticSearch" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\repository\java-study\designPattern\src\main\java" />
       <recent name="D:\repository\java-study\multiThreading\src\main\java\demo" />
       <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/DesignPattern/src/main/java" />
       <recent name="D:\repository\Java-Study\dubboDemo" />
-      <recent name="D:\repository\Java-Study\JVM_Demo" />
     </key>
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/wuyuan2s/resume.git" />
@@ -233,7 +218,7 @@
       <recent name="redisDemo.JedisDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Gradle Build">
+  <component name="RunManager" selected="Application.ReadWriteLockDemo">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -247,29 +232,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="重复最长的子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.重复最长的子串" />
-      <module name="DataStructure_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo1" />
+      <module name="javastudy.util.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
+    <configuration name="ObjectUtilsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectUtilsDemo" />
       <module name="util_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReentrantLockAndConditionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="juc.lock.ReentrantLockAndConditionDemo" />
-      <module name="MultiThreading" />
+    <configuration name="ReadWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="juc.lock.ReadWriteLockDemo" />
+      <module name="java-study.multiThreading.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="juc.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -280,19 +265,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符串压缩" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="牛客网.字符串压缩" />
-      <module name="javastudy.dataStructure-algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="牛客网.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,6 +284,27 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="D:/repository/java-study [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="Gradle Build" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
@@ -347,20 +340,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReentrantLockAndConditionDemo" />
-      <item itemvalue="Application.重复最长的子串" />
       <item itemvalue="Application.SingletonMain" />
-      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.ObjectUtilsDemo" />
+      <item itemvalue="Application.Demo1" />
       <item itemvalue="Gradle.Gradle Build" />
+      <item itemvalue="Gradle.D:/repository/java-study [dependencies]" />
       <item itemvalue="Spring Boot.DubboApplication" />
       <item itemvalue="Spring Boot.DubboProviderApplication" />
+      <item itemvalue="Application.ReadWriteLockDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.ReadWriteLockDemo" />
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Gradle.D:/repository/java-study [dependencies]" />
+        <item itemvalue="Application.ObjectUtilsDemo" />
         <item itemvalue="Application.SingletonMain" />
-        <item itemvalue="Application.ReentrantLockAndConditionDemo" />
-        <item itemvalue="Application.重复最长的子串" />
       </list>
     </recent_temporary>
   </component>
@@ -503,7 +498,10 @@
       <workItem from="1629446165668" duration="283000" />
       <workItem from="1629446693907" duration="2778000" />
       <workItem from="1629536026737" duration="766000" />
-      <workItem from="1629537649640" duration="1847000" />
+      <workItem from="1629537649640" duration="2435000" />
+      <workItem from="1629540872751" duration="3113000" />
+      <workItem from="1629552455406" duration="3038000" />
+      <workItem from="1629564037961" duration="9194000" />
     </task>
     <task id="LOCAL-00001" summary="forth message">
       <created>1627320239076</created>
@@ -576,17 +574,17 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/multiThreading/src/main/java/demo/TryCatchDemo.java</url>
+          <url>file://$PROJECT_DIR$/util/src/main/java/TryCatchDemo.java</url>
           <line>53</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/multiThreading/src/main/java/demo/TryCatchDemo.java</url>
+          <url>file://$PROJECT_DIR$/util/src/main/java/TryCatchDemo.java</url>
           <line>57</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/multiThreading/src/main/java/demo/TryCatchDemo.java</url>
+          <url>file://$PROJECT_DIR$/util/src/main/java/TryCatchDemo.java</url>
           <line>56</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
@@ -601,5 +599,9 @@
         <watch expression="demoList" language="JAVA" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

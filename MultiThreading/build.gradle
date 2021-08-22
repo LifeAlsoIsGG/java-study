@@ -1,7 +1,13 @@
-//jar.enabled = true
+jar.enabled = true
 
 group 'com.longchen'
 version '0.0.1-SNAPSHOT'
+
+compileJava.options.encoding = 'UTF-8'
+compileTestJava.options.encoding = 'UTF-8'
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
 
 repositories {
     mavenCentral()

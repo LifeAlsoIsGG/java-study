@@ -1,4 +1,4 @@
-rootProject.name = 'javastudy'
+rootProject.name = 'java-study'
 include 'elasticSearch'
 include 'dataStructure-algorithm'
 include 'multiThreading'

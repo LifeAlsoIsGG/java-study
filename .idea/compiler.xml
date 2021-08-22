@@ -8,12 +8,12 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.16/6dc192c7f93ec1853f70d59d8a6dcf94eb42866/lombok-1.18.16.jar" />
         </processorPath>
-        <module name="util_main" />
-        <module name="multiThreading_main" />
-        <module name="dataStructure-algorithm_main" />
-        <module name="elasticSearch_main" />
-        <module name="demo_main" />
-        <module name="dubbo_main" />
+        <module name="java-study.designPattern.main" />
+        <module name="java-study.dubbo.main" />
+        <module name="java-study.elasticSearch.main" />
+        <module name="java-study.util.main" />
+        <module name="java-study.dataStructure-algorithm.main" />
+        <module name="java-study.multiThreading.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
