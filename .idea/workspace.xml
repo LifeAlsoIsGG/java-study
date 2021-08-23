@@ -8,61 +8,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="update TryCatchDemo 2">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ElasticSearch/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ElasticSearch/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/InterruptedDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/InterruptedDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/SynchronizedDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/SynchronizedDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadCreation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadLocalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadLocalDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/VolatileDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/VolatileDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/CountDownLatchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/CountDownLatchDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/lock/ProducerConsumerLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/lock/ProducerConsumerLock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/lock/ReentrantLockAndConditionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/lock/ReentrantLockAndConditionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/竞态测试.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/竞态测试.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/线程交替打印100.class" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/线程交替打印100.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/abstractFactory/AbstractFactoryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/abstractFactory/AbstractFactoryMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/builder/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/builder/BikeWithBuild.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/BikeWithBuild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/builder/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/builder/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/builder/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/builder/MobikeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/MobikeBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/builder/OfoBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/OfoBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/factory/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/factory/FactoryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory/FactoryMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/factory/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/factory/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/factory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/factory/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/prototype/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/prototype/Prototype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/SingleObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/SingleObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/SingleObject_Lazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/SingleObject_Lazy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/SingletonFather.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/SingletonFather.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/SingletonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/SingletonMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/Singleton_DCL.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/Singleton_DCL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/Singleton_Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/Singleton_Enum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/Singleton_Hungry.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/Singleton_Hungry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/Singleton_Lazy_Synchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/Singleton_Lazy_Synchronized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/singleton/Singleton_StaticClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton/Singleton_StaticClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/build/classes/java/main/Doc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/build/classes/java/main/Es.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/build/classes/java/main/HelloEs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/build/classes/java/main/Index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/build/classes/java/main/UserEs$UserEsBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticSearch/build/classes/java/main/UserEs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/FutureTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/InterruptedDemo$MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/InterruptedDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/SynchronizedDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadCreation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadCreation$ByCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadCreation$ByRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadCreation$ByThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadCreation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadLocalDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/VolatileDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/CountDownLatchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/lock/ProducerConsumerLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/lock/ReentrantLockAndConditionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Storage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/竞态测试$IndexGen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/竞态测试.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/线程交替打印100$PrintNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/线程交替打印100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiThreading/src/main/java/juc/lock/ReadWriteLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/multiThreading/src/main/java/juc/lock/ReadWriteLockDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,16 +108,15 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/util/build.gradle" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/multiThreading/build.gradle" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/build.gradle" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/settings.gradle" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/util/src/main/java/classLoaderTest/MyClassLoader.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/elasticSearch/build.gradle" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/dataStructure-algorithm/build.gradle" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/util/src/main/java/Demo1.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dubbo/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/util/src/main/java/classLoaderTest/MyClassLoader.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/build.gradle" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/designPattern/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/settings.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/util/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/elasticSearch/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/multiThreading/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dataStructure-algorithm/build.gradle" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JRebelWorkspace">
     <option name="jrebelEnabledAutocompile" value="true" />
@@ -232,6 +207,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="字符统计" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.test.字符统计" />
+      <module name="Java_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructure_Algorithm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo1" />
       <module name="javastudy.util.main" />
@@ -265,19 +253,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符统计" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataStructure_Algorithm.test.字符统计" />
-      <module name="Java_Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataStructure_Algorithm.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,14 +315,15 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.字符统计" />
       <item itemvalue="Application.SingletonMain" />
       <item itemvalue="Application.ObjectUtilsDemo" />
       <item itemvalue="Application.Demo1" />
+      <item itemvalue="Application.ReadWriteLockDemo" />
       <item itemvalue="Gradle.Gradle Build" />
       <item itemvalue="Gradle.D:/repository/java-study [dependencies]" />
       <item itemvalue="Spring Boot.DubboApplication" />
       <item itemvalue="Spring Boot.DubboProviderApplication" />
-      <item itemvalue="Application.ReadWriteLockDemo" />
     </list>
     <recent_temporary>
       <list>
@@ -502,6 +478,7 @@
       <workItem from="1629540872751" duration="3113000" />
       <workItem from="1629552455406" duration="3038000" />
       <workItem from="1629564037961" duration="9194000" />
+      <workItem from="1629719702748" duration="341000" />
     </task>
     <task id="LOCAL-00001" summary="forth message">
       <created>1627320239076</created>

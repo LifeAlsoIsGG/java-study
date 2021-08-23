@@ -9,7 +9,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 /**
  * @Package: dataStructure_Algorithm.sort
  * @Author: Chen Long
- * @Description:
+ * @Description: 读写锁示例
  * @Datetime: 2021/8/22 22:39:35
  */
 public class ReadWriteLockDemo {
