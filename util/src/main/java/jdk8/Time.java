@@ -5,6 +5,7 @@ import java.sql.Timestamp;
 import java.time.*;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeFormatterBuilder;
+import java.time.format.FormatStyle;
 import java.time.temporal.ChronoField;
 import java.time.temporal.ChronoUnit;
 import java.time.temporal.TemporalAdjusters;
@@ -42,7 +43,24 @@ public class Time{
     // Clock时钟类：获取当时的时间戳，或当前时区下的日期时间信息。
     //         以前用到System.currentTimeMillis()和TimeZone.getDefault()的地方都可用Clock替换。
 
-    //Instant中是不带时区的即时时间点，且使用得的是UTC时间
+/*    类	说明
+    Clock	使用时区提供对当前即时，日期和时间的访问的时钟
+    Duration	计算两个“时间”的间隔
+    Instant	在时间线上的瞬间点（常用）
+    LocalDate	一个不可变的日期时间对象，表示日期，通常被视为年月日（常用）
+    LocalTime	是一个不可变的日期时间对象，代表一个时间，通常被看作是小时 - 秒 （常用)
+    LocalDateTime	是一个不可变的日期时间对象，代表日期时间，通常被视为年 - 月 - 日 - 时 - 分 - 秒（常用）
+    MonthDay	是一个不变的日期时间对象，代表一年和一个月的组合
+    OffsetDateTime	具有偏移量的日期时间的不可变表示
+    OffsetTime	是一个不可变的日期时间对象，表示一个时间，通常被视为小时 - 秒 - 秒
+    Period	用于计算两个“日期”的间隔
+    Year	代表一年的不可变日期时间对象
+    YearMonth	是一个不变的日期时间对象，表示一年和一个月的组合
+    ZonedDateTime	是具有时区的日期时间的不可变表示*/
+
+    /**
+     * @description: Instant中是不带时区的即时时间点，且使用得的是UTC时间,面向机器,包含的是由秒及纳秒所构成的数字.一般用于和以前的Date转换
+     **/
     public static void instantDemo(){
         Instant instant = Instant.now();
         //代替Date,精确到纳秒级，而Date精确到毫秒
@@ -75,6 +93,9 @@ public class Time{
         System.out.println("相差：" + diffAsMinutes);
     }
 
+   /**
+    * @description: LocalDate：提供日期信息，不含时间信息。不附带任何与时区相关的信息。
+    **/
     public static void localDateDemo(){
         // 创建,表示不带时区的日期，比如 1-1-2000
         LocalDate today = LocalDate.now();
@@ -166,7 +187,7 @@ public class Time{
 
 
     public static void localDateTimeDemo(){
-        // 创建 2014-03-18T13:45:20
+        // LocalDateTime,它是LocalDate和LocalTime的组合体，表示的是不带时区的日期及时间,替换Calendar
         LocalDate date = LocalDate.now();
         LocalTime time = LocalTime.now();
         LocalDateTime dt1 = LocalDateTime.of(2014, Month.MARCH, 18, 13, 45, 20);
@@ -192,7 +213,7 @@ public class Time{
         Timestamp localDateTimeToTimeStamp = Timestamp.valueOf(LocalDateTime.now());
         System.out.println("LocalDateTime -> TimeStamp:  " + localDateTimeToTimeStamp);
 
-        // LocalDateTime,它是LocalDate和LocalTime的组合体，表示的是不带时区的日期及时间,替换Calendar
+
         System.out.println("LocalDateTime:");
         LocalDateTime localDateTime = LocalDateTime.now();
         System.out.println(localDateTime);
@@ -228,11 +249,17 @@ public class Time{
         Period twoYearsSixMonthsOneDay = Period.of(2, 6, 1);
     }
 
-    public static void dateTimeFormatter(){
+    public static void dateTimeFormatterDemo(){
         //线程安全，时间格式，预先定义了许多实例，比如BASIC_ISO_DATE、ISO_LOCAL_DATE
         LocalDate date = LocalDate.of(2014, 3, 18);
         String s1 = date.format(DateTimeFormatter.BASIC_ISO_DATE); //20140318
         String s2 = date.format(DateTimeFormatter.ISO_LOCAL_DATE); //2014-03-18
+        //适用于LocalDateTime   FormatStyle.SHORT  FormatStyle.LONG FormatStyle.MEDIUM      FormatStyle.FULL
+        DateTimeFormatter.ofLocalizedDate(FormatStyle.SHORT).format(date);//19-12-18
+        DateTimeFormatter.ofLocalizedDate(FormatStyle.LONG).format(date);//2019年12月18日
+        DateTimeFormatter.ofLocalizedDate(FormatStyle.MEDIUM).format(date);//2019-12-18
+        DateTimeFormatter.ofLocalizedDate(FormatStyle.FULL).format(date);//2019年12月18日 星期三
+
         LocalDate date1;
         LocalDate date2;
         date1 = LocalDate.parse("20140318", DateTimeFormatter.BASIC_ISO_DATE);
@@ -269,7 +296,14 @@ public class Time{
 
     //时区
     public static void zoneIdDemo(){
+        // 输出所有可见的时区ID，eg：Asia/Aden, America/Cuiaba, Etc/GMT+9等
+        System.out.println(ZoneId.getAvailableZoneIds());
+        //设置时区
         ZoneId romeZone = ZoneId.of("Europe/Rome");
+        ZoneId zone_1 = ZoneId.of("Europe/Berlin");
+        ZoneId zone_2 = ZoneId.of("Asia/Shanghai");
+        System.out.println(zone_1.getRules());
+        System.out.println(zone_2.getRules());
         // TimeZone的转换
         ZoneId zoneId = TimeZone.getDefault().toZoneId();
         LocalDateTime dateTime;
@@ -283,7 +317,7 @@ public class Time{
 
         // 将LocalDateTime转换为Instant
         dateTime = LocalDateTime.of(2014, Month.MARCH, 18, 13, 45);
-        Instant instantFromDateTime = dateTime.toInstant(romeZone);
+        // Instant instantFromDateTime = dateTime.toInstant(romeZone);
         // 得到LocalDateTime对象
         LocalDateTime timeFromInstant = LocalDateTime.ofInstant(instant, romeZone);
 
@@ -295,10 +329,26 @@ public class Time{
 
     }
 
+    public static void clockDemo(){
+        // Clock使用时区来访问当前的instant, date和time。
+        // Clock类可以替换 System.currentTimeMillis() 和 TimeZone.getDefault()。
+        Clock clock = Clock.systemDefaultZone();//获取系统默认时区 (当前瞬时时间 )
+        System.out.println( "系统时间日期：" + clock.instant());
+        System.out.println( "时间毫秒：" + clock.millis());
+        //获取系统时钟，并将其转换成使用UTC时区的日期和时间
+        Clock clock_1 = Clock.systemUTC();
+        System.out.println( "时间日期：" + clock_1.instant());
+        System.out.println( "时间毫秒值：" + clock_1.millis());
+    }
+
     public static void main(String[] args) {
        // instantDemo();
-       localDateDemo();
+       // localDateDemo();
        // localDateTimeDemo();
+        clockDemo();
+       //  zoneIdDemo();
+        System.out.println(OffsetDateTime.now());
+        System.out.println(Instant.now().atZone(ZoneId.systemDefault()));
     }
 
 }
