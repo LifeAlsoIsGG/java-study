@@ -1,4 +1,4 @@
-package lambda;
+package jdk8;
 
 /**
  * @package: lambda
