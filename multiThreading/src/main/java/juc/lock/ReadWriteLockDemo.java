@@ -1,10 +1,6 @@
 package juc.lock;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReadWriteLock;
-import java.util.concurrent.locks.ReentrantReadWriteLock;
+import java.util.concurrent.locks.*;
 
 /**
  * @Package: dataStructure_Algorithm.sort

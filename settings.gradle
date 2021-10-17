@@ -5,3 +5,5 @@ include 'multiThreading'
 include 'designPattern'
 include 'dubbo'
 include 'util'
+include 'feature'
+

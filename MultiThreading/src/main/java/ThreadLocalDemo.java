@@ -11,6 +11,7 @@ public class ThreadLocalDemo {
     static ThreadLocal<Character> stringThreadLocal = new ThreadLocal<>();
 
     public static void main(String[] args) throws InterruptedException {
+//        InheritableThreadLocal
         List<Thread> threads = new ArrayList<Thread>();
         for (int i = 0; i < 26; i++) {
             int finalI = i;

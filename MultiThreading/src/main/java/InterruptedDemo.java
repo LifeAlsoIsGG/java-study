@@ -9,7 +9,6 @@ import java.util.concurrent.Future;
  */
 
 public class InterruptedDemo {
-
 	//	通过调用一个线程的 interrupt() 来中断该线程，如果该线程处于阻塞、限期等待或者无限期等待状态，
 	//	那么就会抛出 InterruptedException，从而提前结束该线程。但是不能中断 I/O 阻塞和 synchronized 锁阻塞。
 	public void test(){

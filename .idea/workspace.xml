@@ -8,37 +8,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="update TryCatchDemo 2">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/src/main/java/jdkNewFeature/jdk8/LambdaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/InterruptedDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/SynchronizedDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadCreation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/ThreadLocalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/VolatileDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/CountDownLatchDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/lock/ProducerConsumerLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/juc/lock/ReentrantLockAndConditionDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/生产者消费者问题/Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/竞态测试.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/classes/java/main/线程交替打印100.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataStructure-algorithm/out/production/resources/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/out/production/resources/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/out/production/resources/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elasticSearch/out/production/resources/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiThreading/build/classes/java/main/juc/Atomic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiThreading/build/classes/java/main/juc/ThreadLocalRandom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiThreading/build/classes/java/main/juc/lock/ReadWriteLockDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiThreading/out/production/resources/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/classes/java/main/classLoaderTest/MyClassLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/lambda/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/jdk8/LambdaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/src/main/java/InterruptedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/InterruptedDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/src/main/java/ThreadLocalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/ThreadLocalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiThreading/src/main/java/juc/lock/ReadWriteLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/multiThreading/src/main/java/juc/lock/ReadWriteLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/src/main/java/jdk8/LambdaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/src/main/java/jdk8/Stream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/src/main/java/jdk8/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/jdkNewFeature/jdk8/TimeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +93,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/time/OffsetDateTime.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/CopyOnWriteArraySet.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch/7.12.1/5598d129f39c41f27c94d9c835ca193f15a11e6d/elasticsearch-7.12.1-sources.jar!/org/elasticsearch/common/collect/CopyOnWriteHashMap.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/multiThreading/build.gradle" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/build.gradle" root0="FORCE_HIGHLIGHTING" />
     <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/time/ZoneOffset.java" root0="SKIP_INSPECTION" />
@@ -122,6 +105,7 @@
     <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/time/Duration.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/designPattern/build.gradle" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/util/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/ThreadLocalRandom.java" root0="SKIP_INSPECTION" />
     <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/time/Clock.java" root0="SKIP_INSPECTION" />
     <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Locale.java" root0="SKIP_INSPECTION" />
     <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/time/LocalDate.java" root0="SKIP_INSPECTION" />
@@ -157,6 +141,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/designPattern" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -167,7 +152,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
     <property name="show.run.dashboard.notification" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -205,7 +190,7 @@
       <recent name="redisDemo.JedisDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Stream">
+  <component name="RunManager" selected="JUnit.OptionalTest.test">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -215,52 +200,6 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo1" />
-      <module name="javastudy.util.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReadWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="juc.lock.ReadWriteLockDemo" />
-      <module name="java-study.multiThreading.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="juc.lock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jdk8.Stream" />
-      <module name="java-study.util.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jdk8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jdk8.Time" />
-      <module name="java-study.util.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jdk8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -284,24 +223,85 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="java-study" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" value="" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+    <configuration name="OptionalTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-study.util.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdkNewFeature.jdk8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdkNewFeature.jdk8" />
+      <option name="MAIN_CLASS_NAME" value="jdkNewFeature.jdk8.OptionalTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-study.util.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdkNewFeature.jdk8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdkNewFeature.jdk8" />
+      <option name="MAIN_CLASS_NAME" value="jdkNewFeature.jdk8.OptionalTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamHandle.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-study.util.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdkNewFeature.jdk8.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdkNewFeature.jdk8.stream" />
+      <option name="MAIN_CLASS_NAME" value="jdkNewFeature.jdk8.stream.StreamHandle" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTerminal.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-study.util.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdkNewFeature.jdk8.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdkNewFeature.jdk8.stream" />
+      <option name="MAIN_CLASS_NAME" value="jdkNewFeature.jdk8.stream.StreamTerminal" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTerminal.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-study.util.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdkNewFeature.jdk8.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdkNewFeature.jdk8.stream" />
+      <option name="MAIN_CLASS_NAME" value="jdkNewFeature.jdk8.stream.StreamTerminal" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="DubboApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="dubboDemo" />
@@ -318,22 +318,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo1" />
-      <item itemvalue="Application.ReadWriteLockDemo" />
-      <item itemvalue="Application.Time" />
       <item itemvalue="Gradle.Gradle Build" />
-      <item itemvalue="Gradle.java-study" />
       <item itemvalue="Spring Boot.DubboApplication" />
       <item itemvalue="Spring Boot.DubboProviderApplication" />
-      <item itemvalue="Application.Stream" />
+      <item itemvalue="JUnit.StreamHandle.test4" />
+      <item itemvalue="JUnit.StreamTerminal.test2" />
+      <item itemvalue="JUnit.StreamTerminal.test3" />
+      <item itemvalue="JUnit.OptionalTest.test2" />
+      <item itemvalue="JUnit.OptionalTest.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Stream" />
-        <item itemvalue="Gradle.java-study" />
-        <item itemvalue="Application.Time" />
-        <item itemvalue="Application.ReadWriteLockDemo" />
-        <item itemvalue="Application.Demo1" />
+        <item itemvalue="JUnit.OptionalTest.test" />
+        <item itemvalue="JUnit.OptionalTest.test2" />
+        <item itemvalue="JUnit.StreamTerminal.test3" />
+        <item itemvalue="JUnit.StreamTerminal.test2" />
+        <item itemvalue="JUnit.StreamHandle.test4" />
       </list>
     </recent_temporary>
   </component>
@@ -485,6 +485,19 @@
       <workItem from="1630773151484" duration="1308000" />
       <workItem from="1630775333123" duration="220000" />
       <workItem from="1630856626212" duration="2010000" />
+      <workItem from="1631028492249" duration="4258000" />
+      <workItem from="1631632085537" duration="1254000" />
+      <workItem from="1631637710214" duration="1075000" />
+      <workItem from="1631715015897" duration="1963000" />
+      <workItem from="1634305588280" duration="1086000" />
+      <workItem from="1634306808689" duration="59000" />
+      <workItem from="1634307035088" duration="1000" />
+      <workItem from="1634307230032" duration="1327000" />
+      <workItem from="1634309340729" duration="2243000" />
+      <workItem from="1634311646382" duration="1322000" />
+      <workItem from="1634394716221" duration="4164000" />
+      <workItem from="1634401876686" duration="704000" />
+      <workItem from="1634450152503" duration="19405000" />
     </task>
     <task id="LOCAL-00001" summary="forth message">
       <created>1627320239076</created>
