@@ -8,30 +8,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="update TryCatchDemo 2">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ElasticSearch/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataStructure-algorithm/build/resources/main/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataStructure-algorithm/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/build/resources/main/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo/build/resources/main/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elasticSearch/build/resources/main/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiThreading/build/resources/main/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/resources/main/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/main/java/StringUtilsTest/StringUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/java/stringUtilsTest/StringUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/src/main/java/jdk8/stream/StreamCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/feature/src/main/java/jdk8/stream/StreamCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/src/main/java/jdk8/stream/StreamHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/feature/src/main/java/jdk8/stream/StreamMiddle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/src/main/java/jdk8/stream/StreamTerminal.java" beforeDir="false" afterPath="$PROJECT_DIR$/feature/src/main/java/jdk8/stream/StreamTerminal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.json" beforeDir="false" afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/out/production/resources/rebel.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,11 +185,11 @@
       <recent name="$PROJECT_DIR$/DataStructure_Algorithm" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\repository\java-study\util\target" />
       <recent name="D:\repository\java-study\designPattern\src\main\java" />
       <recent name="D:\repository\java-study\multiThreading\src\main\java\demo" />
       <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/DesignPattern/src/main/java" />
-      <recent name="D:\repository\Java-Study\dubboDemo" />
     </key>
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/wuyuan2s/resume.git" />
@@ -226,10 +209,11 @@
       <command value="Gradle Build" />
       <command value="gradle --stop" />
       <command value="gradle --no-daemon jmh" />
+      <command value="gradle clean" />
       <command value="gradle jar" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringConnectTest">
+  <component name="RunManager" selected="JUnit.StreamTerminal.test3">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -275,27 +259,6 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="java-study [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <configuration name="java-study [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -317,26 +280,53 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="java-study:util [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/util" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+    <configuration name="StreamCreation.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-study.feature.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdk8.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdk8.stream" />
+      <option name="MAIN_CLASS_NAME" value="jdk8.stream.StreamCreation" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMiddle.sort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-study.feature.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdk8.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdk8.stream" />
+      <option name="MAIN_CLASS_NAME" value="jdk8.stream.StreamMiddle" />
+      <option name="METHOD_NAME" value="sort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTerminal.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-study.feature.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdk8.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdk8.stream" />
+      <option name="MAIN_CLASS_NAME" value="jdk8.stream.StreamTerminal" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="DubboApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="dubboDemo" />
@@ -352,29 +342,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringConnectTest.testStringAdd" type="jmh-id" temporary="true" program-parameters="benchMark.StringConnectTest.testStringAdd" working-dir="$MODULE_WORKING_DIR$" benchmark-type="METHOD" benchmark-class="benchMark.StringConnectTest">
-      <module name="java-study.util.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.StringConnectTest" />
       <item itemvalue="Gradle.Gradle Build" />
+      <item itemvalue="Gradle.java-study [jar]" />
+      <item itemvalue="JUnit.StreamCreation.test4" />
+      <item itemvalue="JUnit.StreamTerminal.test3" />
+      <item itemvalue="JUnit.StreamMiddle.sort" />
       <item itemvalue="Spring Boot.DubboApplication" />
       <item itemvalue="Spring Boot.DubboProviderApplication" />
-      <item itemvalue="Jmh.StringConnectTest.testStringAdd" />
-      <item itemvalue="Gradle.java-study:util [clean]" />
-      <item itemvalue="Gradle.java-study [clean]" />
-      <item itemvalue="Gradle.java-study [jar]" />
-      <item itemvalue="Application.StringConnectTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StreamTerminal.test3" />
+        <item itemvalue="JUnit.StreamMiddle.sort" />
+        <item itemvalue="JUnit.StreamCreation.test4" />
         <item itemvalue="Application.StringConnectTest" />
         <item itemvalue="Gradle.java-study [jar]" />
-        <item itemvalue="Gradle.java-study [clean]" />
-        <item itemvalue="Gradle.java-study:util [clean]" />
-        <item itemvalue="Jmh.StringConnectTest.testStringAdd" />
       </list>
     </recent_temporary>
   </component>
@@ -538,7 +522,8 @@
       <workItem from="1634311646382" duration="1322000" />
       <workItem from="1634394716221" duration="4164000" />
       <workItem from="1634401876686" duration="704000" />
-      <workItem from="1634450152503" duration="25746000" />
+      <workItem from="1634450152503" duration="31337000" />
+      <workItem from="1634569334797" duration="1658000" />
     </task>
     <task id="LOCAL-00001" summary="forth message">
       <created>1627320239076</created>

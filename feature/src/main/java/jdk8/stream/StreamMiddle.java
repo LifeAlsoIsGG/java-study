@@ -12,7 +12,7 @@ import java.util.stream.Stream;
 import jdk8.entity.Employee;
 import org.junit.Test;
 
-public class StreamHandle {
+public class StreamMiddle {
 
     //1-筛选与切片
     @Test
@@ -55,14 +55,14 @@ public class StreamHandle {
         System.out.println();
 
         //练习2：
-        Stream<Stream<Character>> streamStream = list.stream().map(StreamHandle::fromStringToStream);
+        Stream<Stream<Character>> streamStream = list.stream().map(StreamMiddle::fromStringToStream);
 
         streamStream.forEach(s -> {
             s.forEach(System.out::println);
         });
         System.out.println("++++++++++++++++++++++");
 //        flatMap(Function f)——接收一个函数作为参数，将流中的每个值都换成另一个流，然后把所有流连接成一个流。
-        Stream<Character> characterStream = list.stream().flatMap(StreamHandle::fromStringToStream);
+        Stream<Character> characterStream = list.stream().flatMap(StreamMiddle::fromStringToStream);
         characterStream.forEach(System.out::println);
     }
 
@@ -96,5 +96,11 @@ public class StreamHandle {
                 return -Double.compare(e1.getSalary(), e2.getSalary());
             }
         }).forEach(System.out::println);
+
+        System.out.println("++++++++++++++++++");
+
+        employees.sort(Comparator.comparing(Employee::getAge).reversed().thenComparing(Employee::getSalary, (v1, v2) -> Double.compare(v2, v1)));
+        employees.forEach(System.out::println);
+
     }
 }

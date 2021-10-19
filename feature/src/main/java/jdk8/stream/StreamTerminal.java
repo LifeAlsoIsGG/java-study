@@ -1,6 +1,7 @@
 package jdk8.stream;
 
 import java.util.*;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 import jdk8.entity.Employee;
@@ -75,18 +76,47 @@ public class StreamTerminal {
     //2-归约
     @Test
     public void test3() {
-//        reduce(T identity, BinaryOperator)——可以将流中元素反复结合起来，得到一个值。返回 T
-//        练习1：计算1-10的自然数的和
-        List<Integer> list = Arrays.asList(72, 25, 32, 34, 43, 56, 81, 15, 29, 71);
-        Integer sum = list.stream().reduce(0, Integer::sum);
-        System.out.println(sum);
+
+//经过测试，当元素个数小于24时，并行时线程数等于元素个数，当大于等于24时，并行时线程数为16
+        List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24);
+
+        Integer v = list.parallelStream().reduce(Integer::sum).get();
+        System.out.println(v);   // 300
+
+        Integer v1 = list.parallelStream().sequential().reduce(10, Integer::sum);
+        System.out.println(v1);  //310
+
+        System.out.println("++++++++++++++++++");
+
+        //不断地把值传递给下次处理
+        Integer v2 = list.stream().reduce(0,
+            (x1, x2) -> {
+                System.out.println("stream accumulator: x1:" + x1 + "  x2:" + x2);
+                return x1 - x2;
+            },
+            (x1, x2) -> {
+                System.out.println("stream combiner: x1:" + x1 + "  x2:" + x2);
+                return x1 * x2;
+            });
+        System.out.println(v2); // -300
+
+        Integer v3 = list.parallelStream().reduce(0,
+            (x1, x2) -> {
+                System.out.println("parallelStream accumulator: x1:" + x1 + "  x2:" + x2);
+                return x1 - x2;
+            },
+            (x1, x2) -> {
+                System.out.println("parallelStream combiner: x1:" + x1 + "  x2:" + x2);
+                return x1 * x2;
+            });
+        System.out.println(v3); //197474048
 
 //        reduce(BinaryOperator) ——可以将流中元素反复结合起来，得到一个值。返回 Optional<T>
 //        练习2：计算公司所有员工工资的总和
         List<Employee> employees = Employee.getEmployees();
         Stream<Double> salaryStream = employees.stream().map(Employee::getSalary);
 //        Optional<Double> sumMoney = salaryStream.reduce(Double::sum);
-        Optional<Double> sumMoney = salaryStream.reduce((d1, d2) -> d1 + d2);
+        Optional<Double> sumMoney = salaryStream.reduce(Double::sum);
         System.out.println(sumMoney.get());
     }
 
@@ -106,5 +136,13 @@ public class StreamTerminal {
         Set<Employee> employeeSet = employees.stream().filter(e -> e.getSalary() > 6000).collect(Collectors.toSet());
 
         employeeSet.forEach(System.out::println);
+
+        System.out.println("++++++++++++++++++");
+
+        //1、key不能有重复，否则会报错，因为Map的key不能重复
+        //2、value不能为空，否则报空指针
+        employees.stream().collect(Collectors.toMap(Employee::getId, Function.identity()));
+        //value可以为空
+        employees.stream().collect(HashMap::new, (m, v) -> m.put(v.getId(), Function.identity()), HashMap::putAll);
     }
 }

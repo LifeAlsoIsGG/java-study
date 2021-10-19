@@ -1,7 +1,9 @@
 package jdk8.stream;
 
+import java.io.*;
 import java.util.Arrays;
 import java.util.List;
+import java.util.regex.Pattern;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 import jdk8.entity.Employee;
@@ -49,14 +51,29 @@ public class StreamCreation {
 
     //创建 Stream方式四：创建无限流
     @Test
-    public void test4() {
-//      迭代
-//      public static<T> Stream<T> iterate(final T seed, final UnaryOperator<T> f)
+    public void test4() throws FileNotFoundException {
+        Stream<Integer> stream = Stream.of(1, 2, 3, 4, 5, 6);
+
         //遍历前10个偶数
+        //iterate生成的是装箱的对象，必须拆箱成数字才能求和
         Stream.iterate(0, t -> t + 2).limit(10).forEach(System.out::println);
 
 //      生成
 //      public static<T> Stream<T> generate(Supplier<T> s)
         Stream.generate(Math::random).limit(10).forEach(System.out::println);
+
+        System.out.println("++++++++++++++++++++++");
+
+        //使用 BufferedReader.lines() 方法，将每行内容转成流
+        BufferedReader reader = new BufferedReader(new FileReader("D:\\repository\\java-study\\text.txt"));
+        Stream<String> lineStream = reader.lines();
+        lineStream.forEach(System.out::println);
+
+        System.out.println("++++++++++++++++++++++");
+
+        //使用 Pattern.splitAsStream() 方法，将字符串分隔成流
+        Pattern pattern = Pattern.compile(",");
+        Stream<String> stringStream = pattern.splitAsStream("a,b,c,d");
+        stringStream.forEach(System.out::println);
     }
 }
