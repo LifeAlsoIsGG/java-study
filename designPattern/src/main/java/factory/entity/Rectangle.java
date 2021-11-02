@@ -1,4 +1,6 @@
-package factory;
+package factory.entity;
+
+import factory.Shape;
 
 /**
  * @author Long Chen
@@ -7,7 +9,7 @@ package factory;
  */
 
 /*Rectangle实体类*/
-public class Rectangle implements Shape{
+public class Rectangle implements Shape {
 
 	@Override
 	public void draw() {

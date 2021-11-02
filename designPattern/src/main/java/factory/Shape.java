@@ -8,5 +8,5 @@ package factory;
 
 /*创建shape接口*/
 public interface Shape {
-	public void draw();
+	void draw();
 }

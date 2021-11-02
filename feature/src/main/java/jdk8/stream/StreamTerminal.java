@@ -90,15 +90,19 @@ public class StreamTerminal {
 
         //不断地把值传递给下次处理
         Integer v2 = list.stream().reduce(0,
+            //accumulator被称为累加器
             (x1, x2) -> {
                 System.out.println("stream accumulator: x1:" + x1 + "  x2:" + x2);
-                return x1 - x2;
+                return x1 + x2;
             },
+            //combiner被称为合成器,combiner定义的函数将accumulator提到的两个值合并起来
             (x1, x2) -> {
                 System.out.println("stream combiner: x1:" + x1 + "  x2:" + x2);
-                return x1 * x2;
+                return x1 + x2;
             });
-        System.out.println(v2); // -300
+        System.out.println(v2); // 300
+
+        System.out.println("++++++++++++++++++");
 
         Integer v3 = list.parallelStream().reduce(0,
             (x1, x2) -> {

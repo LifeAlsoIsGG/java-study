@@ -1,4 +1,6 @@
-package factory;
+package factory.entity;
+
+import factory.Shape;
 
 /**
  * @author Long Chen
@@ -7,7 +9,7 @@ package factory;
  */
 
 /*Square实体类*/
-public class Square implements Shape{
+public class Square implements Shape {
 
 	@Override
 	public void draw() {

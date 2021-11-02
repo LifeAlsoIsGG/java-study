@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+import org.junit.Test;
 
 /**
  * @Package: dataStructure_Algorithm.sort
@@ -7,22 +8,25 @@ import java.util.List;
  * @Description:
  * @Datetime: 2021/7/5 23:13:03
  */
-public class ThreadLocalDemo {
-    static ThreadLocal<Character> stringThreadLocal = new ThreadLocal<>();
+//TODO:InheritableThreadLocal
+public class ThreadLocalTest {
 
-    public static void main(String[] args) throws InterruptedException {
-//        InheritableThreadLocal
+    static ThreadLocal<Character> stringThreadLocal = new InheritableThreadLocal<>();
+
+    @Test
+    public void main() throws InterruptedException {
+        //        InheritableThreadLocal
         List<Thread> threads = new ArrayList<Thread>();
         for (int i = 0; i < 26; i++) {
             int finalI = i;
-            threads.add(new Thread(() ->{
-                stringThreadLocal.set((char)('a' + finalI));
+            threads.add(new Thread(() -> {
+                stringThreadLocal.set((char) ('a' + finalI));
                 System.out.println(Thread.currentThread().getName() + "：" + stringThreadLocal.get());
             }));
         }
 
         //线程打印
-        for (Thread t : threads){
+        for (Thread t : threads) {
             t.start();
             t.join();
         }

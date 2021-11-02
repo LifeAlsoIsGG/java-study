@@ -1,4 +1,6 @@
-package factory;
+package factory.entity;
+
+import factory.Shape;
 
 /**
  * @author Long Chen
@@ -7,7 +9,7 @@ package factory;
  */
 
 /*Circle实体类*/
-public class Circle implements Shape{
+public class Circle implements Shape {
 
 	@Override
 	public void draw() {
