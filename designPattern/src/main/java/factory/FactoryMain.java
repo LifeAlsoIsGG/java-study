@@ -1,7 +1,6 @@
 package factory;
 
 import factory.entity.*;
-import java.util.Arrays;
 import org.junit.Test;
 
 /**
@@ -27,10 +26,9 @@ public class FactoryMain {
         Shape shape_circle = ShapeFactory.createShape(Circle.class);
         shape_circle.draw();
 
-        int[] a = {1, 2, 3};
-        int[] b = Arrays.copyOf(a, 10);
-        System.out.println(Arrays.toString(b));
-
+        //结合单例模式
+        Shape singletonSquare = ShapeFactory.createSingletonSquare();
+        singletonSquare.draw();
     }
 
 }

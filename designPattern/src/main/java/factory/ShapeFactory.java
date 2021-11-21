@@ -21,6 +21,7 @@ public class ShapeFactory {
         return (T) shape;
     }
 
+    //简单工厂（静态工厂）
     //定义多个不用参数的创建方法
     public static Shape createCircle() {
         return createShape(Circle.class);
@@ -32,5 +33,10 @@ public class ShapeFactory {
 
     public static Shape createSquare() {
         return createShape(Square.class);
+    }
+
+    //结合单例模式
+    public static Shape createSingletonSquare() {
+        return SingletonSquare.getInstance();
     }
 }

@@ -10,3 +10,7 @@ repositories {
 test {
     useJUnitPlatform()
 }
+
+dependencies {
+    implementation project(':feature') /* 子模块之间的依赖 */
+}

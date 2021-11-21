@@ -1,4 +1,4 @@
-import io.swagger.models.auth.In;
+import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * @Package: dataStructure_Algorithm.sort
@@ -9,70 +9,67 @@ import io.swagger.models.auth.In;
 public class 线程交替打印100 {
 
     static class PrintNumber {
-        private volatile int number = 1;
+
+        private final AtomicInteger number = new AtomicInteger(1);
         private volatile int value = 1;
 
-        void firstPrint() {
-            synchronized (this) {
-                while(value != 1) {
-                    try {
-                        wait();
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
+        synchronized void firstPrint() {
+            while (value != 1) {
+                try {
+                    wait();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
                 }
-                System.out.println(Thread.currentThread().getName() + ": " + number);
-                number++;
-                value = 2;
-                notifyAll();
             }
+            System.out.println(Thread.currentThread().getName() + ": " + number);
+            number.incrementAndGet();
+            value = 2;
+            notifyAll();
         }
-        void secondPrint() {
-            synchronized (this) {
-                while (value != 2) {
-                    try {
-                        wait();
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
+
+        synchronized void secondPrint() {
+            while (value != 2) {
+                try {
+                    wait();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
                 }
-                System.out.println(Thread.currentThread().getName() + ": " + number);
-                number++;
-                value = 3;
-                notifyAll();
             }
+            System.out.println(Thread.currentThread().getName() + ": " + number);
+            number.incrementAndGet();
+            value = 3;
+            notifyAll();
         }
-        void thirdPrint() {
-            synchronized (this) {
-                while (value!=3) {
-                    try {
-                        wait();
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
+
+        synchronized void thirdPrint() {
+            while (value != 3) {
+                try {
+                    wait();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
                 }
-                System.out.println(Thread.currentThread().getName() + ": " + number);
-                number++;
-                value = 1;
-                notifyAll();
             }
+            System.out.println(Thread.currentThread().getName() + ": " + number);
+            number.incrementAndGet();
+            value = 1;
+            notifyAll();
         }
     }
 
 
     public static void main(String[] args) {
         PrintNumber printNumber = new PrintNumber();
-        Runnable r1 = () ->{
+        Runnable r1 = () -> {
             for (int i = 0; i < 34; i++) {
                 printNumber.firstPrint();
             }
         };
-        Runnable r2 = () ->{
+        Runnable r2 = () -> {
             for (int i = 0; i < 33; i++) {
                 printNumber.secondPrint();
             }
         };
-        Runnable r3 = () ->{
+        Runnable r3 = () -> {
             for (int i = 0; i < 33; i++) {
                 printNumber.thirdPrint();
             }

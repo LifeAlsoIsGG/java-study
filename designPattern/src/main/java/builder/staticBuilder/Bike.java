@@ -1,6 +1,5 @@
-package builder;
+package builder.staticBuilder;
 
-import lombok.Builder;
 import lombok.Data;
 import lombok.ToString;
 

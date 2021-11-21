@@ -1,5 +1,7 @@
 package builder;
 
+import org.junit.Test;
+
 /**
  * @Project: Java-Study
  * @Package: designPattern.builder
@@ -9,27 +11,21 @@ package builder;
  * @Datetime: 2020/12/17  21:54
  */
 public class Client {
-    public static void main(String[] args) {
 
-        //根据Ofo建造者创建Mobike实体类
-        Director MobikeDirector = new Director(new MobikeBuilder());
-        Bike MobikeBike = MobikeDirector.construct();
-        System.out.println("MobikeBike = " + MobikeBike.toString());
-
-        //根据Ofo建造者创建Ofo实体类
-        Director OfoDirector = new Director(new OfoBuilder());
-        Bike OfoBike = OfoDirector.construct();
-        System.out.println("OfoBike = " + OfoBike.toString());
-
-
-        /*测试使用静态内部类Build的build()方法来创建bike*/
-        BikeWithBuild bikeWithBuild = BikeWithBuild.builder()
-                .frame("frame")
-                .build();
-
-        System.out.println("bikeWithBuild = " + bikeWithBuild);
-        BikeWithBuild bikeWithBuild1 = new BikeWithBuild();
-
+    @Test
+    public void clientTest() {
+        Director director = new Director();
+//1万辆A类型的奔驰车
+        for (int i = 0; i < 10000; i++) {
+            director.getABenzModel().run();
+        }
+//100万辆B类型的奔驰车
+        for (int i = 0; i < 1000000; i++) {
+            director.getBBenzModel().run();
+        }
+//1000万辆C类型的宝马车
+        for (int i = 0; i < 10000000; i++) {
+            director.getCBMWModel().run();
+        }
     }
-
 }
