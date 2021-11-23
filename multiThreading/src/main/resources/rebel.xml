@@ -6,12 +6,12 @@
 -->
 <application generated-by="intellij" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.zeroturnaround.com" xsi:schemaLocation="http://www.zeroturnaround.com http://update.zeroturnaround.com/jrebel/rebel-2_3.xsd">
 
-	<id>javastudy.multiThreading.main</id>
+	<id>javastudy.multiThreading.annotationTest</id>
 
 	<classpath>
-		<dir name="D:/repository/java-study/multiThreading/build/resources/main">
+		<dir name="D:/repository/java-study/multiThreading/build/resources/annotationTest">
 		</dir>
-		<dir name="D:/repository/java-study/multiThreading/build/classes/java/main">
+		<dir name="D:/repository/java-study/multiThreading/build/classes/java/annotationTest">
 		</dir>
 	</classpath>
 

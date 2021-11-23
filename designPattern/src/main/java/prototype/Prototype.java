@@ -20,6 +20,7 @@ public class Prototype implements Cloneable {
     private String name;
     private Integer id;
 
+
     @Override
     public Prototype clone() throws CloneNotSupportedException {
         return (Prototype) super.clone();
@@ -33,7 +34,6 @@ public class Prototype implements Cloneable {
         List<Prototype> prototypes = new ArrayList<>();
         for (int i = 0; i < 50; i++) {
             prototype = prototype.clone();
-            prototype.setId(i);
             prototypes.add(prototype);
         }
         prototypes.forEach(System.out::println);

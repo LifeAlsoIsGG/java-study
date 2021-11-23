@@ -19,7 +19,7 @@ Constant pool:
   #10 = Utf8               LocalVariableTable
   #11 = Utf8               this
   #12 = Utf8               Lcom/atguigu/java1/MethodAreaDemo;
-  #13 = Utf8               main
+  #13 = Utf8               annotationTest
   #14 = Utf8               ([Ljava/lang/String;)V
   #15 = Utf8               args
   #16 = Utf8               [Ljava/lang/String;
@@ -58,7 +58,7 @@ Constant pool:
         Start  Length  Slot  Name   Signature
             0       5     0  this   Lcom/atguigu/java1/MethodAreaDemo;
 
-  public static void main(java.lang.String[]);
+  public static void annotationTest(java.lang.String[]);
     descriptor: ([Ljava/lang/String;)V
     flags: ACC_PUBLIC, ACC_STATIC
     Code:

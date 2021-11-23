@@ -12,10 +12,10 @@ import proxy.normal.Hello;
 public class Main {
 
     @Test
-    public void test(){
+    public void test() {
         CglibProxy proxy = new CglibProxy();
         //通过生成子类的方式创建代理类
-        Hello proxyImp = (Hello)proxy.getProxy(Hello.class);
+        Hello proxyImp = (Hello) proxy.getProxy(Hello.class);
         proxyImp.sayHello();
         proxyImp.sayHi();
     }

@@ -8,30 +8,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="update TryCatchDemo 2">
-      <change afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/threadLocal/ThreadLocalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/src/main/java/ThreadLocalTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/src/main/java/线程交替打印100.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/线程交替打印100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/TreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/java/test/TreeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/abstractFactory/AbstractFactoryMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/builder/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/staticBuilder/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/builder/BikeWithBuild.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/staticBuilder/BikeWithBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/builder/Builder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/builder/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/builder/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/builder/Director.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/builder/MobikeBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/builder/OfoBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/factory/FactoryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory/FactoryMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/factory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/chapter09/src/com/atguigu/java1/test2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/chapter09/src/com/atguigu/java1/test2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java1/test2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/out/production/chapter09/com/atguigu/java1/test2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataStructure-algorithm/src/main/resources/rebel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructure-algorithm/src/main/resources/rebel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/out/production/resources/rebel.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/prototype/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/prototype/Prototype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiThreading/out/production/resources/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiThreading/src/main/java/juc/Atomic.java" beforeDir="false" afterPath="$PROJECT_DIR$/multiThreading/src/main/java/juc/Atomic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiThreading/src/main/java/juc/ThreadLocalRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/main/java/juc/ThreadLocalRandomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/proxy/cglib/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/proxy/cglib/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/resources/rebel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/resources/rebel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo/src/main/resources/rebel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo/src/main/resources/rebel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elasticSearch/src/main/resources/rebel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/elasticSearch/src/main/resources/rebel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiThreading/src/main/resources/rebel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/multiThreading/src/main/resources/rebel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/rebel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rebel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/src/main/resources/rebel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/resources/rebel.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +132,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch/7.12.1/5598d129f39c41f27c94d9c835ca193f15a11e6d/elasticsearch-7.12.1-sources.jar!/org/elasticsearch/common/collect/CopyOnWriteHashMap.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjdk.jmh/jmh-core/1.19/807db0289ddcba79fd2dd4e0be67f6eafa8cbf6f/jmh-core-1.19-sources.jar!/org/openjdk/jmh/annotations/Mode.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/multiThreading/build.gradle" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/build.gradle" root0="FORCE_HIGHLIGHTING" />
     <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/time/ZoneOffset.java" root0="SKIP_INSPECTION" />
@@ -158,7 +155,6 @@
     <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/ThreadLocalRandom.java" root0="SKIP_INSPECTION" />
     <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/String.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/dataStructure-algorithm/build.gradle" root0="FORCE_HIGHLIGHTING" />
-    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjdk.jmh/jmh-core/1.19/807db0289ddcba79fd2dd4e0be67f6eafa8cbf6f/jmh-core-1.19-sources.jar!/org/openjdk/jmh/annotations/BenchmarkMode.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/dubbo/build.gradle" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JRebelWorkspace">
@@ -247,7 +243,7 @@
       <command value="gradle jar" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Prototype">
+  <component name="RunManager" selected="JUnit.Main.annotationTest">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -280,80 +276,81 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Main.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-study.designPattern.main" />
+    <configuration name="Main.annotationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-study.util.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="proxy.cglib.*" />
+          <option name="PATTERN" value="annotationAndReflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="proxy.cglib" />
-      <option name="MAIN_CLASS_NAME" value="proxy.cglib.Main" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="annotationAndReflect" />
+      <option name="MAIN_CLASS_NAME" value="annotationAndReflect.Main" />
+      <option name="METHOD_NAME" value="annotationTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-study.designPattern.main" />
+    <configuration name="Main.genericsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-study.util.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="proxy.normal.*" />
+          <option name="PATTERN" value="annotationAndReflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="proxy.normal" />
-      <option name="MAIN_CLASS_NAME" value="proxy.normal.Main" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="annotationAndReflect" />
+      <option name="MAIN_CLASS_NAME" value="annotationAndReflect.Main" />
+      <option name="METHOD_NAME" value="genericsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-study.designPattern.main" />
+    <configuration name="Main.getConstruct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-study.util.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="proxy.dynamic.*" />
+          <option name="PATTERN" value="annotationAndReflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="proxy.dynamic" />
-      <option name="MAIN_CLASS_NAME" value="proxy.dynamic.Main" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="PACKAGE_NAME" value="annotationAndReflect" />
+      <option name="MAIN_CLASS_NAME" value="annotationAndReflect.Main" />
+      <option name="METHOD_NAME" value="getConstruct" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prototype" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-study.designPattern.main" />
+    <configuration name="Main.getFieldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-study.util.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prototype.*" />
+          <option name="PATTERN" value="annotationAndReflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="prototype" />
-      <option name="MAIN_CLASS_NAME" value="prototype.Prototype" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="annotationAndReflect" />
+      <option name="MAIN_CLASS_NAME" value="annotationAndReflect.Main" />
+      <option name="METHOD_NAME" value="getFieldTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prototype.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-study.designPattern.main" />
+    <configuration name="Main.getMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-study.util.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prototype.*" />
+          <option name="PATTERN" value="annotationAndReflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="prototype" />
-      <option name="MAIN_CLASS_NAME" value="prototype.Prototype" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="annotationAndReflect" />
+      <option name="MAIN_CLASS_NAME" value="annotationAndReflect.Main" />
+      <option name="METHOD_NAME" value="getMethod" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -375,21 +372,21 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.Gradle Build" />
-      <item itemvalue="JUnit.Main.test2" />
-      <item itemvalue="JUnit.Main.test (2)" />
-      <item itemvalue="JUnit.Main.test1" />
       <item itemvalue="Spring Boot.DubboApplication" />
       <item itemvalue="Spring Boot.DubboProviderApplication" />
-      <item itemvalue="JUnit.Prototype.test" />
-      <item itemvalue="JUnit.Prototype" />
+      <item itemvalue="JUnit.Main.getFieldTest" />
+      <item itemvalue="JUnit.Main.getMethod" />
+      <item itemvalue="JUnit.Main.getConstruct" />
+      <item itemvalue="JUnit.Main.genericsTest" />
+      <item itemvalue="JUnit.Main.annotationTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Prototype" />
-        <item itemvalue="JUnit.Prototype.test" />
-        <item itemvalue="JUnit.Main.test1" />
-        <item itemvalue="JUnit.Main.test (2)" />
-        <item itemvalue="JUnit.Main.test2" />
+        <item itemvalue="JUnit.Main.annotationTest" />
+        <item itemvalue="JUnit.Main.genericsTest" />
+        <item itemvalue="JUnit.Main.getFieldTest" />
+        <item itemvalue="JUnit.Main.getConstruct" />
+        <item itemvalue="JUnit.Main.getMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -559,7 +556,8 @@
       <workItem from="1635829624210" duration="12003000" />
       <workItem from="1636046924227" duration="30393000" />
       <workItem from="1636871283442" duration="22667000" />
-      <workItem from="1637408861254" duration="1483000" />
+      <workItem from="1637408861254" duration="8000000" />
+      <workItem from="1637593662393" duration="13348000" />
     </task>
     <task id="LOCAL-00001" summary="forth message">
       <created>1627320239076</created>
