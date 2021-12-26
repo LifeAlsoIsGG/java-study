@@ -253,10 +253,10 @@ public class TimeTest {
         String s1 = date.format(DateTimeFormatter.BASIC_ISO_DATE); //20140318
         String s2 = date.format(DateTimeFormatter.ISO_LOCAL_DATE); //2014-03-18
         //适用于LocalDateTime   FormatStyle.SHORT  FormatStyle.LONG FormatStyle.MEDIUM      FormatStyle.FULL
-        DateTimeFormatter.ofLocalizedDate(FormatStyle.SHORT).format(date);//19-12-18
-        DateTimeFormatter.ofLocalizedDate(FormatStyle.LONG).format(date);//2019年12月18日
-        DateTimeFormatter.ofLocalizedDate(FormatStyle.MEDIUM).format(date);//2019-12-18
-        DateTimeFormatter.ofLocalizedDate(FormatStyle.FULL).format(date);//2019年12月18日 星期三
+        System.out.println(DateTimeFormatter.ofLocalizedDate(FormatStyle.SHORT).format(date));
+        System.out.println(DateTimeFormatter.ofLocalizedDate(FormatStyle.LONG).format(date));
+        System.out.println(DateTimeFormatter.ofLocalizedDate(FormatStyle.MEDIUM).format(date));
+        System.out.println(DateTimeFormatter.ofLocalizedDate(FormatStyle.FULL).format(date));
 
         LocalDate date1;
         LocalDate date2;
@@ -274,7 +274,7 @@ public class TimeTest {
             DateTimeFormatter.ofPattern("d. MMMM yyyy", Locale.ITALIAN);
         date1 = LocalDate.of(2014, 3, 18);
         String formattedDat_2 = date.format(italianFormatter); // 18. marzo 2014
-        date2 = LocalDate.parse(formattedDate, italianFormatter);
+        //date2 = LocalDate.parse(formattedDate, italianFormatter);
         // 日期格式“MMM d yyyy”和“MMM dd yyyy”有一些微妙的不同
         // 第一个格式可以解析“Jan 2 2014”和“Jan 14 2014”，而第二个在解析“Jan 2 2014”就会抛异常。
         // 第二个格式里要求日必须是两位的。
