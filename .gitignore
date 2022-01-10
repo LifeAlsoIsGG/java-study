@@ -4,3 +4,5 @@
 *.class
 /.gradle/
 *.class
+.DS_Store
+.gradle/checksums/checksums.lock

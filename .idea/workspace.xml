@@ -8,9 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6159fe47-da24-4162-b98c-23756c7549ed" name="Default Changelist" comment="update TryCatchDemo 2">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/src/main/java/jdk8/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/feature/src/main/java/jdk8/TimeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,27 +57,7 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="java-study" type="f1a62948:ProjectNode" />
-                <item name="util" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="java-study" type="f1a62948:ProjectNode" />
-                <item name="util" type="2d1252cf:ModuleNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="java-study" type="f1a62948:ProjectNode" />
-                <item name="util" type="2d1252cf:ModuleNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="compileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="java-study" type="f1a62948:ProjectNode" />
-                <item name="util" type="2d1252cf:ModuleNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="testCompileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
             </expand>
             <select />
@@ -112,32 +93,22 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/time/OffsetDateTime.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/CopyOnWriteArraySet.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/time/temporal/ChronoUnit.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/multiThreading/build.gradle" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/build.gradle" root0="FORCE_HIGHLIGHTING" />
-    <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/time/ZoneOffset.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/settings.gradle" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/util/src/main/java/classLoaderTest/MyClassLoader.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/elasticSearch/build.gradle" root0="FORCE_HIGHLIGHTING" />
-    <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/time/Duration.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/util/src/main/java/Demo1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MultiThreading/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/settings.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dataStructure-algorithm/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/build.gradle" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/designPattern/build.gradle" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/util/build.gradle" root0="FORCE_HIGHLIGHTING" />
-    <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/ThreadLocalRandom.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/time/Clock.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Locale.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/String.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/ThreadLocal.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/time/LocalDate.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/time/Instant.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/dataStructure-algorithm/build.gradle" root0="FORCE_HIGHLIGHTING" />
-    <setting file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/ref/WeakReference.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ElasticSearch/build.gradle" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dubbo/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/util/src/main/java/classLoaderTest/MyClassLoader.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JRebelWorkspace">
     <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -165,6 +136,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="go.format.on.save.advertiser.fired" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/util/src/main/java/rspResult" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -354,10 +328,10 @@
       <item itemvalue="JUnit.Main.getConstruct" />
       <item itemvalue="JUnit.Main.getFieldTest" />
       <item itemvalue="JUnit.TimeTest.dateTimeFormatterDemo" />
-      <item itemvalue="Spring Boot.DubboApplication" />
-      <item itemvalue="Spring Boot.DubboProviderApplication" />
       <item itemvalue="JUnit.RspResult.test" />
       <item itemvalue="JUnit.Main.test" />
+      <item itemvalue="Spring Boot.DubboApplication" />
+      <item itemvalue="Spring Boot.DubboProviderApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -545,6 +519,10 @@
       <workItem from="1638011560834" duration="584000" />
       <workItem from="1638012619875" duration="490000" />
       <workItem from="1638016704581" duration="2154000" />
+      <workItem from="1640847387016" duration="1369000" />
+      <workItem from="1641179755957" duration="3155000" />
+      <workItem from="1641272528620" duration="4938000" />
+      <workItem from="1641826066430" duration="310000" />
     </task>
     <task id="LOCAL-00001" summary="forth message">
       <created>1627320239076</created>
@@ -592,7 +570,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="forth message" />
